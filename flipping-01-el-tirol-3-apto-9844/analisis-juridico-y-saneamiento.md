@@ -20,74 +20,93 @@ originadas en la Resolución 505 de 2017 de ISVIMED porque se trata de una
 | 3 | **Patrimonio de familia** (a favor de doña María y sus hijos menores) | 009 |
 | 4 | **Afectación a vivienda familiar** (a favor de Wilson Betancur Quiroz) | 010 |
 
-## ⚠️ Lo primero y más importante (antes de patrimonio y afectación)
+## ✅ Actualización (junio 2026)
 
-La consulta fue cómo levantar el **patrimonio de familia** y la **afectación a
-vivienda familiar**, pero el obstáculo mayor para poder *comprar y revender*
-(flipping) son las anotaciones **007 y 008**:
+- **ISVIMED autorizó la venta** y **retira las prohibiciones** (anotaciones 007
+  prohibición de transferencia y 008 derecho de preferencia). → Pendiente que
+  ese acto de ISVIMED quede **registrado en la ORIP** para que las anotaciones
+  desaparezcan del folio. Conviene obtener el documento/resolución de ISVIMED por
+  escrito y verificar su radicación en registro.
+- **Ambos hijos de doña María ya son mayores de edad.** → El patrimonio de
+  familia se puede **cancelar por escritura pública** (vía notarial), **sin
+  necesidad de juez de familia**.
 
-- **Prohibición de transferencia por 10 años:** el subsidio se registró el
-  **09-05-2017**, así que el plazo de 10 años va, en principio, **hasta mayo de
-  2027**. A la fecha de hoy (junio de 2026) **el plazo aún NO ha vencido**.
-  Durante este término el inmueble, por regla general, **no se puede transferir**
-  sin autorización de la entidad otorgante (ISVIMED/FONVIVIENDA). Una notaría
-  puede negarse a autorizar la escritura de compraventa mientras esté vigente.
-- **Derecho de preferencia:** aunque se autorice, el Estado tiene **prioridad
-  para readquirir** el inmueble; hay que surtir/levantar ese trámite.
+Resultado: las cuatro limitaciones se levantan por vía administrativa/notarial.
+Las dos que dependen de nosotros (patrimonio de familia y afectación a vivienda
+familiar) **pueden otorgarse en una sola escritura pública**.
 
-**Implicación práctica:** conviene confirmar con ISVIMED si el inmueble es
-transferible hoy (autorización expresa, excepción aplicable, o si toca esperar a
-mayo de 2027). De esto depende toda la operación; los puntos 3 y 4 son
-secundarios si no se resuelve esto primero.
-
-## Cómo levantar el **Patrimonio de Familia** (Anotación 009)
+## Cómo levantar el **Patrimonio de Familia** (Anotación 009) — vía notarial
 
 Marco: Ley 70 de 1931, Ley 495 de 1999. Constituido a favor de doña María y de
-**sus hijos menores de edad** "actuales y de los que llegaren a tener".
+sus hijos. **Como los dos hijos ya son mayores de edad, NO se requiere juez de
+familia:** se cancela por **escritura pública** en notaría.
 
-- **Si TODOS los hijos beneficiarios ya son mayores de edad:** se puede cancelar
-  por **escritura pública en notaría**, con el consentimiento de la titular y de
-  los beneficiarios mayores.
-- **Si hay hijos menores de edad (caso probable):** se requiere
-  **autorización / licencia judicial ante un Juez de Familia** (proceso de
-  jurisdicción voluntaria), demostrando que el levantamiento beneficia a los
-  menores (típicamente subrogando el patrimonio en otro bien o protegiendo el
-  producto de la venta). Sin esa licencia, la notaría no puede cancelarlo.
+**Quiénes comparecen y firman:**
+- Doña María Villaly Montoya Serna (titular/constituyente).
+- **Los dos hijos beneficiarios** (mayores de edad), manifestando su
+  consentimiento para la cancelación.
 
-➡️ **Acción:** verificar la edad de los hijos de doña María a la fecha. Eso
-define si el trámite es notarial (rápido) o judicial (más demorado).
+**Qué se otorga:** una escritura de **cancelación / levantamiento de patrimonio
+de familia** sobre la matrícula 01N-5433424.
 
-## Cómo levantar la **Afectación a Vivienda Familiar** (Anotación 010)
+## Cómo levantar la **Afectación a Vivienda Familiar** (Anotación 010) — vía notarial
 
-Marco: Ley 258 de 1996, modificada por Ley 854 de 2003.
+Marco: Ley 258 de 1996, modificada por Ley 854 de 2003. Levantamiento de mutuo
+acuerdo, **sin juez**.
 
-- **Vía más común — de mutuo acuerdo:** ambos (doña María **y** su cónyuge/
-  compañero permanente **Wilson Betancur Quiroz**) comparecen ante notaría y
-  firman **escritura pública de levantamiento de la afectación**. Es el camino
-  ágil siempre que los dos estén de acuerdo.
-- **Vía judicial:** procede cuando uno se niega, o por divorcio/separación,
-  cambio de domicilio u otra causal legal.
+**Quiénes comparecen y firman:**
+- Doña María Villaly Montoya Serna.
+- Su cónyuge / compañero permanente **Wilson Betancur Quiroz** (C.C. 71.751.443).
 
-➡️ **Acción:** asegurar que Wilson Betancur Quiroz esté dispuesto a comparecer.
-Sin su firma (o sentencia) no se levanta la afectación.
+**Qué se otorga:** escritura de **levantamiento de la afectación a vivienda
+familiar** sobre la matrícula 01N-5433424.
 
-## Orden sugerido de los trámites
+> 💡 **Las dos cosas en una sola escritura:** la notaría puede redactar **una
+> única escritura pública** que contenga el levantamiento de la afectación **y**
+> la cancelación del patrimonio de familia. Para esa diligencia deben comparecer
+> juntos: **doña María, Wilson y los dos hijos.** Se ahorra una vuelta y un
+> juego de gastos.
 
-1. **Consultar a ISVIMED/FONVIVIENDA** sobre la prohibición de transferencia
-   (007) y el derecho de preferencia (008): ¿transferible hoy o hay que esperar
-   a 2027? ¿Hay autorización posible? **(Bloqueante.)**
-2. **Confirmar la edad de los hijos** → define si el patrimonio de familia se
-   cancela en notaría o requiere juez de familia.
-3. **Levantar afectación a vivienda familiar** por escritura (doña María + Wilson).
-4. **Levantar patrimonio de familia** (notarial o judicial según el paso 2).
-5. **Escriturar la compraventa** a nuestro favor y **registrar** en la ORIP.
-6. Solicitar **nuevo certificado de tradición** para verificar el folio limpio.
+## Procedimiento paso a paso (notaría → registro)
 
-## Documentos / verificaciones pendientes
+1. **Reunir documentos** (ver lista abajo) y elegir notaría (cualquiera; ideal en
+   Medellín por cercanía a la ORIP).
+2. **Solicitar la minuta** a la notaría: escritura de levantamiento de afectación
+   a vivienda familiar + cancelación de patrimonio de familia sobre 01N-5433424.
+3. **Firma de la escritura:** comparecen doña María, Wilson y los dos hijos
+   mayores. Se paga el otorgamiento (derechos notariales).
+4. **Registro en la ORIP Medellín Norte:** llevar la copia de la escritura a
+   registro y pagar el **impuesto de registro** y los derechos de registro. Aquí
+   es donde las anotaciones efectivamente se cancelan en el folio.
+5. **Confirmar las anotaciones 007 y 008 (ISVIMED):** verificar que el acto de
+   ISVIMED que retira la prohibición de transferencia y el derecho de preferencia
+   **ya quedó registrado**. Si no, gestionar su radicación en la ORIP.
+6. **Nuevo certificado de tradición:** una vez registrado todo, sacar un
+   certificado actualizado para confirmar que el folio quedó **limpio** antes de
+   firmar la compraventa a nuestro favor.
 
-- [ ] Concepto de ISVIMED sobre transferibilidad (anotaciones 007 y 008).
-- [ ] Registros civiles de los hijos de doña María (edades).
-- [ ] Disposición de Wilson Betancur Quiroz a firmar el levantamiento.
-- [ ] Promesa de compraventa con condiciones suspensivas (que la venta dependa
-      del saneamiento total del folio).
-- [ ] Paz y salvo de administración, impuesto predial y valorización.
+> Estos levantamientos los otorga **la vendedora** (y su familia), no nosotros.
+> Lo lógico es **dejarlo como condición en la promesa de compraventa** y, en la
+> práctica, hacerlo el mismo día / en la misma notaría que la escritura de venta.
+
+## Documentos para la diligencia
+
+- [ ] Copia de la **escritura de adquisición** (Esc. asociada a Resolución 505 de
+      2017 — anotación 006) y certificado de tradición reciente.
+- [ ] **Cédulas** de doña María (43.491.607), Wilson Betancur (71.751.443) y de
+      los dos hijos.
+- [ ] **Registros civiles de nacimiento** de los hijos (acreditan que son los
+      beneficiarios y que son mayores de edad).
+- [ ] **Documento/resolución de ISVIMED** que autoriza la venta y retira las
+      prohibiciones (anotaciones 007 y 008), con su radicado de registro.
+- [ ] Paz y salvo de **administración**, **impuesto predial** y **valorización**.
+
+## Estado de los trámites
+
+- [x] Concepto de ISVIMED sobre transferibilidad (autoriza venta; retira 007 y 008).
+- [x] Edad de los hijos confirmada (ambos mayores → patrimonio se cancela en notaría).
+- [ ] Verificar que el retiro de ISVIMED (007 y 008) quede **registrado** en la ORIP.
+- [ ] Escritura de levantamiento de afectación + cancelación de patrimonio de familia.
+- [ ] Registro de la escritura en la ORIP Medellín Norte.
+- [ ] Nuevo certificado de tradición con el folio limpio.
+- [ ] Escriturar y registrar la **compraventa** a nuestro favor.
