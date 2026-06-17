@@ -1,0 +1,83 @@
+# CÓDIGO CIVIL COLOMBIANO
+
+> **Nota del transcriptor:** Los textos entre `<...>` son agregados editoriales para facilitar la consulta y no forman parte del texto oficial original.
+
+---
+
+## TÍTULO PRELIMINAR
+
+### CAPÍTULO I. OBJETO Y FUERZA DE ESTE CÓDIGO
+
+**ARTICULO 1o. <DISPOSICIONES COMPRENDIDAS>.** El Código Civil comprende las disposiciones legales sustantivas que determinan especialmente los derechos de los particulares, por razón del estado de las personas, de sus bienes, obligaciones, contratos y acciones civiles.
+
+**ARTICULO 2o. <APLICABILIDAD>.** En el presente Código Civil de la unión se reúnen las disposiciones de la naturaleza expresada en el artículo anterior que son aplicables en los asuntos de la competencia del gobierno general con arreglo a la Constitución, y en los civiles comunes de los habitantes de los territorios que él administra.
+
+**ARTICULO 3o. <OBLIGATORIEDAD>.** Considerado este Código en su conjunto en cada uno de los títulos, capítulos y artículos de que se compone, forma la regla establecida por el legislador colombiano, a la cual es un deber de los particulares ajustarse en sus asuntos civiles.
+
+---
+
+### CAPÍTULO II. DE LA LEY
+
+**ARTICULO 4o. <DEFINICION DE LEY>.** Ley es una declaración de la voluntad soberana manifestada en la forma prevenida en la Constitución Nacional. El carácter general de la ley es mandar, prohibir, permitir o castigar.
+
+**ARTICULO 5o. <PENAS EN LA LEY CIVIL>.** No es necesario que la ley que manda, prohíbe o permita, contenga o exprese en sí misma la pena o castigo en que se incurre por su violación. El Código Penal es el que define los delitos y les señala penas.
+
+**ARTICULO 6o. <SANCION Y NULIDAD>.** La sanción legal no es sólo la pena sino también la recompensa; es el bien o el mal que se deriva como consecuencia del cumplimiento de sus mandatos o de la transgresión de sus prohibiciones.
+
+**ARTICULO 7o. <SANCION CONSTITUCIONAL>.** La sanción constitucional que el poder ejecutivo de la unión da a los proyectos acordados por el congreso, para elevarlos a la categoría de leyes, es cosa distinta de la sanción legal de que habla el artículo anterior.
+
+**ARTICULO 8o. <FUERZA DE LA COSTUMBRE>.** La costumbre en ningún caso tiene fuerza contra la ley. No podrá alegarse el desuso para su inobservancia, ni práctica, por inveterada y general que sea.
+
+**ARTICULO 9o. <IGNORANCIA DE LA LEY>.** La ignorancia de las leyes no sirve de excusa.
+
+---
+
+### CAPÍTULO III. EFECTOS DE LA LEY
+
+**ARTICULO 11. <OBLIGATORIEDAD DE LA LEY>.** La ley es obligatoria y surte sus efectos desde el día en que ella misma se designa, y en todo caso después de su promulgación.
+
+**ARTICULO 14. <LEYES DECLARATIVAS>.** Las leyes que se limitan a declarar el sentido de otras leyes, se entenderán incorporadas en éstas; pero no afectarán en manera alguna los efectos de las sentencias ejecutoriadas en el tiempo intermedio.
+
+**ARTICULO 18. <OBLIGATORIEDAD DE LA LEY>.** La ley es obligatoria tanto a los nacionales como a los extranjeros residentes en Colombia.
+
+---
+
+## LIBRO PRIMERO. DE LAS PERSONAS
+
+### TÍTULO I. DE LAS PERSONAS EN CUANTO A SU NACIONALIDAD Y DOMICILIO
+
+#### CAPÍTULO I. DIVISION DE LAS PERSONAS
+
+**ARTICULO 73. <PERSONAS NATURALES O JURIDICAS>.** Las personas son naturales o jurídicas.
+
+**ARTICULO 74. <PERSONAS NATURALES>.** Son personas todos los individuos de la especie humana, cualquiera que sea su edad, sexo, estirpe o condición.
+
+#### CAPÍTULO II. DEL DOMICILIO
+
+**ARTICULO 76. <CONCEPTO DE DOMICILIO>.** El domicilio consiste en la residencia acompañada, real o presuntivamente, del ánimo de permanecer en ella.
+
+**ARTICULO 84. <EFECTOS DE LA RESIDENCIA>.** La mera residencia hará las veces de domicilio civil respecto de las personas que no tuvieren domicilio civil en otra parte.
+
+---
+
+### TÍTULO II. DEL PRINCIPIO Y FIN DE LA EXISTENCIA DE LAS PERSONAS
+
+**ARTICULO 90. <EXISTENCIA LEGAL>.** La existencia legal de toda persona principia al nacer, esto es, al separarse completamente de su madre. La criatura que muere en el vientre materno, o que perece antes de estar completamente separada de su madre, se reputará no haber existido jamás.
+
+**ARTICULO 91. <PROTECCION AL QUE ESTA POR NACER>.** La ley protege la vida del que está por nacer. El juez tomará las providencias que le parezcan convenientes para proteger la existencia del no nacido.
+
+**ARTICULO 94. <FIN DE LA EXISTENCIA>.** La persona termina en la muerte natural.
+
+---
+
+## ESTRUCTURA DE CONTRATOS Y OBLIGACIONES (LIBRO CUARTO)
+
+**ARTICULO 1494. <FUENTE DE LAS OBLIGACIONES>.** Las obligaciones nacen, ya del concurso real de las voluntades de dos o más personas, como en los contratos o convenciones...
+
+**ARTICULO 1495. <DEFINICION DE CONTRATO>.** Contrato o convención es un acto por el cual una parte se obliga para con otra a dar, hacer o no hacer alguna cosa.
+
+**ARTICULO 1502. <REQUISITOS PARA OBLIGARSE>.**
+1. Que sea legalmente capaz.
+2. Que consienta en dicho acto o declaración y su consentimiento no adolezca de vicio.
+3. Que recaiga sobre un objeto lícito.
+4. Que tenga una causa lícita.
