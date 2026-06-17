@@ -41,8 +41,7 @@ propios") es **necesario pero no suficiente**:
   cómo registrar el costo ni el ingreso** de forma limpia. Por eso el poder
   "ahorra" escrituración pero **te impide declarar bien**.
 
-### Renta ordinaria vs. ganancia ocasional
-- Vender un activo **poseído 2 años o más** → **ganancia ocasional** (tarifa
+### Renta ordinaria vs. ganancia ocasional- Vender un activo **poseído 2 años o más** → **ganancia ocasional** (tarifa
   preferencial).
 - **Flipping** (compras para revender en pocos meses) → es **inventario** y la
   utilidad es **renta ordinaria** (tarifa ordinaria). Tener el CIIU inmobiliario
@@ -54,6 +53,37 @@ propia) y retención en la fuente. **Atención:** alude al **IMAN/IMAS**, sistem
 **eliminado** por la Ley 1819 de 2016 (hoy rige el **sistema cedular**). Sirve de
 contexto histórico, pero **no apliques sus tablas como vigentes**; tu contador usa
 las reglas del año en curso.
+
+### La remodelación (obra gris → obra blanca): SÍ cuenta como costo
+
+Todo lo que invertiste en pasar el apto de obra gris a obra blanca **es costo** y
+**reduce tu utilidad gravable** (en inventario, es **costo de transformación**;
+para activos, el costo fiscal incluye **adiciones y mejoras**, Art. 69 E.T.).
+Esa es justo la plata que baja el impuesto. **Pero cuenta solo si se cumplen dos
+condiciones:**
+
+1. **Que el apto sea tuyo (título).** El costo de la mejora se "pega" al activo
+   que vendes. Si solo tuvieras **poder** y nunca escrituraste a tu nombre, no hay
+   activo tuyo al cual imputar la remodelación → estarías **mejorando un bien
+   ajeno** y la DIAN no te lo aceptaría como costo. → Otro motivo para
+   **escriturar a tu nombre**.
+2. **Que esté soportado con facturas.** La DIAN solo acepta costos con
+   **factura** (electrónica, con requisitos). El punto débil de remodelar es lo
+   **informal**: mano de obra de maestros sin factura, materiales comprados sin
+   soporte. Eso, sin documento, **no se acepta**.
+
+**Para que cuente al máximo:**
+- Guarda **facturas** de materiales y de contratistas (que facturen).
+- La **mano de obra** informal: usa **contrato + pago por banco + documento
+  soporte** para no obligados a facturar (RUT del maestro), no efectivo suelto.
+- El **IVA** que pagaste en materiales/servicios de la remodelación **no se
+  pierde**: como la venta de vivienda usada no genera IVA, ese IVA pagado **entra
+  como mayor valor del costo** (no como IVA descontable).
+- Lleva una **relación de inversión** (planilla) con cada gasto y su soporte.
+
+> En resumen: tu plata de la remodelación **sí cuenta y te conviene** que cuente,
+> porque baja la utilidad y el impuesto. Lo que decide si la DIAN te la reconoce
+> es **tener el título a tu nombre** y **los soportes (facturas)**.
 
 ## 2) ¿Cómo evito la evasión (hacerlo legal)?
 
