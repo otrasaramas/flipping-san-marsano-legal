@@ -41,6 +41,12 @@
 - **Especial y con facultades expresas** (Art. 2158 C.C.): lo no facultado no se
   puede hacer (fijar/recibir precio, firmar escritura y aclaratorias, entregar,
   paz y salvos…).
+- ⚠️ **Un poder GENERAL no sirve para vender** y **no es más blindado**: solo
+  habilita actos de **administración** (Art. 2158 C.C.), la notaría lo rechaza
+  para escriturar, y es **más peligroso** para el poderdante (da poder sobre todos
+  sus asuntos). El blindaje viene de las **cláusulas expresas** del poder
+  **especial** (irrevocabilidad, subsistencia, autocontratación, facultades), no
+  de ser general.
 - **Irrevocabilidad**: el mandato civil es revocable (Art. 2191 C.C.); pero si se
   confiere **también en interés del apoderado o un tercero** puede pactarse
   **irrevocable** (Art. 1279 C.Co), revocable solo por justa causa.
