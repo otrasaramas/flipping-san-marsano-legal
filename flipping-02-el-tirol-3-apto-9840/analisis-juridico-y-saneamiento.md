@@ -20,18 +20,17 @@ de servicios públicos (que normalmente **no impiden** vender).
 > 2027**; por eso es indispensable el **retiro de ISVIMED registrado** para vender
 > ahora.
 
-## Puntos por confirmar (claves para el plan)
-1. **Edad de los hijos de Martha** (anot. 009: "hijos habidos y por haber"):
-   - Si **todos mayores** → cancelación de patrimonio **notarial**.
-   - Si **hay menores** → **licencia judicial** (juez de familia). ⚠️ Esto puede
-     **no alcanzar** para la venta de julio. **Verificar ya.**
+## Puntos confirmados ✅ y por confirmar
+1. **Hijos de Martha: MAYORES de edad** → cancelación de patrimonio de familia
+   **NOTARIAL** (no requiere juez). ✅
 2. **Luis Eduardo Chavarría Carvajal** (beneficiario de la afectación, anot. 010):
-   ¿está disponible para firmar el levantamiento? ¿Relación actual con Martha
-   (cónyuge/compañero)? Sin su firma (o vía judicial), no se levanta la afectación.
-3. **Retiro de ISVIMED**: confirmar estado del radicado en Ventanilla Única
-   (es el cuello de botella del cierre de julio).
-4. **Estructura de compra a Martha**: precio, abonos, saldo; ¿poder + cesión como
-   en el flip 1?
+   **puede venir a firmar en julio** → afectación se levanta por **escritura**,
+   sin vía judicial. ✅ (Su único rol es el levantamiento de la afectación; no
+   firma la compraventa.)
+3. **Retiro de ISVIMED** (anot. 007/008): radicado en Ventanilla Única,
+   **pendiente** → **cuello de botella** del cierre de julio. Seguimiento diario.
+4. **Por confirmar:** estructura de compra a Martha (precio, abonos, saldo) y si
+   se usa **poder + cesión** como en el flip 1.
 
 ## Documentos a firmar (igual esquema que flip 1)
 1. **Levantamiento de afectación + cancelación de patrimonio** (Martha + hijos +
@@ -39,15 +38,30 @@ de servicios públicos (que normalmente **no impiden** vender).
 2. **Poder especial** de Martha (si va a usar cesión y no comparece).
 3. **Otrosí/promesa** con fechas, pagos y saneamiento como condición.
 
+## Secuencia clave: el folio debe quedar limpio para vender
+El folio solo queda limpio **al REGISTRAR** en la ORIP (no al firmar). Como Luis
+Eduardo solo firma en julio, hay dos formas de ordenarlo:
+
+- **Opción recomendada — adelantar lo que se pueda:** cancelar el **patrimonio**
+  (Martha + hijos mayores) **antes de julio**, y empujar el **retiro de ISVIMED**
+  para que quede registrado. Así, en julio solo queda el **levantamiento de la
+  afectación** (con Luis Eduardo) + la **compraventa**.
+- **Opción "todo en julio / mismo turno":** firmar levantamiento de afectación +
+  cancelación de patrimonio + compraventa y **radicarlos juntos** en la ORIP (con
+  el retiro de ISVIMED en el mismo turno), para que el registrador cancele las
+  limitaciones e inscriba la venta en un solo trámite. Es viable pero **más
+  apretado**: si el ISVIMED no ha salido, se frena todo.
+
 ## Línea de tiempo (cierre julio)
 | Cuándo | Acción |
 |---|---|
-| **Ya** | Verificar edad de hijos y disponibilidad de Luis Eduardo; firmar levantamiento+cancelación; poder; otrosí. |
-| **Continuo** | Seguimiento diario al **retiro de ISVIMED** en Ventanilla Única. |
+| **Ya** | Cancelar **patrimonio** (Martha + hijos mayores). Definir estructura/poder. |
+| **Continuo** | **Seguimiento diario al retiro de ISVIMED** (cuello de botella). |
 | **1ª semana julio** | Remodelación lista. |
-| **Al registrar ISVIMED** | Radicar cancelación+levantamiento → folio limpio → certificado nuevo. |
-| **2ª semana julio** | Escritura de compraventa ($180M) → pagar completo el apto 9840 y cerrar. |
+| **Julio (con Luis Eduardo)** | **Levantamiento de afectación**; con ISVIMED ya registrado → folio limpio → certificado nuevo. |
+| **2ª semana julio** | **Escritura de compraventa** ($180M) → pagar completo el apto 9840 y cerrar. |
 
-## ⚠️ Riesgo principal
-Si **hay hijos menores** (patrimonio judicial) o **Luis Eduardo no firma**, el
-saneamiento **no alcanza** para julio. Son los dos puntos a despejar de inmediato.
+## ⚠️ Riesgo principal ahora
+Despejados los hijos y Luis Eduardo, el único riesgo serio es que **el retiro de
+ISVIMED no salga a tiempo**. Mitigación: **seguimiento diario** y dejar las fechas
+del otrosí/promesa con **colchón** (no clavadas a la 2ª semana de julio).
