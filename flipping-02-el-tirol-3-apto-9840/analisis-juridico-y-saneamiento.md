@@ -27,8 +27,10 @@ de servicios públicos (que normalmente **no impiden** vender).
    **puede venir a firmar en julio** → afectación se levanta por **escritura**,
    sin vía judicial. ✅ (Su único rol es el levantamiento de la afectación; no
    firma la compraventa.)
-3. **Retiro de ISVIMED** (anot. 007/008): radicado en Ventanilla Única,
-   **pendiente** → **cuello de botella** del cierre de julio. Seguimiento diario.
+3. **Retiro de ISVIMED** (anot. 007/008): **ISVIMED ya APROBÓ** el levantamiento. ✅
+   Falta: **reclamar el documento → radicarlo en la ORIP → que lo REGISTREN →**
+   sacar certificado nuevo. ⚠️ Aprobado ≠ registrado: las anotaciones 007/008
+   siguen vigentes hasta la inscripción.
 4. **Por confirmar:** estructura de compra a Martha (precio, abonos, saldo) y si
    se usa **poder + cesión** como en el flip 1.
 
@@ -61,7 +63,17 @@ Eduardo solo firma en julio, hay dos formas de ordenarlo:
 | **Julio (con Luis Eduardo)** | **Levantamiento de afectación**; con ISVIMED ya registrado → folio limpio → certificado nuevo. |
 | **2ª semana julio** | **Escritura de compraventa** ($180M) → pagar completo el apto 9840 y cerrar. |
 
+## Próximos pasos del retiro de ISVIMED (ya aprobado)
+1. **Reclamar** el documento/oficio/resolución a ISVIMED (con firma y datos
+   completos).
+2. **Verificar** que cancele **ambas** anotaciones: 007 (derecho de preferencia)
+   y 008 (prohibición de transferencia).
+3. **Radicar en la ORIP Medellín Norte** y guardar el **número de turno**.
+4. Hacer **seguimiento** hasta la inscripción (cuidado con notas devolutivas por
+   documentos incompletos).
+5. Sacar **certificado de tradición nuevo** y confirmar que 007/008 ya no figuran.
+
 ## ⚠️ Riesgo principal ahora
-Despejados los hijos y Luis Eduardo, el único riesgo serio es que **el retiro de
-ISVIMED no salga a tiempo**. Mitigación: **seguimiento diario** y dejar las fechas
-del otrosí/promesa con **colchón** (no clavadas a la 2ª semana de julio).
+Despejados los hijos y Luis Eduardo, y aprobado el ISVIMED, el riesgo se reduce a
+los **tiempos de registro** en la ORIP. Mitigación: radicar **cuanto antes**,
+seguimiento, y dejar las fechas del otrosí/promesa con **colchón**.
