@@ -1,80 +1,60 @@
-# Panorama, estructura y línea de tiempo — Flip 1 (María, El Tirol 9844)
+# Panorama y línea de tiempo — FLIP 1 (María, El Tirol apto 9844)
 
-> Apoyo informativo, **no es asesoría legal**. Confirmar con abogado/notaría.
-> Estado a 30-jun-2026.
+> Apoyo informativo, **no es asesoría legal**. Estado a 30-jun-2026.
+> Matrícula **01N-5433424**. (El flip 2 — Martha, apto 9842 — va en su propia
+> carpeta `flipping-02-...`.)
 
-## Estado actual
+## Estado actual del flip 1
 - **Entrega:** María ya entregó el apartamento. ✅
-- **Pagos a María:** $10.000.000 (firma de promesa) + $30.000.000 (entrega) =
-  **$40.000.000 abonados**. Saldo (hasta $121.000.000 = **$81.000.000**) se paga
-  **cuando esté todo firmado**, con el producto de la reventa.
-- **Crédito hipotecario de $135M:** NO se desembolsa; se está puenteando con
-  efectivo + la reventa.
-- **ISVIMED:** el documento que autoriza levantar la prohibición de transferencia
-  (anot. 007/008) **ya se radicó en la Ventanilla Única de Registro, pendiente de
-  salir**. → **Cuello de botella principal.**
-- **Pendientes de firmar:** (1) poder especial María→Nicolás; (2) otrosí con
-  nuevas fechas y pagos; (3) levantamiento de afectación + cancelación de
-  patrimonio (María + 2 hijos + Wilson).
+- **Pagos a María:** $10.000.000 (promesa) + $30.000.000 (entrega) =
+  **$40.000.000**. Saldo (~$81.000.000 hasta $121.000.000) se paga **cuando esté
+  todo firmado**.
+- **Poder:** María aceptó firmar **poder especial** (para evitar doble
+  escrituración). Pendiente de otorgar.
 
-## El cuello de botella: el folio no queda limpio hasta REGISTRAR
-Para poder escriturar la venta hay que tener registrado:
-1. El **retiro de ISVIMED** (007/008) — pendiente en ventanilla.
-2. La **cancelación de patrimonio** (009) y el **levantamiento de afectación** (010).
+## Limitaciones del folio 01N-5433424 (a sanear)
+| Anot. | Limitación | Quién debe firmar el levantamiento |
+|---|---|---|
+| 007 | Prohibición de transferencia (ISVIMED, 10 años) | Registrar **retiro de ISVIMED** del 9844 |
+| 008 | Derecho de preferencia (ISVIMED) | Igual al anterior |
+| 009 | Patrimonio de familia (María + 2 hijos) | **María + los 2 hijos** (mayores) |
+| 010 | Afectación a vivienda familiar (Wilson) | **María + Wilson Betancur** |
 
-Nada de esto limpia el folio **hasta que la ORIP lo inscriba**. El de ISVIMED no
-depende de nosotros → hay que **hacerle seguimiento diario**.
+> ⚠️ **OJO:** el retiro de ISVIMED que está radicado y pendiente en Ventanilla
+> Única es el del **flip 2 (9842)**. **Confirmar si el 9844 ya tiene radicado su
+> propio retiro de ISVIMED** (007/008); si no, hay que gestionarlo, porque sin eso
+> no se puede transferir este apartamento.
 
-## Wilson (beneficiario de la afectación) está hospitalizado
-Wilson solo interviene en **un acto**: el levantamiento de la afectación a vivienda
-familiar (no firma compraventa ni nada más).
+## Documentos a firmar (flip 1)
+1. **Poder especial blindado** María → Nicolás (escritura pública).
+2. **Otrosí** a la promesa (nuevas fechas y pagos).
+3. **Levantamiento de afectación + cancelación de patrimonio** (escritura pública):
+   firman **María + 2 hijos + Wilson**.
 
-**Opciones (en orden de preferencia):**
-1. **¿Ya están divorciados?** Si María y Wilson están **divorciados**, la
-   disolución del matrimonio puede ser **fundamento para levantar la afectación**
-   (Ley 258/1996, art. 4) — posiblemente **sin necesidad de Wilson**, presentando
-   la sentencia/escritura de divorcio. **Verificar con el abogado: puede eliminar
-   la dependencia de Wilson.**
-2. Si se requiere a Wilson y **está lúcido/capaz**: el **notario puede ir a la
-   clínica** (diligencia fuera del despacho) para que firme; o Wilson otorga un
-   **poder especial por escritura pública** (el notario va a la clínica) y otro
-   firma por él.
-3. ⚠️ Si Wilson **NO está en capacidad** de entender/firmar (sedado, deteriorado):
-   **no puede firmar válidamente** → habría que ir por **vía judicial**. No hacerlo
-   firmar "como sea": sería nulo.
+## Wilson (beneficiario de la afectación, anot. 010) — hospitalizado
+- **Nunca se casaron** → eran compañeros permanentes; **no hay divorcio** como
+  atajo. Se necesita **su consentimiento** para levantar la afectación.
+- Si está **lúcido**: **notario va a la clínica** (diligencia fuera del despacho),
+  o Wilson otorga **poder especial** allí.
+- Si **no está en capacidad**: no puede firmar válidamente → **vía judicial**.
+- **Se puede firmar ahora y radicar el registro después** (cuando salga ISVIMED):
+  la escritura no caduca y el momento de registrar lo controlamos. Útil para
+  **asegurar ya el consentimiento de Wilson**.
 
-### "Firmar ahora y guardar el papel en la notaría hasta que salga ISVIMED" — ¿se puede?
-**Sí.** Se puede **otorgar hoy** la escritura de levantamiento + cancelación (con
-la firma de Wilson en la clínica) y **radicarla para registro más tarde**, cuando
-salga el registro del ISVIMED. La escritura **no caduca**; el momento de llevarla a
-registro lo controlamos nosotros. Así se **asegura el consentimiento de Wilson
-ya** (importante por su salud) y se registra todo junto cuando el folio esté listo.
+## Estructura
+- **Cesión de posición contractual** + poder: una sola escritura **María →
+  comprador final**, firmada por Nico. El margen se declara como ingreso por
+  cesión.
 
-## Cómo conviene estructurar (cesión, no doble escritura)
-- Mantener la **cesión de posición contractual**: una sola escritura **María →
-  comprador final**, firmada por **Nicolás con el poder**. Ahorra el segundo
-  traspaso.
-- En el cierre, el pago del comprador final ($180M) cubre: **saldo a María ($81M)**
-  + recuperación de lo invertido + **margen de Nicolás** (que se declara como
-  ingreso por cesión). La mecánica exacta del pago la coordina la notaría,
-  sobre todo si el **comprador final usa crédito** (el banco desembolsa contra el
-  registro de la venta).
-
-## Línea de tiempo sugerida
+## Línea de tiempo (flip 1)
 | Cuándo | Acción |
 |---|---|
-| **Ya (esta semana)** | Firmar **poder**, **otrosí** y **levantamiento+cancelación** (María + hijos + Wilson en clínica). Guardar la escritura del levantamiento sin radicar aún. |
-| **Ya / continuo** | **Seguimiento diario al ISVIMED** en la Ventanilla Única. |
-| **1ª semana julio** | Remodelación lista. |
-| **Apenas registre ISVIMED** | **Radicar** la cancelación+levantamiento; lograr **folio limpio**; sacar **certificado nuevo**. |
-| **2ª semana julio** | **Escritura de compraventa** (Nico firma por María con el poder) → con los $180M se paga el saldo a María y se cierra. |
+| **Esta semana** | Firmar poder + otrosí + levantamiento/cancelación (María, hijos, Wilson en clínica). Guardar sin radicar. |
+| **Continuo** | Confirmar/gestionar el **retiro de ISVIMED del 9844** y seguirlo. |
+| **Al salir ISVIMED** | Radicar cancelación+levantamiento → folio limpio → certificado nuevo. |
+| **Después** | Escritura de compraventa al comprador final (Nico con el poder) → se paga el saldo a María. |
 
-## ⚠️ Riesgos a vigilar
-- **ISVIMED se demora** → se corre toda la venta de julio. Es el riesgo #1.
-  Mitigación: seguimiento, y dejar en el **otrosí** fechas con **colchón**.
-- **Liquidez:** ya hay ~$80M comprometidos (40 a María + 40 remodelación) y el
-  saldo depende de la reventa. Si la venta se atrasa, considerar el **crédito de
-  $135M como respaldo** para pagarle a María y no incumplir.
-- **Capacidad de Wilson**: confirmar que esté lúcido al firmar (o usar el divorcio
-  / vía judicial).
-- **Valor a declarar** en la escritura María→comprador: definir con el tributarista.
+## Riesgos
+- **ISVIMED del 9844**: confirmar que esté radicado; es condición para vender.
+- **Liquidez**: $40M ya entregados + remodelación; saldo depende del cierre.
+- **Capacidad de Wilson** al firmar.
