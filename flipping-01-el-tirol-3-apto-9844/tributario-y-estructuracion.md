@@ -72,6 +72,17 @@ condiciones:**
    **informal**: mano de obra de maestros sin factura, materiales comprados sin
    soporte. Eso, sin documento, **no se acepta**.
 
+**Contratar a un tercero que remodele (legítimo):** pagarle a un contratista que
+haga la obra y te **emita factura** es la forma correcta de soportar el costo. Es
+válido siempre que: (a) la obra y el pago sean **reales**; (b) el valor **no esté
+inflado** (facturar más que la obra real = simulación); (c) el contratista
+**declare** ese ingreso. Si está **obligado a facturar** → exige **factura
+electrónica** (la cuenta de cobro no basta); si **no** está obligado → cuenta de
+cobro + **documento soporte** electrónico que tú generas. Si eres **agente de
+retención**, practícale la **retención en la fuente**. Las facturas de
+**materiales a nombre del contratista** son costo de él; tu costo es **su factura
+por el servicio**.
+
 **Para que cuente al máximo:**
 - Guarda **facturas** de materiales y de contratistas (que facturen).
 - La **mano de obra** informal: usa **contrato + pago por banco + documento
