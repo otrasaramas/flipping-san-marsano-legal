@@ -1,41 +1,34 @@
-# Estática y remodelación
+# Estética y remodelación
 
-Rama y carpeta dedicadas a **todo lo estructural y de obra** de nuestros flips:
-qué se puede tumbar/mover, qué licencias se necesitan, cómo blindar la
-remodelación (técnica y legalmente) y cómo dejar soporte para que la obra
-**cuente como costo** y no genere problemas de responsabilidad.
+Rama y carpeta dedicadas al **diseño interior y la remodelación** de nuestros
+flips: **color, acabados, iluminación, armonía del espacio** y también lo
+**técnico/estructural** (qué se puede tumbar o mover). El objetivo estético es que
+cada apto se vea lo más **luminoso, amplio, acogedor y "lujoso"** posible para
+vender mejor y más rápido.
 
-> ⚠️ **Disclaimer:** apoyo informativo, **NO es asesoría técnica ni legal**.
-> Toda intervención estructural la debe avalar un **ingeniero civil/estructural**
-> y, cuando aplique, un **curador urbano / licencia**. Cada documento es un
-> **borrador** para revisar con el profesional idóneo.
+> ⚠️ **Disclaimer:** apoyo informativo. Las propuestas de diseño son
+> **sugerencias para validar con muestras reales**; toda intervención estructural
+> la debe avalar un **ingeniero/curador**. Cada documento es un **borrador**.
 
 ## Qué va en esta carpeta
-- `00-marco-tecnico-y-legal.md` — NSR-10, licencias de construcción/reforma,
-  curadurías, propiedad horizontal (Ley 675/2001) y responsabilidades.
-- `01-checklist-remodelacion.md` — checklist de obra por flip (alcance, permisos,
-  seguridad, soportes).
-- *(por crear)* concepto/aval estructural por inmueble, planos, presupuestos,
-  actas de vecindad, registros fotográficos antes/después.
+- `02-paletas-de-color-y-acabados.md` — **(principal)** paletas de color, paredes,
+  salpicadero, baño, iluminación y trucos para verse grande/luminoso/lujoso.
+- `00-marco-tecnico-y-legal.md` — lo estructural: NSR-10, licencias, propiedad
+  horizontal (qué se puede intervenir en una reforma).
+- `01-checklist-remodelacion.md` — checklist de obra por flip (permisos, seguridad,
+  soportes).
+- *(por crear)* fichas de acabados por inmueble, moodboards, presupuestos.
+
+## Principios de diseño (resumen)
+- **Base clara y continua + 1–2 acentos repetidos + metales coherentes + luz cálida.**
+- El lujo se lee por **restricción y coherencia**, no por meter mucho color.
+- Máximo **3–4 colores** en todo el apto; repetirlos en cada ambiente.
+- **Blanco cálido/hueso** en paredes (no blanco puro helado ni crema amarilla).
+- **Luz 2700–3000 K** pareja en toda la casa; herrajes de un solo acabado.
 
 ## Cómo se conecta con el resto del repo
-- **Costos y tributario:** el soporte documental de la obra (facturas / documento
-  soporte DIAN) vive en `plantillas/05-soporte-remodelacion-dian.md` y
-  `plantillas/06-cuenta-de-cobro-remodelacion.md`. Aquí nos enfocamos en lo
-  **técnico y de permisos**; allá en lo **fiscal**.
-- **Por operación:** cada flip guarda su aval estructural y presupuesto en su
-  carpeta `flipping-NN-<nombre>/`, y aquí dejamos las **plantillas y criterios**
-  reutilizables.
-
-## Reglas rápidas (resumen)
-- **No tocar estructura sin aval:** columnas, vigas, muros de carga, losas y
-  cimentación → requieren concepto de **ingeniero estructural**.
-- **Muros divisorios (no estructurales):** se pueden mover con más libertad, pero
-  ojo con instalaciones (hidráulicas, eléctricas, gas) y con el **reglamento de
-  propiedad horizontal**.
-- **Fachada, áreas comunes y volumetría:** casi siempre requieren autorización de
-  la **asamblea/consejo de administración** (Ley 675/2001) y a veces licencia.
-- **Licencia de construcción (modalidad reforzamiento/modificación):** se tramita
-  ante **curador urbano** cuando hay cambios estructurales o de área.
-- **Documentar todo:** acta de vecindad, fotos antes/después, planos y facturas →
-  sirven para seguridad, para responsabilidad y como **costo deducible**.
+- **Costos/tributario:** el soporte fiscal de la obra vive en
+  `plantillas/05-soporte-remodelacion-dian.md` y `plantillas/06-...`. Aquí va lo
+  **estético y técnico**; allá lo **fiscal**.
+- **Por operación:** cada flip guarda su **ficha de acabados** y presupuesto en su
+  carpeta `flipping-NN-<nombre>/`; aquí quedan las **paletas y criterios** reutilizables.
