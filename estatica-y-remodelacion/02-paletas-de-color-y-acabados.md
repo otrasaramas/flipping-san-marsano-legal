@@ -14,15 +14,37 @@ color.
 ## 1. Los elementos fijos (tu base)
 | Elemento | Color | Nota |
 |---|---|---|
-| Madera **Alaska** (cocina) | roble claro **greige / frío** (no arena) | ~`#D7CDBE` |
+| Madera cocina | **gris frío** (tipo Alaska, no arena) | ~`#CFC7BA` |
 | **Mesón** | **Blanco Polar** | blanco limpio ~`#F2F0EA` |
-| **Piso** | porcelánico blanco **cálido**, brillante | ~`#E9E3D8` |
-| **Clósets/puertas** | roble un poco **más cálido** que el Alaska | ~`#C6A886` |
+| **Accesorios cocina** | **negro** (tiradores, grifería, campana) | ~`#26221F` |
+| **Piso** | porcelánico **taupe**, un poco cálido | ~`#B5A78F` |
+| **Clósets/puertas** | por definir → ver recomendación abajo | — |
 
-**Lectura de subtono:** la Alaska es **fría/gris**, el piso es **cálido**. Para
-que convivan, el puente es un **"greige" (gris cálido)** en paredes/textiles.
+**Lectura de subtono:** la madera de la cocina es **fría/gris** y el piso es un
+**taupe cálido**. Para que convivan, el puente es un **"greige" (gris cálido)** en
+paredes y textiles.
 👉 Por eso **no** conviene una crema amarilla fuerte (pelea con la madera gris)
 ni un blanco puro helado (se ve frío y "vacío"). El punto medio manda.
+
+**El metal ya está decidido:** como la cocina lleva **todo en negro**, el negro
+mate pasa a ser **el acabado de herrajes de toda la casa** (puertas, baño,
+lámparas). Coherencia = lujo. Nada de mezclar dorados por aquí y allá.
+
+### Clósets: ¿mismo gris de la cocina o roble? → **recomiendo roble cálido**
+Las dos funcionan; te explico para que elijas:
+- **Roble cálido (mi recomendación).** Deja el **gris de la cocina como el
+  "protagonista"** y envuelve las alcobas/pasillo con **madera cálida + piso
+  taupe** → mucho más **acogedor** y se fotografía cálido (vende más rápido).
+  ✔ Regla para que se vea intencional y no "descoordinado": que los dos maderos
+  sean **claramente distintos** (uno gris frío, otro roble cálido), **nunca casi
+  iguales**; y usar **un solo tono de roble** repetido en todos los clósets/puertas.
+  Referencia ~`#C6A886`.
+- **Mismo gris de la cocina** (Alaska en todo). Look **monolítico y minimalista**,
+  máxima coherencia y bajo riesgo. ✔ Elígelo si quieres lo más sobrio; solo cuida
+  **sumar calidez** con textiles y luz para que no se sienta frío. Referencia ~`#CFC7BA`.
+
+> En corto: **roble** si priorizas *acogedor y cálido*; **gris igual** si priorizas
+> *minimalista y monocromático*. El piso taupe y las paredes hueso amarran cualquiera de las dos.
 
 ## 2. Paredes: ¿blanco o crema? → **blanco cálido (hueso)**
 - **No** blanco puro brillante: en apto vacío se ve **frío y barato**.
@@ -43,7 +65,7 @@ Todo neutro y cálido; el "color" entra por **textiles y un acento arcilla**.
 - Paredes: **blanco cálido** `#EDE8DD`
 - Puente/acento suave (un muro o textiles): **greige** `#BCAF9C`
 - Acento cálido (cojines, arte, bandeja, cerámica): **arcilla/terracota** `#B5794F`
-- Metales/herrajes: **negro mate** `#2B2724` + toques **latón** `#B08D57`
+- Metales/herrajes: **negro mate** `#26221F` (fijo, como la cocina)
 - Backsplash: **mármol blanco veta gris cálido** (Calacatta look)
 - **Ideal si:** quieres algo atemporal, cálido y de bajo riesgo para revender.
 
@@ -52,14 +74,15 @@ Base clara + **verde salvia** apagado (muy actual, calma y se ve caro).
 - Paredes: **blanco suave** `#EDE9E0`
 - Acento: **verde salvia** `#9BA88C` (un muro, el baño o el backsplash)
 - Drama opcional (un solo muro): **verde bosque** `#3F4F3E`
-- Metales: **negro mate** o **níquel cepillado**
+- Metales: **negro mate** `#26221F` (fijo, como la cocina)
 - **Ideal si:** quieres sensación **spa**, ligera y luminosa.
 
 ### Paleta C — Contraste Sofisticado (drama-luxe) · *la más "lujosa"*
 Base clara + **un muro profundo** que da profundidad (agranda por contraste).
 - Paredes: **blanco cálido** `#EDE8DD`
 - Muro protagonista (TV o cabecera): **azul noche** `#2C3A48` **o** **verde bosque** `#33453B`
-- Acento metálico: **latón/oro** `#B99863`
+- Metales/herrajes: **negro mate** `#26221F` (fijo). El "lujo" lo da el muro
+  profundo + la madera, no el metal.
 - La madera cálida amarra todo.
 - **Ideal si:** quieres el efecto "apto de revista". Úsalo en **un solo muro**
   por ambiente, no en todos.
@@ -83,7 +106,7 @@ en orden de recomendación:
 Fórmula lujo-atemporal: **base blanca + madera + negro + un verde**.
 - Muros: **porcelánico grande blanco** o **mármol look** → agranda e ilumina.
 - Mueble/vanity: **madera** (eco de la cocina) + lavamanos/superficie **blanca**.
-- Grifería/accesorios: **negro mate** (o **latón** si vas por Paleta C).
+- Grifería/accesorios: **negro mate** (igual que la cocina).
 - **Acento**: media pared o nicho en **verde salvia** `#9BA88C` (Paleta B) o solo
   con **plantas + toallas** de color. Un **espejo grande** (mejor retroiluminado)
   multiplica luz.
@@ -104,7 +127,7 @@ Fórmula lujo-atemporal: **base blanca + madera + negro + un verde**.
 - **Luz cálida y pareja: 2700–3000 K** en todo (nada de luz blanca fría). Ilumina
   en capas (techo + puntos + tira LED, como la del pasillo). Bombillos **iguales**.
 - **Espejos** grandes que reboten luz natural.
-- **Herrajes del mismo acabado** en todo el apto (negro mate *o* latón, no mezcla).
+- **Herrajes del mismo acabado** en todo el apto: **negro mate** (tu cocina ya lo define). No mezclar dorados.
 - **Cocina**: frentes coherentes, tiradores slim o sin tirador → limpio.
 - **Menos es más**: muebles bajos, despejar, pocas piezas buenas.
 
@@ -112,7 +135,8 @@ Fórmula lujo-atemporal: **base blanca + madera + negro + un verde**.
 - Paredes **blanco cálido/hueso**; techos **blanco puro**.
 - Backsplash **mármol blanco veta gris** (o Blanco Polar continuo).
 - Baño **blanco + madera + negro mate** con un toque **salvia**.
+- Clósets/puertas en **roble cálido** (para acoger) — o gris igual a la cocina si quieres monocromático.
 - Acento de la casa: **verde salvia** (fresco) **o** **arcilla** (cálido) — elige uno
   y repítelo en textiles + 1 muro.
-- Metales: **negro mate** en toda la casa (latón solo si vas full Paleta C).
+- Metales: **negro mate** en toda la casa (ya lo define la cocina).
 - Luz **2700–3000 K** en todo.
