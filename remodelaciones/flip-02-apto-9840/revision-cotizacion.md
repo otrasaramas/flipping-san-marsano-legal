@@ -41,6 +41,17 @@ mano, no calculados):
 → Pedir al contratista que **corrija** para que el total sea la **suma real** de
 los ítems.
 
+## 🚽 Falta el SANITARIO en materiales
+En materiales del baño compran **ducha ($100k)**, **mueble lavamanos ($400k)** y
+**lavamanos y llave ($160k)**, pero **NO hay inodoro/sanitario**. Lo único del
+sanitario está en mano de obra: *"Desmonte e instalación nuevamente de sanitario
+y lavamanos"* → asume **reutilizar el existente**.
+- Si se va a poner **sanitario nuevo**, **falta el material** (~$200.000–$400.000).
+- **Incoherencia:** esa línea dice reinstalar el lavamanos "nuevamente", pero en
+  materiales **sí compran lavamanos nuevo** → la descripción quedó desactualizada.
+- **Preguntar al contratista:** ¿sanitario se reutiliza o se cambia? Para un flip,
+  suele convenir baño completo nuevo.
+
 ## Ítems poco detallados (pedir desglose)
 - "cables, silicona, canaletas, tuberías, chazos etc" — **$400.000** global.
 - "Adecuación barra de cocina" — **$300.000** sin cantidad/detalle.
