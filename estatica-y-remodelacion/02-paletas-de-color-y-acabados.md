@@ -90,22 +90,35 @@ Base clara + **un muro profundo** que da profundidad (agranda por contraste).
 > **Regla de oro:** máximo **3–4 colores** en todo el apto (base + 1–2 acentos +
 > madera). Repite esos mismos colores en cada ambiente → se lee **diseñado**.
 
-## 4. Salpicadero (backsplash) de la cocina
-El floral actual **recarga y abarata**. Con **mesón Blanco Polar + madera Alaska**,
-en orden de recomendación:
-1. **Porcelánico mármol blanco con veta gris cálida** (Calacatta/Carrara look),
-   a **altura completa** y con **poca junta** → luminoso, sin costuras, **costoso**. ⭐
-2. **Blanco Polar continuo** (el mismo del mesón subiendo la pared) → monolítico,
-   ultra limpio, moderno.
-3. **Zellige / tableta artesanal** en **blanco cálido** o **verde salvia** →
-   textura + color suave, aire **boutique/acogedor**.
+## 4. Salpicadero y zona húmeda — DEFINIDO ✅
+**Decisión:** **porcelánico gris claro tipo mármol/ónix, brillante (pulido),
+formato grande con veta**, como **hilo conductor** en:
+- **Salpicadero de la cocina** (altura completa hasta muebles altos).
+- **Zona húmeda** (muros del baño; y patio/labores si se quiere continuidad).
 
-**Evitar:** estampados florales, negro de alto contraste, patrones ruidosos.
+Por qué funciona con tu cocina (madera **gris frío** + mesón **Blanco Polar** +
+accesorios **negros**): mismo **subtono frío** → cohesión total; **formato grande +
+pulido** → casi sin juntas, sin costuras, se ve **premium** y **refleja luz**; la
+**veta** da el "boost" de lujo sin meter un color nuevo. Repetirlo en cocina y baño
+amarra todo el apto.
+
+**Notas técnicas (para que quede perfecto):**
+- **Regla de oro veta/liso:** el mesón Blanco Polar es liso → el mármol **puede ser
+  el protagonista con veta**. Nunca dos superficies recargadas juntas.
+- Elegir una placa con el **veteado que enamore**; si se puede **espejo/book-match**
+  entre placas, mejor. **Gris claro** (no oscuro, para no bajar luz).
+- **Altura completa** y **mínima junta**; lechada tono **gris claro** a juego.
+- ⚠️ **Piso de ducha: NO usar esta pieza pulida** (resbala mojada). Usar formato
+  **pequeño o antideslizante/mate** a juego. Muros sí en el mármol brillante.
+
+**Descartado:** metro/subway blanca (atemporal pero "bistró", menos lujo);
+"Stona Matt" travertino (rústico/cálido, pelea con la cocina limpia); estampados.
 
 ## 5. Baño
-Fórmula lujo-atemporal: **base blanca + madera + negro + un verde**.
-- Muros: **porcelánico grande blanco** o **mármol look** → agranda e ilumina.
-- Mueble/vanity: **madera** (eco de la cocina) + lavamanos/superficie **blanca**.
+Fórmula lujo-atemporal: **mármol gris + madera + negro + un verde**.
+- Muros: **el mismo porcelánico gris tipo mármol** del salpicadero → coherencia con
+  la cocina, agranda e ilumina. (Piso de ducha en versión **antideslizante/mate** a juego.)
+- Mueble/vanity: **madera** (eco de la cocina; roble o gris) + lavamanos/superficie **blanca**.
 - Grifería/accesorios: **negro mate** (igual que la cocina).
 - **Acento**: media pared o nicho en **verde salvia** `#9BA88C` (Paleta B) o solo
   con **plantas + toallas** de color. Un **espejo grande** (mejor retroiluminado)
@@ -133,8 +146,8 @@ Fórmula lujo-atemporal: **base blanca + madera + negro + un verde**.
 
 ## 8. Recomendación express (si quieres ir a la fija)
 - Paredes **blanco cálido/hueso**; techos **blanco puro**.
-- Backsplash **mármol blanco veta gris** (o Blanco Polar continuo).
-- Baño **blanco + madera + negro mate** con un toque **salvia**.
+- Backsplash y zona húmeda **mármol gris claro brillante con veta** (definido ✅).
+- Baño **mármol gris + madera + negro mate** con un toque **salvia**.
 - Clósets/puertas en **roble cálido** (para acoger) — o gris igual a la cocina si quieres monocromático.
 - Acento de la casa: **verde salvia** (fresco) **o** **arcilla** (cálido) — elige uno
   y repítelo en textiles + 1 muro.
