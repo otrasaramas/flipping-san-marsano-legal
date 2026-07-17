@@ -41,6 +41,27 @@
 - [ ] **Copias de cédula de poderdantes Y apoderados**, con datos de:
       **dirección, teléfono, ocupación y correo** de cada uno.
 
+## ⚠️ Caso VIP: predio EXENTO de predial/catastro (no dan paz y salvo)
+Si el predio es **VIP** y está **exento** del impuesto predial (cobijado por la
+ley del subsidio), Catastro/Hacienda **no emite el paz y salvo estándar** porque
+no hay impuesto que saldar. **No es una deuda — es una exención.** Qué hacer:
+1. Pedir a la **Alcaldía de Medellín (Secretaría de Hacienda / Catastro)** una
+   **certificación por escrito** de que el predio está **exento** del predial (o
+   "al día / en ceros"), **citando la norma**. Ese documento **reemplaza** el paz
+   y salvo.
+2. Pedir también el **boletín / certificado catastral** (avalúo + ficha): Catastro
+   sí lo emite aunque el predio esté exento (todo predio tiene ficha y avalúo).
+   Es el "Certificado de Avalúo Predial Vigente" que la notaría acepta como
+   alternativa.
+3. **Confirmar con la protocolista (Nydia)** que acepta esos dos documentos en
+   reemplazo del paz y salvo — las notarías manejan VIP con frecuencia.
+4. **Valorización diferida (a 10 años de la entrega):** es una obligación
+   **futura**, no una deuda actual → no frena la escritura, **pero la hereda el
+   comprador final**. Divulgarla por escrito en la **promesa/escritura** para
+   evitar reclamos después.
+> Regla: conseguir todo **por escrito**; un "no se paga" verbal no sirve en la
+> notaría.
+
 ## Notas para nuestros flips
 - El **certificado de libertad** debe sacarse **fresco** (<1 mes) y **después** de
   que estén registrados los levantamientos (ISVIMED, patrimonio, afectación),
