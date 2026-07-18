@@ -64,13 +64,19 @@ Eduardo solo firma en julio, hay dos formas de ordenarlo:
 | **2ª semana julio** | **Escritura de compraventa** ($180M) → pagar completo el apto 9840 y cerrar. |
 
 ## Próximos pasos del retiro de ISVIMED (ya aprobado)
-1. **Reclamar** el documento/oficio/resolución a ISVIMED (con firma y datos
-   completos).
+1. ~~**Reclamar** el documento/oficio/resolución a ISVIMED~~ ✅ Oficio SN del
+   **09/07/2026** de ISVIMED.
 2. **Verificar** que cancele **ambas** anotaciones: 007 (derecho de preferencia)
    y 008 (prohibición de transferencia).
-3. **Radicar en la ORIP Medellín Norte** y guardar el **número de turno**.
+3. ~~**Radicar en la ORIP Medellín Norte**~~ ✅ **RADICADO el 16-07-2026**:
+   - **Turno No. 2026-01N-6-29681** (solicitante: Martha Lucía Morales,
+     tel. 3015659016).
+   - Actos: **cancelación por voluntad…** (cód. 843) y **cancelación
+     condic…** (cód. 76) — coinciden con levantar las anotaciones 007/008.
+   - Forma de pago: **EXENTO $0** (coherente con predio VIP exento).
 4. Hacer **seguimiento** hasta la inscripción (cuidado con notas devolutivas por
-   documentos incompletos).
+   documentos incompletos). ⚠️ **NO desistir de este turno**: es el cuello de
+   botella del cierre; desistirlo revive el problema de las anotaciones 007/008.
 5. Sacar **certificado de tradición nuevo** y confirmar que 007/008 ya no figuran.
 
 ## ⚠️ Riesgo principal ahora
