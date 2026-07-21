@@ -36,13 +36,18 @@ matrícula **01N-5433424** (Apto 9844, Torre 7, Piso -2, Conjunto Tirol III, Cal
 El poder declara **bajo juramento** que María y Wilson son **compañeros permanentes
 con unión marital de hecho VIGENTE entre sí**, y sobre esa base autoriza cancelar
 la afectación a vivienda familiar y el patrimonio de familia (Ley 258/1996). En
-realidad **están separados / ya no son pareja**. Si la unión no estaba vigente al
-firmar (30-jun-2026), la declaración es **inexacta** y puede volver **atacable** la
-cancelación de las limitaciones y, con ella, la escritura.
-- **Definir:** ¿se separaron antes o después del 30-jun-2026?
-- **Acción:** consultar con notaría/abogado si procede **escritura aclaratoria** del
-  estado civil **antes de escriturar**. Que Wilson consienta la venta es bueno; el
-  problema es la palabra "vigente".
+realidad **están separados**. **CONFIRMADO: se separaron ANTES del 30-jun-2026**,
+por lo que al firmar el poder la unión **NO estaba vigente** → la declaración
+juramentada es **falsa** y puede volver **atacable** la cancelación de las
+limitaciones y, con ella, la escritura. La **compradora** es quien queda expuesta
+(título atacable), por lo que **NO debe ignorarse**.
+- **Acción antes de escriturar:** que la notaría/abogado haga una **escritura
+  aclaratoria** del estado civil con los hechos reales (separados), o ajuste la
+  declaración. La afectación/patrimonio **sí se pueden levantar de común acuerdo
+  entre (ex)compañeros** (Ley 258/1996) — ambos ya firmaron el poder —, solo hay
+  que declarar **la verdad** en lugar de una unión "vigente".
+- **No** paperear ni ocultar: es declaración juramentada falsa ante notario y deja
+  el título del comprador en riesgo.
 
 ## 🔎 Por confirmar
 - [ ] Que quedó como **ESCRITURA PÚBLICA con número y fecha** (no solo autenticado).
