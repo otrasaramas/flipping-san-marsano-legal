@@ -131,10 +131,15 @@ penal, sin perjuicio de las demás acciones legales. Lo anterior no menoscaba la
 retención del saldo (cláusula SEGUNDA, numeral 4) mientras persista el
 incumplimiento.
 
-**OCTAVA. GASTOS.** Los gastos notariales, de registro e impuesto de registro
-derivados de la compraventa se asumirán así: **[por definir entre las partes / por
-mitades / por cuenta del comprador]**. Los costos del saneamiento del folio
-(cláusula CUARTA) estarán a cargo de **LA PROMITENTE VENDEDORA**.
+**OCTAVA. GASTOS.** Los gastos de **notaría** (derechos notariales), de **rentas**
+(impuesto de registro) y de **registro** (derechos de la Oficina de Registro de
+Instrumentos Públicos) derivados de la escritura de compraventa se asumirán **por
+partes iguales, es decir, el cincuenta por ciento (50%) a cargo de cada parte**.
+Los costos de los **levantamientos y del saneamiento del folio** (cláusula CUARTA:
+cancelación del patrimonio de familia, levantamiento de la afectación a vivienda
+familiar, retiro de las limitaciones de ISVIMED/Ley 1537 de 2012 y las
+certificaciones respectivas) estarán **en su totalidad a cargo de LA PROMITENTE
+VENDEDORA**.
 
 **NOVENA. VIGENCIA.** En todo lo demás continúa vigente el contrato de promesa de
 compraventa suscrito el 13 de mayo de 2026.
