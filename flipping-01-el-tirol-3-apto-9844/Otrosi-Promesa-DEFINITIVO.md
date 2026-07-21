@@ -103,7 +103,13 @@ de compraventa se otorgará con base en el poder especial referido en el parágr
 de la cláusula CUARTA. LA PROMITENTE VENDEDORA se obliga a **no revocar dicho poder
 sino por justa causa comprobada** hasta el perfeccionamiento y registro de la venta.
 
-**SÉPTIMA. INCUMPLIMIENTO Y CLÁUSULA PENAL.** Si LA PROMITENTE VENDEDORA **revoca
+**SÉPTIMA. FECHA DE LA ESCRITURA.** Las partes modifican la promesa en el sentido de
+que la **escritura pública de compraventa se otorgará en la fecha que determine LA
+PROMITENTE VENDEDORA**, una vez culminado el saneamiento del folio (cláusula
+CUARTA), quedando **sin efecto cualquier fecha de escrituración fijada en el
+contrato de promesa original**.
+
+**OCTAVA. INCUMPLIMIENTO Y CLÁUSULA PENAL.** Si LA PROMITENTE VENDEDORA **revoca
 indebidamente el poder**, **no obtiene el saneamiento** en el plazo de la cláusula
 CUARTA, o **se niega a otorgar o hacer otorgar la escritura pública**, EL PROMITENTE
 COMPRADOR podrá, a su elección, **exigir el cumplimiento forzoso** del contrato
@@ -114,7 +120,7 @@ PROMITENTE VENDEDORA deberá **restituir la totalidad de las sumas recibidas
 demás acciones legales. Lo anterior no menoscaba la retención del saldo (cláusula
 SEGUNDA, numeral 5) mientras persista el incumplimiento.
 
-**OCTAVA. GASTOS.** Los gastos de **notaría** (derechos notariales), de **rentas**
+**NOVENA. GASTOS.** Los gastos de **notaría** (derechos notariales), de **rentas**
 (impuesto de registro) y de **registro** (derechos de la Oficina de Registro de
 Instrumentos Públicos) derivados de la escritura de compraventa se asumirán **por
 partes iguales, es decir, el cincuenta por ciento (50%) a cargo de cada parte**.
@@ -124,7 +130,7 @@ familiar, retiro de las limitaciones de ISVIMED/Ley 1537 de 2012 y las
 certificaciones respectivas) estarán **en su totalidad a cargo de LA PROMITENTE
 VENDEDORA**.
 
-**NOVENA. VIGENCIA.** En todo lo demás continúa vigente el contrato de promesa de
+**DÉCIMA. VIGENCIA.** En todo lo demás continúa vigente el contrato de promesa de
 compraventa suscrito el 13 de mayo de 2026.
 
 En señal de conformidad, se lee y firma por los interesados en dos (2) ejemplares
