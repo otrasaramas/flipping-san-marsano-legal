@@ -104,8 +104,8 @@ de la cláusula CUARTA. LA PROMITENTE VENDEDORA se obliga a **no revocar dicho p
 sino por justa causa comprobada** hasta el perfeccionamiento y registro de la venta.
 
 **SÉPTIMA. FECHA DE LA ESCRITURA.** Las partes modifican la promesa en el sentido de
-que la **escritura pública de compraventa se otorgará en la fecha que determine LA
-PROMITENTE VENDEDORA**, una vez culminado el saneamiento del folio (cláusula
+que la **escritura pública de compraventa se otorgará en la fecha que determine EL
+PROMITENTE COMPRADOR**, una vez culminado el saneamiento del folio (cláusula
 CUARTA), quedando **sin efecto cualquier fecha de escrituración fijada en el
 contrato de promesa original**.
 
