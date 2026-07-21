@@ -8,9 +8,9 @@
 
 Los suscritos a saber: **MARÍA VILLALY MONTOYA SERNA**, mayor de edad, domiciliada
 en el municipio de Medellín, identificada con la cédula de ciudadanía número
-**43.491.607**, de estado civil soltera sin unión marital de hecho, quien actúa en
-este acto en su propio nombre y representación, y para todos los efectos de este
-contrato se denominará **LA PROMITENTE VENDEDORA**; y **NICOLÁS MEJÍA ACEVEDO**,
+**43.491.607**, de estado civil **soltera**, quien actúa en este acto en su propio
+nombre y representación, y para todos los efectos de este contrato se denominará
+**LA PROMITENTE VENDEDORA**; y **NICOLÁS MEJÍA ACEVEDO**,
 mayor de edad, domiciliado en el municipio de Medellín, identificado con la cédula
 de ciudadanía número **1.028.031.225**, de estado civil soltero sin unión marital
 de hecho, quien actúa en su propio nombre y representación, y se denominará **EL
@@ -86,6 +86,18 @@ anotaciones del folio 01N-5433424:
 LA PROMITENTE VENDEDORA gestionará las comparecencias necesarias para dichos
 levantamientos (entre ellas, la de los beneficiarios del patrimonio de familia y
 la del beneficiario de la afectación a vivienda familiar).
+
+**PARÁGRAFO — CONSTANCIA DE ESTADO CIVIL Y COTITULARIDAD.** Las partes dejan
+constancia de que la afectación a vivienda familiar y el patrimonio de familia del
+inmueble figuran a favor de LA PROMITENTE VENDEDORA y del señor **WILSON BETANCUR
+QUIROZ** (C.C. 71.751.443), con quien aquella tuvo unión marital de hecho y de
+quien se encuentra **actualmente separada de hecho**. El señor Betancur otorgó,
+conjuntamente con LA PROMITENTE VENDEDORA, el poder especial del **30 de junio de
+2026** (Notaría Cuarta de Medellín, radicado en el VUR) que faculta la cancelación
+de dichas limitaciones y la compraventa. ⚠️ **Dado que ese poder declaró una
+"unión marital de hecho vigente", las partes deberán verificar con la notaría si
+procede una escritura aclaratoria del estado civil antes de otorgar la escritura de
+compraventa.**
 
 **QUINTA. PAZ Y SALVOS.** LA PROMITENTE VENDEDORA entregará, a más tardar en la
 fecha de la escritura, los paz y salvos de **administración (propiedad

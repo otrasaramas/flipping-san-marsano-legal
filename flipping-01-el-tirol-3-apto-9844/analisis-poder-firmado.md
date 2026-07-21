@@ -32,9 +32,21 @@ matrícula **01N-5433424** (Apto 9844, Torre 7, Piso -2, Conjunto Tirol III, Cal
 2. **NO tiene subsistencia pese a la muerte** (Art. 2189 C.C.): si María o Wilson
    fallece antes de escriturar, el poder **se extingue**.
 
+## 🚨 RIESGO CRÍTICO — declaración de estado civil desactualizada
+El poder declara **bajo juramento** que María y Wilson son **compañeros permanentes
+con unión marital de hecho VIGENTE entre sí**, y sobre esa base autoriza cancelar
+la afectación a vivienda familiar y el patrimonio de familia (Ley 258/1996). En
+realidad **están separados / ya no son pareja**. Si la unión no estaba vigente al
+firmar (30-jun-2026), la declaración es **inexacta** y puede volver **atacable** la
+cancelación de las limitaciones y, con ella, la escritura.
+- **Definir:** ¿se separaron antes o después del 30-jun-2026?
+- **Acción:** consultar con notaría/abogado si procede **escritura aclaratoria** del
+  estado civil **antes de escriturar**. Que Wilson consienta la venta es bueno; el
+  problema es la palabra "vigente".
+
 ## 🔎 Por confirmar
 - [ ] Que quedó como **ESCRITURA PÚBLICA con número y fecha** (no solo autenticado).
-- [ ] Que se **radicó en el VUR**.
+- [x] **Radicado en el VUR** — confirmado.
 - [ ] Datos de firmas completos (cédula, dirección, etc. de los tres).
 
 ## ❗ Inconsistencia con el otrosí
