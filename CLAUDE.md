@@ -17,7 +17,13 @@ vez más nuestras promesas y contratos**.
   Ley 1537/2012 (VIS/VIP).
 
 ## Cómo está organizado el repo
+- `TABLERO.md` → **la foto de todo**: semáforo por apartamento, pendientes con
+  fecha y dueño, el reloj (días corridos y **fecha límite para publicar en
+  venta**), plata y riesgos. **Abrirlo primero en cada sesión y actualizarlo
+  cada viernes.**
 - `flipping-NN-<nombre-corto>/` → una carpeta por operación. Dentro:
+  - `seguimiento.md` — ficha viva del apto: reloj, papeles, plata, riesgos,
+    próximas acciones y bitácora (plantilla: `plantillas/09-...`).
   - `certificado-tradicion-<matricula>.md` — transcripción del folio.
   - `analisis-juridico-y-saneamiento.md` — limitaciones y cómo levantarlas.
   - `tributario-y-estructuracion.md`, `modelo-margen-y-renta.md` — números e impuestos.
@@ -58,7 +64,20 @@ vez más nuestras promesas y contratos**.
    (una sola escritura) — declarando el margen.
 6. **Escriturar y registrar** en la ORIP; sacar **certificado nuevo** limpio.
 
+## Ritmo de seguimiento (para no perder el hilo)
+- **Cada viernes:** actualizar `TABLERO.md` + la `seguimiento.md` de cada flip
+  (mover ⬜→✅, re-fechar lo que se corrió, subir a 🔴 lo que lleve 2 semanas
+  quieto) y hacer **commit + push**.
+- **Regla del reloj:** objetivo de **150 días** entre promesa de compra y
+  escritura de venta. Comercializar toma **45–60 días** → el apto debe estar
+  **publicado 60 días antes** de la fecha de venta objetivo. Esa es la fecha que
+  más se vigila.
+- **Firmado ≠ registrado:** en las fichas hay dos casillas separadas; el folio
+  solo queda limpio con la **inscripción en la ORIP** (guardar el nº de turno).
+
 ## Checklist por operación
+- [ ] Ficha `seguimiento.md` creada desde `plantillas/09-ficha-seguimiento-flip.md`
+      y fila añadida en `TABLERO.md`.
 - [ ] Certificado de tradición transcrito y anotaciones analizadas.
 - [ ] Limitaciones identificadas (VIP/ISVIMED, patrimonio, afectación, embargos).
 - [ ] Plan de saneamiento con responsables y fechas.
