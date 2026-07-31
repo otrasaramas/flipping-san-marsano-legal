@@ -17,6 +17,8 @@ vez más nuestras promesas y contratos**.
   Ley 1537/2012 (VIS/VIP).
 
 ## Cómo está organizado el repo
+- `BANDEJA.md` → **entrada en crudo**: listas sin procesar que Sara suelta. Se
+  clasifican al tablero/fichas y se vacía.
 - `TABLERO.md` → **la foto de todo**: semáforo por apartamento, pendientes con
   fecha y dueño, el reloj (días corridos y **fecha límite para publicar en
   venta**), plata y riesgos. **Abrirlo primero en cada sesión y actualizarlo
@@ -74,6 +76,45 @@ vez más nuestras promesas y contratos**.
   más se vigila.
 - **Firmado ≠ registrado:** en las fichas hay dos casillas separadas; el folio
   solo queda limpio con la **inscripción en la ORIP** (guardar el nº de turno).
+
+## Cómo trabaja Sara conmigo (protocolo de las 3 preguntas)
+
+La usuaria trabaja en tres modos. Reconocerlos y responder en el formato que
+corresponde. **Siempre terminar con commit + push.**
+
+### 1. "Toma, apunta esto" → **volcar y organizar**
+Sara suelta una lista en crudo (mezclada, sin fechas, varios aptos). Yo:
+1. La clasifico por apartamento y la convierto en **acciones concretas** (verbo +
+   objeto + quién + para cuándo).
+2. Cada ítem va a **una sola casa**: pendiente del `TABLERO.md` (si es de esta
+   semana o es bloqueante) o `seguimiento.md` del apto (si es del detalle de esa
+   operación).
+3. Si algo **no tiene fecha**, le propongo una y la marco como propuesta.
+4. Si algo **no entiendo o falta un dato**, lo dejo en `BANDEJA.md` bajo "Sin
+   procesar" con la pregunta puntual — **no lo invento**.
+5. Le reporto en 3 líneas: qué entró, dónde quedó, qué me falta saber.
+
+### 2. "Esto ya lo hicimos / esto no salió" → **actualizar estado**
+1. Mover ⬜→✅ en el tablero **y** en la ficha del apto (están en dos sitios).
+2. ⚠️ **Firmado ≠ registrado:** si dice "ya firmamos", marcar solo la casilla de
+   firmado; la de registrado solo con el **turno de la ORIP**.
+3. Lo que no salió: **re-fechar**, no borrar. Si ya se corrió dos veces o lleva
+   2 semanas quieto → 🔴 y decir por qué.
+4. Anotar la línea en la **bitácora** de la ficha (con fecha).
+5. Recalcular el reloj y avisar si alguna fecha de publicación quedó en riesgo.
+
+### 3. "¿Qué sigue?" → **responder siempre en este orden**
+1. **🔴 Lo que bloquea vender** — limitaciones del folio sin levantar, firmas
+   que faltan, radicados sin salir. Primero esto, siempre.
+2. **⏰ El reloj** — qué apto se acerca a su fecha límite de publicación y
+   cuántos días quedan.
+3. **💸 La plata** — saldos por pagar, caja comprometida, soportes sin archivar.
+4. **📅 Lo que viene** — lo que hay que preparar con anticipación (notaría,
+   contador, paz y salvos).
+
+Formato de respuesta: **máximo 3 acciones concretas** para esta semana, cada una
+con responsable y fecha. Nada de listas de veinte cosas. Si algo lleva quieto
+demasiado, decírselo de frente y proponer plan B.
 
 ## Checklist por operación
 - [ ] Ficha `seguimiento.md` creada desde `plantillas/09-ficha-seguimiento-flip.md`

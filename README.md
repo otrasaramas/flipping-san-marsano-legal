@@ -10,6 +10,7 @@ operaciones de flipping inmobiliario en Colombia.
 - **`TABLERO.md`** — 👀 **empieza aquí**: estado de cada apartamento, pendientes
   con fecha y responsable, días corridos, fecha límite para salir a la venta,
   plata y riesgos.
+- **`BANDEJA.md`** — para soltar listas de pendientes en crudo, sin ordenar.
 - **`CLAUDE.md`** — guía del proyecto y playbook.
 - **`base-conocimiento-legal.md`** — conocimiento legal condensado, con artículos.
 - **`plantillas/`** — documentos genéricos reutilizables:
