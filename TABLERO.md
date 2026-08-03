@@ -3,7 +3,7 @@
 > ⚠️ Apoyo informativo, **no es asesoría legal ni tributaria**. Cada documento del
 > repo es un **borrador** para revisar con abogado/notaría/contador.
 
-**Última actualización: 31-jul-2026** · Actualízalo **cada viernes** (o cada vez
+**Última actualización: 03-ago-2026** · Actualízalo **cada viernes** (o cada vez
 que pase algo: una firma, un radicado, un pago).
 
 ---
@@ -12,7 +12,7 @@ que pase algo: una firma, un radicado, un pago).
 
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
-| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Remodelación / saneamiento | 🔴 4 de 4 limitaciones vigentes | **79** (desde 13-may-2026) | **antes del 15-ago-2026** | 🔴 Alto — Wilson + ISVIMED |
+| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Remodelación / saneamiento | 🔴 4 de 4 limitaciones vigentes | **82** (desde 13-may-2026) | **antes del 15-ago-2026 — quedan 12 días** | 🔴 Alto — Wilson + ISVIMED |
 | **02** | 9840 · `01N-5433420` | Martha | Saneamiento | 🟡 ISVIMED aprobado, falta registrar | **[completar fecha de promesa]** | **[completar]** | 🟡 Medio — tiempos ORIP |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
@@ -65,8 +65,14 @@ Promesa de compra ──► Remodelación ──► ¡PUBLICAR! ──► Compra
 | **Publicar en venta** | **15-ago-2026** ← *fecha crítica* | ⬜ |
 | Escritura de venta (objetivo) | ~13-oct-2026 (mes 5) | ⬜ |
 
-**Hoy va en el día 79 de 150.** Aún estás en tiempo, pero el margen se come
-solo: quedan ~15 días para publicar sin perder el calendario.
+**Hoy va en el día 82 de 150.** Quedan **12 días** para publicar y **68** para la
+escritura de venta objetivo.
+
+> 🔴 **Realidad al 03-ago-2026:** este apartamento **no se puede vender todavía**.
+> Las cuatro limitaciones (007, 008, 009, 010) siguen inscritas en el folio y
+> ninguna escritura de saneamiento se ha firmado. Publicar sí se puede — y hay que
+> hacerlo ya —, pero **no se puede escriturar** hasta que la ORIP registre los
+> levantamientos. El cuello de botella no es el comprador: es el folio.
 
 ### Flip 02 — apto 9840
 Faltan datos para poner el reloj a andar. Completa en
