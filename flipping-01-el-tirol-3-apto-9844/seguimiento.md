@@ -68,6 +68,25 @@
 > → Ruta y modelo de derecho de petición en
 > `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`.
 >
+> **Estado del papel (03-ago):** la resolución de exención ya está en mano ✅. El
+> **estado de cuenta en ceros no lo expiden de una**: el trámite tarda **20 días
+> hábiles**.
+>
+> 📅 **Cuentas del trámite** (festivos: 7-ago Batalla de Boyacá, 17-ago Asunción):
+>
+> | Si se radica… | Trámite ordinario (20 háb.) | Derecho de petición (15 háb.) |
+> |---|---|---|
+> | **martes 4-ago** | **3-sep-2026** | **27-ago-2026** |
+> | dos semanas después | 14-sep-2026 | 7-sep-2026 |
+>
+> 💡 **El derecho de petición es MÁS RÁPIDO que el trámite ordinario** (15 hábiles
+> por Ley 1755/2015 vs. 20 del trámite). **Radicar los dos el mismo día**: el que
+> salga primero, sirve.
+>
+> ✅ **El papel NO es el camino crítico si se radica ya:** llega el 27-ago/3-sep y
+> la escritura objetivo es el **13-oct** → **42 días de colchón**. Cada día de
+> demora en radicar se descuenta directo de ese colchón.
+>
 > ⚠️ Pendiente menor: **certificado de tradición nuevo** que confirme que 007 y
 > 008 ya no figuran en el folio (aprobado ≠ registrado).
 
@@ -126,8 +145,8 @@ utilidad gravable sube) · ⬜ recibos de notaría y registro
 
 | # | Qué | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|
-| 1 | **Preguntar a la notaría por escrito** qué acepta para un predio exento (resolución + estado de cuenta en ceros) | Sara | 05-ago-2026 | ⬜ |
-| 2 | **Radicar derecho de petición** en Hacienda por el paz y salvo / certificación (plantilla 10) y guardar radicado | Sara | 06-ago-2026 | ⬜ |
+| 1 | **Radicar el estado de cuenta (trámite ordinario) Y el derecho de petición el mismo día** — guardar ambos radicados | Sara | **04-ago-2026** ⏰ | ⬜ |
+| 2 | Correo a la notaría: ¿acepta resolución de exención + estado de cuenta? ¿o le sirve solo la resolución? | Sara | 05-ago-2026 | ⬜ |
 | 3 | Publicar el apartamento en venta con fotos post-remodelación | Sara | **15-ago-2026** | ⬜ |
 | 4 | Certificado de tradición nuevo — verificar que 007/008 no figuran | Sara | 14-ago-2026 | ⬜ |
 

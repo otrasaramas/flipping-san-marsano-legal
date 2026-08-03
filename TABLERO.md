@@ -26,8 +26,8 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 
 | # | Qué | Flip | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|---|
-| 1 | **Preguntar a la notaría por escrito** qué documento acepta para un predio exento de predial | 01 | Sara | 05-ago-2026 | ⬜ |
-| 2 | **Radicar derecho de petición** en Hacienda por el paz y salvo (plantilla 10) — guardar radicado | 01 | Sara | 06-ago-2026 | ⬜ |
+| 1 | **Radicar HOY el estado de cuenta + el derecho de petición** (plantilla 10) — el reloj de los 20 días hábiles solo arranca al radicar | 01 | Sara | **04-ago-2026** ⏰ | ⬜ |
+| 2 | Correo a la notaría: ¿qué acepta para un predio exento? | 01 | Sara | 05-ago-2026 | ⬜ |
 | 3 | **Publicar el 9844** en portales (fotos post-remodelación) | 01 | Sara | 15-ago-2026 | ⬜ |
 | 4 | Certificado de tradición nuevo del 9844 (verificar 007/008) | 01 | Sara | 14-ago-2026 | ⬜ |
 | 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 05-ago-2026 | ⬜ |
@@ -72,9 +72,12 @@ escritura de venta objetivo.
 > otorgado. **Patrimonio de familia (009) y afectación (010) se levantan en la
 > misma escritura de venta.** Vía libre para publicar.
 >
-> 🔴 **Único bloqueante: el paz y salvo de predial.** El apto está **exento** y se
-> tiene la resolución, pero la Alcaldía no expide el documento. Sin él, la notaría
-> no escritura. → `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`
+> 🔴 **Único bloqueante: el estado de cuenta del predial.** Resolución de exención
+> ✅ en mano; el estado de cuenta en ceros tarda **20 días hábiles**.
+> **Radicado el 4-ago → sale el 3-sep** (o el **27-ago** por derecho de petición,
+> que es más rápido: 15 hábiles, Ley 1755/2015). Frente a la escritura objetivo
+> del 13-oct hay **42 días de colchón**, pero solo si se radica **ya**.
+> → `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`
 
 ### Flip 02 — apto 9840
 Faltan datos para poner el reloj a andar. Completa en
