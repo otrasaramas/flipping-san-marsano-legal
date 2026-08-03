@@ -12,7 +12,7 @@ que pase algo: una firma, un radicado, un pago).
 
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
-| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Saliendo a la venta | 🟡 ISVIMED saneado; falta 009 y registrar el levantamiento de 010 | **82** (desde 13-may-2026) | **antes del 15-ago-2026 — quedan 12 días** | 🟡 Medio — salud de Wilson vs. vigencia del poder |
+| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Saliendo a la venta | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **antes del 15-ago-2026 — quedan 12 días** | 🔴 **Paz y salvo de predial (predio exento)** |
 | **02** | 9840 · `01N-5433420` | Martha | Saneamiento | 🟡 ISVIMED aprobado, falta registrar | **[completar fecha de promesa]** | **[completar]** | 🟡 Medio — tiempos ORIP |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
@@ -26,10 +26,10 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 
 | # | Qué | Flip | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|---|
-| 1 | Confirmar si el **9844 tiene radicado su propio retiro de ISVIMED** (anot. 007/008) | 01 | Sara | 05-ago-2026 | ⬜ |
-| 2 | Definir la firma de **Wilson** (notario en clínica vs. poder vs. vía judicial) | 01 | Sara | 07-ago-2026 | ⬜ |
-| 3 | Firmar escritura de **cancelación de patrimonio + levantamiento de afectación** (María + 2 hijos + Wilson) | 01 | Notaría | 14-ago-2026 | ⬜ |
-| 4 | **Publicar el 9844** en portales (fotos post-remodelación) | 01 | Sara | 15-ago-2026 | ⬜ |
+| 1 | **Preguntar a la notaría por escrito** qué documento acepta para un predio exento de predial | 01 | Sara | 05-ago-2026 | ⬜ |
+| 2 | **Radicar derecho de petición** en Hacienda por el paz y salvo (plantilla 10) — guardar radicado | 01 | Sara | 06-ago-2026 | ⬜ |
+| 3 | **Publicar el 9844** en portales (fotos post-remodelación) | 01 | Sara | 15-ago-2026 | ⬜ |
+| 4 | Certificado de tradición nuevo del 9844 (verificar 007/008) | 01 | Sara | 14-ago-2026 | ⬜ |
 | 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 05-ago-2026 | ⬜ |
 | 6 | Firmar **levantamiento de afectación** del 9840 con Luis Eduardo Chavarría | 02 | Notaría | [fecha] | ⬜ |
 | 7 | Cerrar la **estructura de compra a Martha** (precio, abonos, saldo, poder/cesión) | 02 | Sara | 08-ago-2026 | ⬜ |
@@ -68,15 +68,13 @@ Promesa de compra ──► Remodelación ──► ¡PUBLICAR! ──► Compra
 **Hoy va en el día 82 de 150.** Quedan **12 días** para publicar y **68** para la
 escritura de venta objetivo.
 
-> ✅ **03-ago-2026:** ISVIMED saneado (007/008) y **poder de Wilson otorgado**. El
-> levantamiento de la afectación (010) se firmará al momento de la venta, en el
-> mismo turno de la ORIP. Vía libre para **publicar**.
+> ✅ **03-ago-2026:** ISVIMED saneado (007/008), **Wilson recuperado** y con poder
+> otorgado. **Patrimonio de familia (009) y afectación (010) se levantan en la
+> misma escritura de venta.** Vía libre para publicar.
 >
-> ⚠️ Quedan tres cabos: (1) **certificado nuevo** que pruebe que 007/008 ya no
-> figuran; (2) la **anotación 009 — patrimonio de familia**, que nadie ha tocado y
-> también bloquea la venta; (3) si el poder de Wilson **no tiene cláusula de
-> subsistencia**, se extingue con su muerte (Art. 2189 C.C.) — con él
-> hospitalizado, esperar hasta la venta es un riesgo real.
+> 🔴 **Único bloqueante: el paz y salvo de predial.** El apto está **exento** y se
+> tiene la resolución, pero la Alcaldía no expide el documento. Sin él, la notaría
+> no escritura. → `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`
 
 ### Flip 02 — apto 9840
 Faltan datos para poner el reloj a andar. Completa en

@@ -47,27 +47,29 @@
 |---|---|---|---|---|---|
 | 007 | Prohibición de transferencia (ISVIMED, 10 años) | Retiro de ISVIMED del 9844 | ✅ | ⬜ **confirmar** | 🟢/🟡 **saneado según Sara (03-ago); falta ver el certificado nuevo** |
 | 008 | Derecho de preferencia (ISVIMED) | Igual al anterior | ✅ | ⬜ **confirmar** | 🟢/🟡 igual |
-| 009 | Patrimonio de familia (María + 2 hijos) | **María + los 2 hijos (mayores)** → cancelación **notarial** | ⬜ | ⬜ | 🔴 **sin noticia — nadie lo ha mencionado** |
-| 010 | Afectación a vivienda familiar (Wilson) | **María + Wilson Betancur** | ⬜ *(hay poder de Wilson)* | ⬜ | 🟡 **poder otorgado; el levantamiento se firma al vender** |
+| 009 | Patrimonio de familia (María + 2 hijos) | **María + los 2 hijos (mayores)** → se levanta **en la misma escritura** | ⬜ | ⬜ | 🟡 va en la escritura de venta |
+| 010 | Afectación a vivienda familiar (Wilson) | **Poder de Wilson** ✅ — se levanta **en la misma escritura** | ⬜ | ⬜ | 🟡 va en la escritura de venta |
 
 > ✅ **03-ago-2026 (Sara):** el ISVIMED del 9844 **ya salió saneado**, y **Wilson
 > otorgó poder** para que se levanten las limitaciones a su nombre. El
 > levantamiento se firmará y radicará **en el momento de la venta**, en el mismo
 > acto (estrategia de "mismo turno" en la ORIP).
 >
-> ⚠️ **Lo que falta amarrar:**
-> 1. **Certificado de tradición nuevo** que confirme que 007 y 008 ya **no
->    figuran**. Aprobado ≠ registrado: hasta no verlo en el folio, no está.
-> 2. **Anotación 009 (patrimonio de familia)** — María + los 2 hijos mayores.
->    Nadie la ha mencionado y **también bloquea la venta**. Se cancela ante
->    notario y no depende de Wilson: **se puede adelantar ya**.
-> 3. **Riesgo del poder de Wilson:** está hospitalizado y el mandato civil **se
->    extingue con la muerte del mandante** (Art. 2189 C.C.), salvo pacto mercantil
->    de subsistencia (Art. 1280 C.Co). Si el poder no trae esa cláusula, dejar el
->    levantamiento "para cuando se venda" es una **apuesta contra su salud**: si
->    fallece antes, el poder muere con él y toca **sucesión + vía judicial**.
->    → **Revisar el texto del poder y, si se puede, firmar y registrar el
->    levantamiento YA en vez de esperar a la venta.**
+> ✅ **Actualización 03-ago-2026 (Sara):** **Wilson recuperado** — se cae el riesgo
+> de extinción del mandato por muerte (Art. 2189 C.C.). El **patrimonio de familia
+> (009) y la afectación (010) se levantan en la misma escritura** de venta, con el
+> poder de Wilson. Estructura confirmada: un solo acto.
+>
+> 🔴 **Único bloqueante vivo: el PAZ Y SALVO DE PREDIAL.**
+> El apartamento está **exento** del impuesto predial y se tiene la **copia de la
+> resolución de exención**, pero la Alcaldía **no ha expedido el documento** —
+> aparentemente el sistema no genera paz y salvo para predios exentos. Sin ese
+> papel la notaría no otorga la escritura.
+> → Ruta y modelo de derecho de petición en
+> `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`.
+>
+> ⚠️ Pendiente menor: **certificado de tradición nuevo** que confirme que 007 y
+> 008 ya no figuran en el folio (aprobado ≠ registrado).
 
 **Radicados en curso:**
 
@@ -89,7 +91,8 @@
 | Escritura de compraventa al comprador final | Escritura pública | ⬜ | — |
 | Certificado de tradición nuevo | | ⬜ | — |
 
-**Paz y salvos para escriturar:** ⬜ administración · ⬜ predial · ⬜ valorización
+**Paz y salvos para escriturar:** ⬜ administración · 🔴 **predial (BLOQUEANTE —
+predio exento, la Alcaldía no expide el documento)** · ⬜ valorización
 
 ## 5) Plata
 
@@ -123,16 +126,17 @@ utilidad gravable sube) · ⬜ recibos de notaría y registro
 
 | # | Qué | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|
-| 1 | Sacar **certificado de tradición nuevo** y verificar que 007/008 ya no figuran | Sara | 07-ago-2026 | ⬜ |
-| 2 | Revisar el **poder de Wilson**: ¿faculta el levantamiento? ¿tiene cláusula de subsistencia? → decidir si se firma ya | Sara | 07-ago-2026 | ⬜ |
-| 3 | **Cancelar patrimonio de familia (009)** con María + los 2 hijos ante notario | Sara | 14-ago-2026 | ⬜ |
-| 4 | Publicar el apartamento en venta con fotos post-remodelación | Sara | **15-ago-2026** | ⬜ |
+| 1 | **Preguntar a la notaría por escrito** qué acepta para un predio exento (resolución + estado de cuenta en ceros) | Sara | 05-ago-2026 | ⬜ |
+| 2 | **Radicar derecho de petición** en Hacienda por el paz y salvo / certificación (plantilla 10) y guardar radicado | Sara | 06-ago-2026 | ⬜ |
+| 3 | Publicar el apartamento en venta con fotos post-remodelación | Sara | **15-ago-2026** | ⬜ |
+| 4 | Certificado de tradición nuevo — verificar que 007/008 no figuran | Sara | 14-ago-2026 | ⬜ |
 
 ## 8) Bitácora (lo más reciente arriba)
 
 | Fecha | Qué pasó |
 |---|---|
-| 03-ago-2026 | Sara confirma: **ISVIMED del 9844 saneado** y **Wilson otorgó poder** para el levantamiento de la afectación, que se hará al momento de la venta. Pendiente: certificado nuevo, revisar subsistencia del poder y la anotación 009. |
+| 03-ago-2026 | **Wilson recuperado.** Se confirma que 009 y 010 se levantan **en la misma escritura** de venta. Único bloqueante: **paz y salvo de predial** — predio exento, la Alcaldía no expide el documento pese a tener la resolución de exención. Se crea la plantilla 10 con la ruta y el derecho de petición. |
+| 03-ago-2026 | Sara confirma: **ISVIMED del 9844 saneado** y **Wilson otorgó poder** para el levantamiento de la afectación. |
 | 31-jul-2026 | Se monta el sistema de seguimiento (tablero + ficha). |
 | 18-jul-2026 | Pago de $73.000.000 con cheque a María. |
 | 30-jun-2026 | Poder especial María → Nicolás por E.P. (Notaría 1ª de Bello), radicado en VUR. Se detecta declaración juramentada de unión vigente que no corresponde. |
