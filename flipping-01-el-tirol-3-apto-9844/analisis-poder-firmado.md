@@ -60,6 +60,24 @@ El poder declara a María **compañera permanente de Wilson**; el otrosí dice M
 real. Ojo: si hay **sociedad patrimonial** entre compañeros, Wilson tiene derechos
 sobre el inmueble (por eso comparece — bien).
 
+## 🚨 RIESGO DE TIEMPO — poder (vence ~3 meses) vs. papel (hasta 5 meses)
+La notaría aplica una **vigencia práctica de ~3 meses** a los poderes (aunque el
+texto diga "sin limitaciones de tiempo"). Poder firmado el **30-jun-2026** → sirve
+hasta **~30-sep-2026**. Pero el saneamiento ("el papel": exención de predial +
+registro del retiro de ISVIMED) puede tardar **hasta 5 meses** (~diciembre). →
+**Si el papel se demora, el poder estará vencido al momento de escriturar** y
+tocaría que María, Wilson y los hijos vuelvan en persona.
+
+**Plan:**
+1. **Escriturar dentro de la ventana (~antes del 30-sep):** acelerar el registro
+   del retiro de ISVIMED (ya aprobado) y la exención de predial (derecho de
+   petición ya).
+2. **Preguntar a la notaría si aceptan una "certificación de vigencia / no
+   revocatoria del poder"** en lugar de un poder nuevo (más fácil).
+3. **Si no alcanza: renovar el poder antes de que caduque**, esta vez
+   **irrevocable + con subsistencia**, mientras la familia colabora.
+4. **Confirmar la regla exacta** (3 o 6 meses) con la notaría que va a escriturar.
+
 ## Plan de mitigación (el poder ya está firmado)
 1. **Escriturar YA** apenas salga la certificación de exención de predial: el poder
    permite cancelar patrimonio + afectación + compraventa en **una sola escritura**.
