@@ -97,13 +97,15 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 **Utilidad combinada: +$38,2M.** (Si la remodelación fue $23M *en total* y no cada
 una, sube a **+$61,2M** — dato por confirmar.)
 
-> 🔴 **La caja de la venta no es tuya: $171M tienen dueño.**
-> Entran $329,7M; salen $8M a María, el saldo de Martha, $50M a Nicolás, $15M al
-> hermano de Nico, $95M del crédito de mamá y $3M de renta.
-> **Capital libre real: ~$153M → UN cupo de flip, no dos.**
+> 🔴 **La caja de la venta casi toda tiene dueño: $291M de $329,7M.**
+> El 9840 **no está pagado** ($120M a Martha salen de la venta), más $8M a María,
+> $3M de renta, $50M a Nicolás, $15M al hermano y $95M del crédito de mamá.
+> **Queda libre $38,7M = exactamente tu utilidad. Menos la reserva DIAN: $32,9M.**
 >
-> 🔴 **Hueco sin explicar: $130M.** Se comprometieron $290M y solo tengo
-> identificados $160M de financiación. **Falta saber de dónde salió el resto.**
+> 🔴 **Con $32,9M no alcanza para comprar el siguiente apartamento.** Hay que
+> decidir **quién se queda dentro**: manteniendo el crédito de mamá →$127,9M
+> (1 cupo); manteniendo también a Nicolás →$177,9M (1,4 cupos).
+> → `ESTRUCTURA-FINANCIERA.md` §3-bis
 >
 > ⏰ **Costo de tenencia: $2,1M al mes** ($1,1M de cuota del crédito + $1M de renta
 > del 9840). Vender rápido no es preferencia, es necesidad.

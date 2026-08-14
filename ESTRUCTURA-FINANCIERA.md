@@ -98,7 +98,74 @@ Caja que entra                    $329,7M
 
 ---
 
-## 4) 🔴 El hueco de $130 millones
+## 3-bis) ✅ RESUELTO el hueco — y así queda la foto real
+
+**Sara (03-ago):** el 9840 **no está pagado**; se le paga a Martha con la plata del
+comprador. Por eso el afán. Con eso cuadra todo:
+
+| Lo que YA salió (de los $160M prestados) | |
+|---|---|
+| Abonos a María (9844) | $113,0M |
+| Remodelaciones (23 + 23) | $46,0M |
+| Papeles (1,8 + 1,8) | $3,6M |
+| **Total** | **$162,6M** ✅ calza con los $160M |
+
+| Lo que NO está pagado (sale de la venta) | |
+|---|---|
+| Saldo a María (9844) | $8,0M |
+| **9840 a Martha** | **$120,0M** |
+| Renta del 9840 | $3,0M |
+
+### 🔴 Y este es el número que importa
+
+```
+Caja que entra al vender los dos       $329,7M
+− Saldo a María                          −$8,0M
+− Martha (9840)                        −$120,0M
+− Renta                                  −$3,0M
+− Nicolás                               −$50,0M
+− Hermano de Nicolás                    −$15,0M
+− Crédito de mamá                       −$95,0M
+                                       ─────────
+= QUEDA LIBRE                            $38,7M   ← exactamente tu utilidad
+− Reserva DIAN (15%)                      −$5,7M
+= CAPITAL REAL TUYO                      $32,9M
+```
+
+> ### ⚠️ Capital propio: $32,9M. Eso NO alcanza ni para un flip.
+>
+> Toda la operación está montada con plata de otros. Tu utilidad es real
+> ($38,2M) y está bien ganada — pero **es todo lo que tienes.** Después de
+> pagarle a todo el mundo no queda capital para comprar el siguiente
+> apartamento de $100M.
+>
+> **Toda la proyección de 2027 que hicimos antes asumía $320M de arranque. Con
+> $32,9M, no se sostiene.**
+
+### La decisión que hay que tomar: ¿a quién le pagas y quién se queda?
+
+No puedes devolverle la plata a todos **y** seguir flipeando. Hay que escoger:
+
+| Si… | Capital disponible | Cupos |
+|---|---|---|
+| Le pagas a todo el mundo | $32,9M | **0** |
+| Mantienes el crédito de mamá ($95M) | $127,9M | **1** ✅ |
+| Nicolás sigue como socio ($50M) | $82,9M | 0,7 |
+| **Mantienes ambos** | **$177,9M** | **1,4** |
+
+> **Recomendación:** el crédito de tu mamá es el que **más rinde y más riesgo le
+> genera a ella** — decisión difícil. Si lo mantienes, que sea con una regla
+> clara: la cuota de $1,1M sale del negocio **automáticamente cada mes**, antes
+> que tu sueldo, y hay siempre 6 cuotas ($6,6M) apartadas en una cuenta por si un
+> flip se demora. Sin eso, no lo mantengas.
+>
+> **La conversación con Nicolás sobre si es prestamista o socio ya no se puede
+> aplazar:** si se queda con los $50M dentro, es socio, y hay que definir qué
+> porcentaje de la utilidad le corresponde.
+
+---
+
+## 4) 🔴 El hueco de $130 millones — RESUELTO (ver sección 3-bis)
 
 Esto es lo que más me preocupa y no me cuadra:
 
