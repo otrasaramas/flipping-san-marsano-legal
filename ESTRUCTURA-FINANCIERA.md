@@ -98,6 +98,24 @@ Caja que entra                    $329,7M
 
 ---
 
+## 🔴 AVISO — HAY DOS MARTHAS. NO CONFUNDIRLAS.
+
+| Quién | Papel | Cómo la llamamos aquí |
+|---|---|---|
+| **Martha Lucía Morales Espinal** — C.C. 42.677.313 | **Vendedora del apto 9840.** Figura en el folio 01N-5433420 (anotaciones 006 a 010). Es a quien se le debe el saldo del apartamento. | **doña Martha (vendedora)** |
+| **Martha, mamá de Sara** | **Inversionista.** Puso $95M de un crédito bancario a su nombre + $28M propios. | **Martha (mamá / inversionista)** |
+
+> ⚠️ **Este es un error con consecuencias reales.** Si en una minuta, una
+> transferencia o una instrucción a la notaría se confunden, se le puede pagar a
+> la persona equivocada o redactar mal una escritura. **De aquí en adelante, en
+> todo documento hay que escribir el nombre completo y la cédula.**
+>
+> ✅ **Confirmado por Sara (03-ago): son dos personas distintas.**
+> ❓ Falta el **nombre completo y la cédula de la mamá** para dejarlo bien anotado
+> en los documentos de la sociedad y en los pagos.
+
+---
+
 ## 3-bis) ✅ RESUELTO el hueco — y así queda la foto real
 
 **Sara (03-ago):** el 9840 **no está pagado**; se le paga a Martha con la plata del
@@ -141,6 +159,64 @@ Caja que entra al vender los dos       $329,7M
 >
 > **Toda la proyección de 2027 que hicimos antes asumía $320M de arranque. Con
 > $32,9M, no se sostiene.**
+
+### ✅✅ CUENTA DEFINITIVA (03-ago, con todas las correcciones)
+
+**Quién puso la plata:**
+
+| Quién | Cuánto | Condiciones |
+|---|---|---|
+| **Martha (mamá)** — crédito bancario | $95,0M | **No pide devolución del capital: solo que la cuota de $1,1M/mes se pague a tiempo.** El crédito está **a su nombre en el banco.** |
+| **Martha (mamá)** — plata propia | $28,0M | Se le devuelve **a la venta del 9844**. Sin afán. |
+| **Nicolás** — plante de inicio | $50,0M | **Socio.** No se devuelve: queda como capital. |
+| **Hermano de Nicolás** | $15,0M | Préstamo a 3 meses. |
+| **TOTAL** | **$188,0M** | |
+
+Ya ejecutado: María $113M + remodelaciones $46M + papeles $3,6M = **$162,6M**.
+Sobrante ~$25,4M (probablemente abonos a doña Martha por el 9840 — **confirmar**).
+
+**Al vender los dos ($168M + $165M):**
+
+```
+Caja que entra                                    $329,7M
+− Saldo a María (9844)                              −$8,0M
+− Saldo a doña Martha, vendedora del 9840          −$120,0M
+− Renta del 9840                                    −$3,0M
+− Hermano de Nicolás                               −$15,0M
+− Devolver a Martha (mamá) sus $28M                −$28,0M
+                                                  ─────────
+= QUEDA                                            $155,7M
+− Reserva DIAN (15%)                                −$5,7M
+= CAPITAL DE TRABAJO                               $150,0M  → 1,2 cupos ✅
+```
+
+**Siguen adentro (no salen de caja):**
+- **$95M del crédito de Martha** → solo se paga la cuota de $1,1M/mes.
+- **$50M de Nicolás** → es socio.
+
+> ✅ **Con $150M puedes comprar el siguiente apartamento y seguir.** Es un cupo
+> cómodo. No son los $320M que proyecté al principio, pero el negocio **no se
+> frena**.
+
+### 💸 La salida fija mensual — el número que hay que respetar
+
+Sara $1,5M + Nicolás $1,5M + cuota del crédito $1,1M + sueldo de Martha:
+
+| Sueldo de Martha | Salida fija mensual | Al año |
+|---|---|---|
+| $0,5M | $4,6M | $55,2M |
+| **$1,0M** | **$5,1M** | **$61,2M** |
+| $1,5M | $5,6M | $67,2M |
+
+> Con utilidad de ~$38M por ciclo trimestral (~$150M/año), una salida fija de
+> $61M/año es **manejable**: queda ~$90M para reinvertir. Pero **es fija**: se
+> paga aunque un flip se demore. Ten siempre **3 meses de esa salida ($15M)
+> apartados** antes de comprometer capital en un apartamento nuevo.
+
+⚠️ **Tributario:** un "sueldo" a Martha y a Nicolás sin soporte no es deducible y
+puede leerse como distribución encubierta. Definir con el contador si va como
+**pago de servicios (con cuenta de cobro)**, como **rendimiento del capital
+invertido**, o como **retiro de socios**. No lo dejen en efectivo sin papel.
 
 ### ✅ Actualización — Nicolás es SOCIO (03-ago)
 

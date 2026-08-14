@@ -13,7 +13,7 @@ que pase algo: una firma, un radicado, un pago).
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
 | **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar 04-ago** | 🔴 Predial + **margen en cero** |
-| **02** | 9840 · `01N-5433420` | Martha | **Listo — vender en AGOSTO** | 🟡 ISVIMED aprobado, falta registrar | **[completar]** | **YA** | 🔴 **Falta registrar ISVIMED + no sabemos el margen** |
+| **02** | 9840 · `01N-5433420` | doña Martha Lucía Morales | **Listo — vender en AGOSTO** | 🟡 ISVIMED aprobado, falta registrar | **[completar]** | **YA** | 🔴 **Falta registrar ISVIMED + no sabemos el margen** |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
 sin registrar, o algo radicado en trámite · 🔴 falta firma o falta gestión.
@@ -32,7 +32,7 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 | 4 | Certificado de tradición nuevo del 9844 (verificar 007/008) | 01 | Sara | 14-ago-2026 | ⬜ |
 | 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 05-ago-2026 | ⬜ |
 | 6 | Firmar **levantamiento de afectación** del 9840 con Luis Eduardo Chavarría | 02 | Notaría | [fecha] | ⬜ |
-| 7 | Cerrar la **estructura de compra a Martha** (precio, abonos, saldo, poder/cesión) | 02 | Sara | 08-ago-2026 | ⬜ |
+| 7 | Confirmar **saldo real a doña Martha** (vendedora del 9840) y sus abonos | 02 | Sara | 08-ago-2026 | ⬜ |
 | 8 | Sacar **certificado de tradición nuevo** de cada folio tras registrar | 01 y 02 | Sara | al registrar | ⬜ |
 
 > ⚠️ El cierre del flip 2 estaba proyectado para **julio de 2026** y ya estamos a
@@ -97,15 +97,18 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 **Utilidad combinada: +$38,2M.** (Si la remodelación fue $23M *en total* y no cada
 una, sube a **+$61,2M** — dato por confirmar.)
 
-> 🔴 **La caja de la venta casi toda tiene dueño: $291M de $329,7M.**
-> El 9840 **no está pagado** ($120M a Martha salen de la venta), más $8M a María,
-> $3M de renta, $50M a Nicolás, $15M al hermano y $95M del crédito de mamá.
-> **Queda libre $38,7M = exactamente tu utilidad. Menos la reserva DIAN: $32,9M.**
+> ⚠️ **OJO: HAY DOS MARTHAS.** *Doña Martha Lucía Morales Espinal* (C.C.
+> 42.677.313) es la **vendedora del 9840**; *Martha, la mamá de Sara*, es la
+> **inversionista**. Escribir siempre nombre completo y cédula.
 >
-> 🔴 **Con $32,9M no alcanza para comprar el siguiente apartamento.** Hay que
-> decidir **quién se queda dentro**: manteniendo el crédito de mamá →$127,9M
-> (1 cupo); manteniendo también a Nicolás →$177,9M (1,4 cupos).
-> → `ESTRUCTURA-FINANCIERA.md` §3-bis
+> **Al vender los dos entran $329,7M.** Salen: $8M a María, $120M a doña Martha,
+> $3M de renta, $15M al hermano de Nico y $28M de devolución a la mamá.
+> **Queda $155,7M − $5,7M de reserva DIAN = $150M → 1,2 cupos de flip** ✅
+> Siguen adentro: los $95M del crédito (solo se paga cuota) y los $50M de Nicolás
+> (socio). → `ESTRUCTURA-FINANCIERA.md`
+>
+> 💸 **Salida fija mensual:** Sara $1,5M + Nicolás $1,5M + cuota $1,1M + sueldo de
+> la mamá ≈ **$5,1M/mes**. Tener siempre **$15M apartados** (3 meses).
 >
 > ⏰ **Costo de tenencia: $2,1M al mes** ($1,1M de cuota del crédito + $1M de renta
 > del 9840). Vender rápido no es preferencia, es necesidad.
