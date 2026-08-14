@@ -12,7 +12,7 @@ que pase algo: una firma, un radicado, un pago).
 
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
-| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar 04-ago** | 🔴 Predial + **margen en cero** |
+| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar 04-ago** | 🔴 Predial |
 | **02** | 9840 · `01N-5433420` | doña Martha Lucía Morales | **Listo — vender en AGOSTO** | 🟡 ISVIMED aprobado, falta registrar | **[completar]** | **YA** | 🔴 **Falta registrar ISVIMED + no sabemos el margen** |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
@@ -94,8 +94,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 | 02 | $120,0M | [completar] | [completar] | $23,0M + papeles $1,8M + renta $3,0M | **$165M** (sin intermediario) | **+$16,6M** ✅ |
 
 **Equilibrio: 9844 → $146,4M · 9840 → $148,4M.** Tus precios están muy por encima.
-**Utilidad combinada: +$38,2M.** (Si la remodelación fue $23M *en total* y no cada
-una, sube a **+$61,2M** — dato por confirmar.)
+**Utilidad combinada: +$38,2M.** (Remodelación confirmada: $23M por apartamento.)
 
 > ⚠️ **OJO: HAY DOS MARTHAS.** *Doña Martha Lucía Morales Espinal* (C.C.
 > 42.677.313) es la **vendedora del 9840**; *Martha, la mamá de Sara*, es la
@@ -121,13 +120,18 @@ una, sube a **+$61,2M** — dato por confirmar.)
 
 - **Facturas de remodelación** ($46M entre los dos): son las que bajan el
   impuesto. Sin factura no son costo → guárdalas en la carpeta de cada flip.
-- **Crédito a nombre de tu mamá** ($95M, cuota $1,1M/mes): pagarlo **primero** al
-  vender. El riesgo lo corre ella, no tú.
+- **Crédito a nombre de tu mamá** ($95M, cuota $1,1M/mes): ella no pide el
+  capital, pero **la cuota se paga primero que cualquier sueldo**. El riesgo de
+  ese crédito lo corre ella, no tú: no se puede atrasar ni un mes.
 - **Habitualidad**: con 2 flips y más en camino, ya te acercas a **comerciante**
   (matrícula mercantil, contabilidad, ICA). Ver
   `flipping-01-.../escalar-5-flips-persona-natural-vs-sas.md`.
-- **Declaración de renta**: una operación de $180M te vuelve obligada a declarar.
+- **Declaración de renta**: dos ventas de ~$165M te vuelven obligada a declarar.
   Agenda con el contador **antes** de cerrar la venta, no después.
+- **Acuerdo de socios con Nicolás** por escrito antes de vender (aportes, roles,
+  reinversión, qué pasa si alguno se sale).
+- **Soporte de los pagos a Martha (mamá) y de los sueldos** — cuenta de cobro o
+  la figura que diga el contador; sin papel no son deducibles.
 - **Antes de cada escritura**: paz y salvos de administración, predial y
   valorización; y **certificado de tradición nuevo** para confirmar que el folio
   quedó limpio.
