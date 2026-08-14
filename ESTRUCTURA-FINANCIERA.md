@@ -142,6 +142,45 @@ Caja que entra al vender los dos       $329,7M
 > **Toda la proyección de 2027 que hicimos antes asumía $320M de arranque. Con
 > $32,9M, no se sostiene.**
 
+### ✅ Actualización — Nicolás es SOCIO (03-ago)
+
+Sus **$50M fueron plante de inicio**, no préstamo. Entonces **no salen de la
+caja**: se quedan como capital de trabajo. Y a cambio le corresponde **parte de la
+utilidad**, no solo su plata de vuelta.
+
+```
+Caja al vender                        $329,7M
+− Saldo a María                         −$8,0M
+− Martha (9840)                       −$120,0M
+− Renta 9840                            −$3,0M
+− Hermano de Nicolás                   −$15,0M
+− Crédito de mamá                      −$95,0M
+                                      ─────────
+= QUEDA EN LA SOCIEDAD                  $88,7M   (utilidad $38,7M + los $50M de Nico)
+− Reserva DIAN                           −$5,7M
+= CAPITAL DE TRABAJO                    $83,0M   → 0,67 cupos
+```
+
+**Si además NO se cancela el crédito de mamá: $178,0M → 1,4 cupos.**
+
+### 🤝 Cómo repartir la utilidad con Nicolás — hay que definirlo YA
+
+| Reparto | Sara | Nicolás | Cuándo tiene sentido |
+|---|---|---|---|
+| 50/50 | $19,1M | $19,1M | Si ambos operan por igual |
+| **65/35** | **$24,8M** | **$13,4M** | Intermedio |
+| **70/30** | **$26,7M** | **$11,5M** | Si tú pones la operación y él el plante |
+
+> **Mi recomendación: 70/30 o 65/35 a tu favor.** Nicolás puso $50M, pero tú
+> pusiste la operación completa: conseguiste los apartamentos, aprendiste a sanear
+> folios, negociaste, manejaste notarías y ORIP. **El capital es reemplazable; el
+> conocimiento de saneamiento que tienes, no.** Si el reparto es 50/50, estás
+> valorando tu trabajo en cero.
+>
+> ⚠️ **Póngalo por escrito antes de vender**, no después de tener la plata en la
+> mano. Y antes de irse a vivir juntos. Un documento de una página: cuánto puso
+> cada uno, qué hace cada uno, cómo se reparte, y qué pasa si uno se quiere salir.
+
 ### La decisión que hay que tomar: ¿a quién le pagas y quién se queda?
 
 No puedes devolverle la plata a todos **y** seguir flipeando. Hay que escoger:
@@ -214,8 +253,10 @@ Son **$95M a nombre de ella**, con cuota de **$1,1M al mes**.
 
 | # | Pregunta | Por qué importa |
 |---|---|---|
-| 0 | **¿La remodelación fue $23M cada una o $23M entre las dos?** | Mueve la utilidad de $38M a $61M |
-| 1 | **¿De dónde salieron los $130M que faltan?** ($107M si la remodelación fue $23M en total) | Sin esto, ninguna proyección sirve |
+| 0 | ~~¿Remodelación $23M cada una o entre las dos?~~ | ✅ **$23M cada una** (confirmado 03-ago) |
+| 1 | ~~¿De dónde salieron los $130M?~~ | ✅ **El 9840 no está pagado** |
+| 1b | 🔴 **¿Qué significa que Martha "solo quiere que le paguemos la cuota"?** ¿Se le deben los $120M o solo el saldo de un crédito de ella? | **Mueve $120M — es el dato más grande que falta** |
+| 1c | ¿Cuánto es "algo" para guardarle a Martha? ¿Y por qué concepto? | Hay que dejarlo por escrito, no de palabra |
 | 2 | **¿Cuánto le queda pendiente a Martha del 9840?** | Sale directo de la caja de la venta |
 | 3 | **Los $50M de Nicolás, ¿son préstamo o es socio?** | Si es socio, le toca parte de los $38,2M de utilidad, no solo su plata de vuelta |
 | 4 | ¿El crédito de tu mamá a cuántos meses es? ¿Se cancela al vender o se sigue pagando? | Cambia el capital libre en $95M |
