@@ -12,7 +12,7 @@ que pase algo: una firma, un radicado, un pago).
 
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
-| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar 04-ago** | 🔴 Predial |
+| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar HOY** | 🔴 Predial |
 | **02** | 9840 · `01N-5433420` | doña Martha Lucía Morales | **Listo — vender en AGOSTO** | 🟡 ISVIMED aprobado, falta registrar | **[completar]** | **YA** | 🔴 **Falta registrar ISVIMED + no sabemos el margen** |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
@@ -36,8 +36,8 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 | 8 | Sacar **certificado de tradición nuevo** de cada folio tras registrar | 01 y 02 | Sara | al registrar | ⬜ |
 
 > ⚠️ El cierre del flip 2 estaba proyectado para **julio de 2026** y ya estamos a
-> 31-jul. Antes que nada: verificar en qué quedó (¿se firmó?, ¿se radicó?) y
-> re-fechar la línea de tiempo.
+> mediados de agosto. Verificar en qué quedó (¿se firmó?, ¿se radicó?) y re-fechar
+> la línea de tiempo.
 
 ---
 
@@ -62,11 +62,11 @@ Promesa de compra ──► Remodelación ──► ¡PUBLICAR! ──► Compra
 | Entrega física del apto | 26-jun-2026 | ✅ |
 | Pagado a María | $113.000.000 de $121.000.000 (10+30+73) | ✅ |
 | Saldo pendiente | **$8.000.000** — se paga al firmar escritura | ⬜ |
-| **Publicar en venta** | **15-ago-2026** ← *fecha crítica* | ⬜ |
+| **Publicar en venta** | **HOY — ya vencida** 🔴 | ⬜ |
 | Escritura de venta (objetivo) | ~13-oct-2026 (mes 5) | ⬜ |
 
-**Hoy va en el día 82 de 150.** Quedan **12 días** para publicar y **68** para la
-escritura de venta objetivo.
+**Hoy va en el día 93 de 150.** La fecha de publicar **ya se venció**: quedan 57
+días para la escritura de venta objetivo (13-oct).
 
 > ✅ **14-ago-2026:** ISVIMED saneado (007/008), **Wilson recuperado** y con poder
 > otorgado. **Patrimonio de familia (009) y afectación (010) se levantan en la
@@ -74,9 +74,9 @@ escritura de venta objetivo.
 >
 > 🔴 **Único bloqueante: el estado de cuenta del predial.** Resolución de exención
 > ✅ en mano; el estado de cuenta en ceros tarda **20 días hábiles**.
-> **Radicado el 4-ago → sale el 3-sep** (o el **27-ago** por derecho de petición,
+> **Radicado hoy 14-ago → sale ~15-sep** (o ~**8-sep** por derecho de petición,
 > que es más rápido: 15 hábiles, Ley 1755/2015). Frente a la escritura objetivo
-> del 13-oct hay **42 días de colchón**, pero solo si se radica **ya**.
+> del 13-oct el colchón ya es de solo **~4 semanas**. Radicar HOY.
 > → `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`
 
 ### Flip 02 — apto 9840
