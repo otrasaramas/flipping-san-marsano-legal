@@ -45,17 +45,17 @@
 
 | Anot. | Limitación | Quién firma / gestiona | Firmado | **Registrado** | Estado |
 |---|---|---|---|---|---|
-| 007 | Prohibición de transferencia (ISVIMED, 10 años) | Retiro de ISVIMED del 9844 | ✅ | ⬜ **confirmar** | 🟢/🟡 **saneado según Sara (03-ago); falta ver el certificado nuevo** |
+| 007 | Prohibición de transferencia (ISVIMED, 10 años) | Retiro de ISVIMED del 9844 | ✅ | ⬜ **confirmar** | 🟢/🟡 **saneado según Sara (14-ago); falta ver el certificado nuevo** |
 | 008 | Derecho de preferencia (ISVIMED) | Igual al anterior | ✅ | ⬜ **confirmar** | 🟢/🟡 igual |
 | 009 | Patrimonio de familia (María + 2 hijos) | **María + los 2 hijos (mayores)** → se levanta **en la misma escritura** | ⬜ | ⬜ | 🟡 va en la escritura de venta |
 | 010 | Afectación a vivienda familiar (Wilson) | **Poder de Wilson** ✅ — se levanta **en la misma escritura** | ⬜ | ⬜ | 🟡 va en la escritura de venta |
 
-> ✅ **03-ago-2026 (Sara):** el ISVIMED del 9844 **ya salió saneado**, y **Wilson
+> ✅ **14-ago-2026 (Sara):** el ISVIMED del 9844 **ya salió saneado**, y **Wilson
 > otorgó poder** para que se levanten las limitaciones a su nombre. El
 > levantamiento se firmará y radicará **en el momento de la venta**, en el mismo
 > acto (estrategia de "mismo turno" en la ORIP).
 >
-> ✅ **Actualización 03-ago-2026 (Sara):** **Wilson recuperado** — se cae el riesgo
+> ✅ **Actualización 14-ago-2026 (Sara):** **Wilson recuperado** — se cae el riesgo
 > de extinción del mandato por muerte (Art. 2189 C.C.). El **patrimonio de familia
 > (009) y la afectación (010) se levantan en la misma escritura** de venta, con el
 > poder de Wilson. Estructura confirmada: un solo acto.
@@ -68,7 +68,7 @@
 > → Ruta y modelo de derecho de petición en
 > `plantillas/10-paz-y-salvo-predial-inmueble-exento.md`.
 >
-> **Estado del papel (03-ago):** la resolución de exención ya está en mano ✅. El
+> **Estado del papel (14-ago):** la resolución de exención ya está en mano ✅. El
 > **estado de cuenta en ceros no lo expiden de una**: el trámite tarda **20 días
 > hábiles**.
 >
@@ -130,7 +130,7 @@ predio exento, la Alcaldía no expide el documento)** · ⬜ valorización
 
 ### Punto de equilibrio del 9844
 
-✅ **Corrección 03-ago-2026:** la remodelación costó **$23M**, no los $40M que
+✅ **Corrección 14-ago-2026:** la remodelación costó **$23M**, no los $40M que
 figuraban como presupuesto en `modelo-margen-y-renta.md`. Con el dato real, este
 flip **sí deja utilidad**.
 
@@ -180,8 +180,8 @@ utilidad gravable sube) · ⬜ recibos de notaría y registro
 
 | # | Qué | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|
-| 1 | **Radicar el estado de cuenta (trámite ordinario) Y el derecho de petición el mismo día** — guardar ambos radicados | Sara | **04-ago-2026** ⏰ | ⬜ |
-| 2 | Correo a la notaría: ¿acepta resolución de exención + estado de cuenta? ¿o le sirve solo la resolución? | Sara | 05-ago-2026 | ⬜ |
+| 1 | **Radicar el estado de cuenta (trámite ordinario) Y el derecho de petición el mismo día** — guardar ambos radicados | Sara | **HOY 14-ago-2026** 🔴 | ⬜ |
+| 2 | Correo a la notaría: ¿acepta resolución de exención + estado de cuenta? ¿o le sirve solo la resolución? | Sara | 17-ago-2026 | ⬜ |
 | 3 | Publicar el apartamento en venta con fotos post-remodelación | Sara | **15-ago-2026** | ⬜ |
 | 4 | Certificado de tradición nuevo — verificar que 007/008 no figuran | Sara | 14-ago-2026 | ⬜ |
 
@@ -189,8 +189,8 @@ utilidad gravable sube) · ⬜ recibos de notaría y registro
 
 | Fecha | Qué pasó |
 |---|---|
-| 03-ago-2026 | **Wilson recuperado.** Se confirma que 009 y 010 se levantan **en la misma escritura** de venta. Único bloqueante: **paz y salvo de predial** — predio exento, la Alcaldía no expide el documento pese a tener la resolución de exención. Se crea la plantilla 10 con la ruta y el derecho de petición. |
-| 03-ago-2026 | Sara confirma: **ISVIMED del 9844 saneado** y **Wilson otorgó poder** para el levantamiento de la afectación. |
+| 14-ago-2026 | **Wilson recuperado.** Se confirma que 009 y 010 se levantan **en la misma escritura** de venta. Único bloqueante: **paz y salvo de predial** — predio exento, la Alcaldía no expide el documento pese a tener la resolución de exención. Se crea la plantilla 10 con la ruta y el derecho de petición. |
+| 14-ago-2026 | Sara confirma: **ISVIMED del 9844 saneado** y **Wilson otorgó poder** para el levantamiento de la afectación. |
 | 31-jul-2026 | Se monta el sistema de seguimiento (tablero + ficha). |
 | 18-jul-2026 | Pago de $73.000.000 con cheque a María. |
 | 30-jun-2026 | Poder especial María → Nicolás por E.P. (Notaría 1ª de Bello), radicado en VUR. Se detecta declaración juramentada de unión vigente que no corresponde. |

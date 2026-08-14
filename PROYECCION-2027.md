@@ -2,7 +2,7 @@
 
 > ⚠️ Apoyo informativo, **no es asesoría tributaria**. Las UVT y tarifas de 2027
 > están **estimadas**; confirmarlas con el contador. Los precios de compra y venta
-> son los que definió Sara (03-ago-2026) y **hay que validarlos contra el mercado
+> son los que definió Sara (14-ago-2026) y **hay que validarlos contra el mercado
 > real de El Tirol**.
 
 **Respuesta corta: SÍ, es alcanzable en 2027 — con un solo flip rotando todo el
@@ -105,7 +105,7 @@ simultáneos y $797M de capital** a mediados de 2028.
 
 ---
 
-## 4-bis) ✅ Actualización 03-ago-2026 — el arranque es mucho mejor de lo previsto
+## 4-bis) ✅ Actualización 14-ago-2026 — el arranque es mucho mejor de lo previsto
 
 La remodelación real de los dos apartamentos fue de **$23M cada uno** (no $40M), y
 el 9840 se compró en **$123M**. Con eso, **ambos flips dejan utilidad** y la caja

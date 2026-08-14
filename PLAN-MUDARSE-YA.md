@@ -4,7 +4,7 @@
 > remodelación $20M, venta $165M, ciclo 3 meses. Punto de partida: **$150M de
 > capital y 1 cupo** tras vender el 9844 y el 9840.
 
-**Fecha:** 03-ago-2026 · **Meta:** vivir juntos rápido, arriendo de **$3M**
+**Fecha:** 14-ago-2026 · **Meta:** vivir juntos rápido, arriendo de **$3M**
 (mitad cada uno), con comodidad, comida, salud y algo de ahorro.
 
 ---

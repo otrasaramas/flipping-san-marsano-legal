@@ -4,7 +4,7 @@
 > basados en el modelo de `PROYECCION-2027.md` (compra $100M, remodelación $20M,
 > venta $165M, ciclo de 3 meses). Los costos de vida son **estimados**: corrígelos.
 
-**Fecha:** 03-ago-2026
+**Fecha:** 14-ago-2026
 **Lo que quiere Sara:** irse a vivir con Nicolás en 2027 (renta ~$4M/mes),
 vida cómoda sin lujos, **la prioridad es escalar**, y a futuro casa propia con
 taller.

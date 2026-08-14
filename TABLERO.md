@@ -3,7 +3,7 @@
 > ⚠️ Apoyo informativo, **no es asesoría legal ni tributaria**. Cada documento del
 > repo es un **borrador** para revisar con abogado/notaría/contador.
 
-**Última actualización: 03-ago-2026** · Actualízalo **cada viernes** (o cada vez
+**Última actualización: 14-ago-2026** · Actualízalo **cada viernes** (o cada vez
 que pase algo: una firma, un radicado, un pago).
 
 ---
@@ -26,13 +26,13 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 
 | # | Qué | Flip | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|---|
-| 1 | **Radicar HOY el estado de cuenta + el derecho de petición** (plantilla 10) — el reloj de los 20 días hábiles solo arranca al radicar | 01 | Sara | **04-ago-2026** ⏰ | ⬜ |
-| 2 | Correo a la notaría: ¿qué acepta para un predio exento? | 01 | Sara | 05-ago-2026 | ⬜ |
-| 3 | **PUBLICAR EL 9844 YA** (no esperar al 15 — gana 11 días; ver `PLAN-TURBO.md`) | 01 | Sara | **04-ago-2026** ⏰ | ⬜ |
+| 1 | **Radicar HOY el estado de cuenta + el derecho de petición** (plantilla 10) — el reloj de los 20 días hábiles solo arranca al radicar | 01 | Sara | **HOY 14-ago-2026** 🔴 | ⬜ |
+| 2 | Correo a la notaría: ¿qué acepta para un predio exento? | 01 | Sara | 17-ago-2026 | ⬜ |
+| 3 | **PUBLICAR EL 9844 YA** (no esperar al 15 — gana 11 días; ver `PLAN-TURBO.md`) | 01 | Sara | **HOY 14-ago-2026** 🔴 | ⬜ |
 | 4 | Certificado de tradición nuevo del 9844 (verificar 007/008) | 01 | Sara | 14-ago-2026 | ⬜ |
-| 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 05-ago-2026 | ⬜ |
+| 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 17-ago-2026 | ⬜ |
 | 6 | Firmar **levantamiento de afectación** del 9840 con Luis Eduardo Chavarría | 02 | Notaría | [fecha] | ⬜ |
-| 7 | Confirmar **saldo real a doña Martha** (vendedora del 9840) y sus abonos | 02 | Sara | 08-ago-2026 | ⬜ |
+| 7 | Confirmar **saldo real a doña Martha** (vendedora del 9840) y sus abonos | 02 | Sara | 19-ago-2026 | ⬜ |
 | 8 | Sacar **certificado de tradición nuevo** de cada folio tras registrar | 01 y 02 | Sara | al registrar | ⬜ |
 
 > ⚠️ El cierre del flip 2 estaba proyectado para **julio de 2026** y ya estamos a
@@ -68,7 +68,7 @@ Promesa de compra ──► Remodelación ──► ¡PUBLICAR! ──► Compra
 **Hoy va en el día 82 de 150.** Quedan **12 días** para publicar y **68** para la
 escritura de venta objetivo.
 
-> ✅ **03-ago-2026:** ISVIMED saneado (007/008), **Wilson recuperado** y con poder
+> ✅ **14-ago-2026:** ISVIMED saneado (007/008), **Wilson recuperado** y con poder
 > otorgado. **Patrimonio de familia (009) y afectación (010) se levantan en la
 > misma escritura de venta.** Vía libre para publicar.
 >
@@ -153,6 +153,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 - `ESTRUCTURA-FINANCIERA.md` — quién puso qué, a quién se le debe y qué queda al vender.
 - `PROYECCION-CASA-1200.md` — cuándo subir el sueldo y cuándo llega la casa.
 - `PLAN-MUDARSE-YA.md` — cómo mudarse en octubre sin frenar el negocio.
+- `ANALISIS-PLAN-RENTA-Y-CREDITO.md` — por qué el apto en renta hoy resta, y qué hacer en su lugar.
 - `TABLERO.md` (este) — la foto de todo.
 - `flipping-NN-.../seguimiento.md` — el detalle y la bitácora de cada apto.
 - `plantillas/09-ficha-seguimiento-flip.md` — para cada apto nuevo.

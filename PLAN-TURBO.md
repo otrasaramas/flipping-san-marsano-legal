@@ -4,7 +4,7 @@
 > mercado (precios, tiempos de venta) son **supuestos** basados en lo que hay en
 > el repo; hay que contrastarlos con la realidad de El Tirol antes de decidir.
 
-**Fecha:** 03-ago-2026 · **Meta declarada:** llegar a **$10.000.000 mensuales**
+**Fecha:** 14-ago-2026 · **Meta declarada:** llegar a **$10.000.000 mensuales**
 sostenidos, lo más rápido posible.
 
 ---

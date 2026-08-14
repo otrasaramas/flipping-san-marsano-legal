@@ -119,8 +119,8 @@
 
 | # | Qué | Responsable | Fecha límite | Estado |
 |---|---|---|---|---|
-| 1 | Reclamar el documento de ISVIMED y **radicarlo en la ORIP** (guardar turno) | Sara | 05-ago-2026 | ⬜ |
-| 2 | Cerrar la estructura de compra a Martha (precio, abonos, saldo, poder/cesión) | Sara | 08-ago-2026 | ⬜ |
+| 1 | Reclamar el documento de ISVIMED y **radicarlo en la ORIP** (guardar turno) | Sara | 17-ago-2026 | ⬜ |
+| 2 | Cerrar la estructura de compra a Martha (precio, abonos, saldo, poder/cesión) | Sara | 19-ago-2026 | ⬜ |
 | 3 | Agendar notaría con Luis Eduardo para el levantamiento de la afectación | Sara | [fecha] | ⬜ |
 
 ## 8) Bitácora (lo más reciente arriba)

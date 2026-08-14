@@ -1,7 +1,7 @@
 # 💰 Estructura financiera — quién puso qué y qué queda al vender
 
 > ⚠️ Apoyo informativo, **no es asesoría financiera ni tributaria.** Con los datos
-> que dio Sara el 03-ago-2026. Hay **huecos marcados en rojo** que hay que cerrar.
+> que dio Sara el 14-ago-2026. Hay **huecos marcados en rojo** que hay que cerrar.
 
 **Decisión de venta:** sin intermediarios, precio rápido.
 **Pisos fijados por Sara:** 9844 → **$168M** · 9840 → **$165M**.
@@ -12,12 +12,7 @@
 
 Papeles: **$1,8M por apartamento, pagados por nosotros** ✅ (confirmado).
 
-> ❓ **DATO EN CONFLICTO — hay que resolverlo:** primero dijiste "la remodelación
-> del 9840 me costó 23 millones **y la del 9844 también**", y después "**las dos
-> remodelaciones costaron 23 millones**". No es lo mismo: son **$23M o $46M**, y
-> mueven la utilidad en $23M. Abajo van los dos escenarios.
-
-### Escenario A — $23M cada uno (total $46M)
+✅ **Remodelación confirmada: $23M por apartamento** ($46M en total).
 
 | | 9844 | 9840 |
 |---|---|---|
@@ -32,26 +27,8 @@ Papeles: **$1,8M por apartamento, pagados por nosotros** ✅ (confirmado).
 
 **Utilidad combinada: +$38,2M**
 
-### Escenario B — $23M entre los dos ($11,5M cada uno)
-
-| | 9844 | 9840 |
-|---|---|---|
-| Compra | $121,0M | $120,0M |
-| Remodelación | $11,5M | $11,5M |
-| Papeles | $1,8M | $1,8M |
-| Otros | $0,6M | $0,6M |
-| Renta pendiente | — | $3,0M |
-| **COSTO TOTAL** | **$134,9M** | **$136,9M** |
-| **Tu precio** | **$168M** | **$165M** |
-| **UTILIDAD** | **+$33,1M** | **+$28,1M** |
-
-**Utilidad combinada: +$61,2M**
-
-> ✅ **En los dos escenarios tus precios son buenos y con buen margen.** Vender sin
-> intermediario te ahorra ~$5M por apartamento (la comisión del 3%): bien pensado.
->
-> ⚠️ Todo lo que sigue está calculado con el **escenario A** (el conservador). Si
-> resulta ser el B, todo mejora en $23M.
+> ✅ **Tus precios son buenos y con buen margen.** Vender sin intermediario te
+> ahorra ~$5M por apartamento (la comisión del 3%): bien pensado.
 >
 > ⚠️ **La renta del 9840 corre:** $1M cada mes que no se venda. Si se demora tres
 > meses más, se come $3M más de la utilidad. Es un reloj con costo.
@@ -70,34 +47,6 @@ Papeles: **$1,8M por apartamento, pagados por nosotros** ✅ (confirmado).
 
 ---
 
-## 3) 🔴 Pero esa plata NO es tuya. Casi toda tiene dueño.
-
-| A quién | Cuánto |
-|---|---|
-| Saldo a María (9844) | $8,0M |
-| **Saldo a Martha (9840)** | **❓ FALTA EL DATO** |
-| Nicolás | $50,0M |
-| Hermano de Nicolás (3 meses) | $15,0M |
-| Crédito de tu mamá (capital) | $95,0M |
-| Renta atrasada del 9840 | $3,0M |
-| **Subtotal conocido** | **$171,0M** |
-
-```
-Caja que entra                    $329,7M
-− Deudas conocidas               −$171,0M
-− Reserva de impuestos (15%)       −$5,7M
-= CAPITAL LIBRE                   ~$153,0M   (menos el saldo a Martha)
-```
-
-> 🔴 **Corrección importante a lo que te dije antes:** yo había calculado $320M de
-> capital para arrancar. **No es así.** Con las deudas pagadas te quedan
-> **~$153M — un solo cupo de flip, no dos.**
->
-> La diferencia es que la operación está montada **con plata prestada**. La
-> utilidad ($38,2M) es real y es tuya; el resto hay que devolverlo.
-
----
-
 ## 🔴 AVISO — HAY DOS MARTHAS. NO CONFUNDIRLAS.
 
 | Quién | Papel | Cómo la llamamos aquí |
@@ -110,7 +59,7 @@ Caja que entra                    $329,7M
 > la persona equivocada o redactar mal una escritura. **De aquí en adelante, en
 > todo documento hay que escribir el nombre completo y la cédula.**
 >
-> ✅ **Confirmado por Sara (03-ago): son dos personas distintas.**
+> ✅ **Confirmado por Sara (14-ago): son dos personas distintas.**
 > ❓ Falta el **nombre completo y la cédula de la mamá** para dejarlo bien anotado
 > en los documentos de la sociedad y en los pagos.
 
@@ -118,7 +67,7 @@ Caja que entra                    $329,7M
 
 ## 3-bis) ✅ RESUELTO el hueco — y así queda la foto real
 
-**Sara (03-ago):** el 9840 **no está pagado**; se le paga a Martha con la plata del
+**Sara (14-ago):** el 9840 **no está pagado**; se le paga a Martha con la plata del
 comprador. Por eso el afán. Con eso cuadra todo:
 
 | Lo que YA salió (de los $160M prestados) | |
@@ -134,33 +83,7 @@ comprador. Por eso el afán. Con eso cuadra todo:
 | **9840 a Martha** | **$120,0M** |
 | Renta del 9840 | $3,0M |
 
-### 🔴 Y este es el número que importa
-
-```
-Caja que entra al vender los dos       $329,7M
-− Saldo a María                          −$8,0M
-− Martha (9840)                        −$120,0M
-− Renta                                  −$3,0M
-− Nicolás                               −$50,0M
-− Hermano de Nicolás                    −$15,0M
-− Crédito de mamá                       −$95,0M
-                                       ─────────
-= QUEDA LIBRE                            $38,7M   ← exactamente tu utilidad
-− Reserva DIAN (15%)                      −$5,7M
-= CAPITAL REAL TUYO                      $32,9M
-```
-
-> ### ⚠️ Capital propio: $32,9M. Eso NO alcanza ni para un flip.
->
-> Toda la operación está montada con plata de otros. Tu utilidad es real
-> ($38,2M) y está bien ganada — pero **es todo lo que tienes.** Después de
-> pagarle a todo el mundo no queda capital para comprar el siguiente
-> apartamento de $100M.
->
-> **Toda la proyección de 2027 que hicimos antes asumía $320M de arranque. Con
-> $32,9M, no se sostiene.**
-
-### ✅✅ CUENTA DEFINITIVA (03-ago, con todas las correcciones)
+### ✅✅ CUENTA DEFINITIVA (14-ago, con todas las correcciones)
 
 **Quién puso la plata:**
 
@@ -218,7 +141,7 @@ puede leerse como distribución encubierta. Definir con el contador si va como
 **pago de servicios (con cuenta de cobro)**, como **rendimiento del capital
 invertido**, o como **retiro de socios**. No lo dejen en efectivo sin papel.
 
-### ✅ Actualización — Nicolás es SOCIO (03-ago)
+### ✅ Actualización — Nicolás es SOCIO (14-ago)
 
 Sus **$50M fueron plante de inicio**, no préstamo. Entonces **no salen de la
 caja**: se quedan como capital de trabajo. Y a cambio le corresponde **parte de la

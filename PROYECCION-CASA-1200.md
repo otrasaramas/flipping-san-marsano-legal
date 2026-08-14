@@ -5,7 +5,7 @@
 > modelo se cumple (aún **no probado en una operación real**). No incluye
 > inflación ni valorización.
 
-**Fecha:** 03-ago-2026 · **Punto de partida:** $150M de capital tras vender el
+**Fecha:** 14-ago-2026 · **Punto de partida:** $150M de capital tras vender el
 9844 y el 9840.
 
 ---
