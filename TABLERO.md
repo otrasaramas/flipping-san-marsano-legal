@@ -147,6 +147,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 4. Al terminar: `commit + push`. El histórico de git es la memoria de la operación.
 
 **Archivos vivos:**
+- **`EL-PLAN.md`** — 🎯 el plan de las tres fases (sueldo, mudanza, casa). Empieza aquí.
 - `PLAN-TURBO.md` — el plan de aceleración.
 - `PROYECCION-2027.md` — el modelo económico y la ruta al sueldo de $10M/mes.
 - `PLAN-DE-VIDA-Y-NEGOCIO.md` — cuánto retirar, cuándo mudarse y cómo trabajar.
