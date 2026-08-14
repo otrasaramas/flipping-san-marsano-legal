@@ -84,12 +84,27 @@
 
 | Concepto | Valor | Estado |
 |---|---|---|
-| Precio de compra a Martha | **[completar]** | ⚠️ sin definir |
+| Precio de compra a Martha | **$123.000.000** ✅ | |
 | Abonos entregados | [completar] | ⬜ |
 | Saldo pendiente | [completar] | ⬜ |
-| Remodelación presupuestada / ejecutada | [completar] | ⬜ |
-| **Precio de venta objetivo** | **$180.000.000** | |
-| Utilidad estimada | [completar] | |
+| Remodelación **real ejecutada** | **$23.000.000** ✅ | facturas: [archivar] |
+| Notaría/registro de compra + otros | ~$4,3M | estimado |
+| **COSTO TOTAL** | **$150,3M** | |
+| **Precio de venta objetivo** | **$165–170M** · piso **$160M** | |
+| **Utilidad estimada** | **$9,8M a $14,6M** (con inmobiliaria) | ✅ |
+
+### Punto de equilibrio del 9840
+
+| Precio de venta | Con inmobiliaria (3%) | Venta directa | Caja que regresa |
+|---|---|---|---|
+| $160M | +$4,9M | +$9,7M | $155,2M |
+| **$165M** | **+$9,8M** | +$14,7M | $160,1M |
+| **$170M** | **+$14,6M** | +$19,7M | $164,9M |
+| $175M | +$19,5M | +$24,7M | $169,8M |
+
+> **Equilibrio: $154,9M con inmobiliaria / $150,3M directo. Piso: $160M.**
+> Este apartamento costó $2,1M más que el 9844, así que su piso es un poco más
+> alto. No confundirlos al negociar.
 
 ## 6) Riesgos abiertos
 

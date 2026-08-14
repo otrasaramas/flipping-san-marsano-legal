@@ -105,6 +105,39 @@ simultáneos y $797M de capital** a mediados de 2028.
 
 ---
 
+## 4-bis) ✅ Actualización 03-ago-2026 — el arranque es mucho mejor de lo previsto
+
+La remodelación real de los dos apartamentos fue de **$23M cada uno** (no $40M), y
+el 9840 se compró en **$123M**. Con eso, **ambos flips dejan utilidad** y la caja
+que regresa financia **2 cupos desde el arranque**:
+
+| | 9844 | 9840 |
+|---|---|---|
+| Compra | $121M | $123M |
+| Remodelación real | $23M | $23M |
+| **Costo total** | **$148,2M** | **$150,3M** |
+| **Piso de negociación** | **$158M** | **$160M** |
+| Utilidad vendiendo a $165M | +$11,8M | +$9,8M |
+
+**Caja que regresa vendiendo ambos a $165M: $320M → 2,6 cupos.**
+
+### Proyección con $320M de arranque (mudanza en enero-2027)
+
+| Trimestre | Flips | Utilidad | Retiro | Capital al cierre |
+|---|---|---|---|---|
+| Q4-26 | 2 | $72M | $1,5M/mes | $377M |
+| **Q1-27** 🏡 | **3** | $108M | $4,5M/mes | $455M |
+| Q2-27 | 3 | $108M | $4,5M/mes | $533M |
+| Q3-27 | 4 | $144M | $4,5M/mes | $642M |
+| Q4-27 | 5 | $180M | $4,5M/mes | $782M |
+| Q1-28 | 6 | $216M | $7M/mes | $944M |
+
+> Con este arranque, el sueldo de **$10M/mes es sostenible desde mediados de
+> 2027**, no a finales. Y a comienzos de 2028 el capital ya permite comprar la
+> casa con taller sin frenar el negocio.
+
+---
+
 ## 5) 🔴 El supuesto que hay que probar antes de creerse todo esto
 
 **Todo el modelo depende de comprar en $90–105M y vender en $165M.**

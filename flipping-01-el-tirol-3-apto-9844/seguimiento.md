@@ -122,31 +122,30 @@ predio exento, la Alcaldía no expide el documento)** · ⬜ valorización
 | Abono 2 — entrega (26-jun-2026) | $30.000.000 | ✅ |
 | Abono 3 — cheque (18-jul-2026) | $73.000.000 | ✅ |
 | **Saldo a la firma de la escritura** | **$8.000.000** | ⬜ |
-| Remodelación presupuestada | $40.000.000 | |
-| Remodelación ejecutada con factura | [completar] | ⚠️ |
+| Remodelación **real ejecutada** | **$23.000.000** ✅ | (el presupuesto de $40M no se usó) |
+| Facturas de esos $23M archivadas | [completar] | ⚠️ **críticas para el impuesto** |
 | Gastos notaría/rentas/registro | **por mitades** (otrosí, cláusula OCTAVA); levantamientos y saneamiento **a cargo de la vendedora** | |
-| **Precio de venta objetivo** | **$165–170M** (decisión 03-ago: vender rápido) | ⚠️ ver abajo |
-| **Utilidad estimada** | **~$0** — este flip es de equilibrio, no de utilidad | 🔴 |
+| **Precio de venta objetivo** | **$165–170M** · piso $158M | |
+| **Utilidad estimada** | **$11,8M a $16,7M** (con inmobiliaria) | ✅ |
 
-### ⚠️ Punto de equilibrio del 9844 — leer antes de fijar precio
+### Punto de equilibrio del 9844
 
-Costo real acumulado: compra **$121M** + remodelación **$40M** + notaría/registro
-de compra (~$3,6M) + otros (~$0,6M) = **$165,2M**.
+✅ **Corrección 03-ago-2026:** la remodelación costó **$23M**, no los $40M que
+figuraban como presupuesto en `modelo-margen-y-renta.md`. Con el dato real, este
+flip **sí deja utilidad**.
 
-| Precio de venta | Con inmobiliaria (3%) | Venta directa |
-|---|---|---|
-| **$165M** | **−$5,2M** 🔴 | −$0,2M |
-| **$170M** | −$0,3M | +$4,8M |
-| $175M | +$4,5M | +$9,8M |
-| $180M | +$9,4M | +$14,8M |
+Costo real: compra **$121M** + remodelación **$23M** + notaría/registro de compra
+(~$3,6M) + otros (~$0,6M) = **$148,2M**.
 
-> 🔴 **Vender el 9844 en $165M con inmobiliaria es PÉRDIDA.** El equilibrio está en
-> **$170,3M con comisión** y **$165,2M en venta directa**. La fórmula de
-> "$165–170M" nace de comprar a **$100M**; este apartamento costó $121M y se
-> remodeló con $40M. **A este no se le aplica la fórmula nueva.**
->
-> **Piso duro: $172M con inmobiliaria / $168M en venta directa.** Por debajo de
-> ahí se vende plata.
+| Precio de venta | Con inmobiliaria (3%) | Venta directa | Caja que regresa |
+|---|---|---|---|
+| $160M | +$7,0M | +$11,8M | $155,2M |
+| **$165M** | **+$11,8M** | +$16,8M | $160,1M |
+| **$170M** | **+$16,7M** | +$21,8M | $164,9M |
+| $175M | +$21,5M | +$26,8M | $169,8M |
+
+> **Equilibrio: $152,8M con inmobiliaria / $148,2M directo.**
+> **Piso recomendado: $158M.** De ahí para arriba, vender rápido siempre gana.
 
 ### ✅ Pero vender rápido sigue siendo lo correcto
 

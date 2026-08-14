@@ -90,17 +90,17 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 
 | Flip | Compra | Pagado | Falta pagar | Remodelación | Venta objetivo | Utilidad estimada |
 |---|---|---|---|---|---|---|
-| 01 | $121.000.000 | $113.000.000 | $8.000.000 | $40.000.000 | **$172M piso** | **~$0 — flip de equilibrio** 🔴 |
-| 02 | **[completar — urgente]** | [completar] | [completar] | [completar] | $165–170M | **[no se puede calcular sin el precio de compra]** |
+| 01 | $121.000.000 | $113.000.000 | $8.000.000 | **$23.000.000** | $165–170M · **piso $158M** | **+$11,8M a $16,7M** ✅ |
+| 02 | $123.000.000 | [completar] | [completar] | **$23.000.000** | $165–170M · **piso $160M** | **+$9,8M a $14,6M** ✅ |
 
-> 🔴 **El 9844 no deja utilidad.** Costo acumulado $165,2M → vender en $165M con
-> inmobiliaria es **pérdida de $5,2M**. **Piso: $172M con comisión / $168M
-> directo.** Vale la pena venderlo rápido igual, porque libera $165M de capital
-> — pero **esa plata no es utilidad y no se puede presupuestar.**
-> Detalle en `flipping-01-.../seguimiento.md`.
+> ✅ **Corregido el 03-ago:** la remodelación real fue de **$23M cada uno**, no los
+> $40M que figuraban como presupuesto. **Los dos flips dejan utilidad.**
 >
-> ⚠️ **Del 9840 no sabemos el precio de compra.** Si va a venderse este mes, hay
-> que saber **hoy** si deja plata o no.
+> **Vendiendo ambos a $165M: ~$21,6M de utilidad combinada y $320M de caja que
+> regresa** — suficiente para **2 flips simultáneos** (y casi 3).
+>
+> **Pisos de negociación:** 9844 → **$158M** · 9840 → **$160M**. Son distintos
+> porque el 9840 costó $2,1M más. No confundirlos.
 
 > **Ojo con la caja:** en el flip 1 ya salieron $113M + remodelación y solo entran
 > al vender. Antes de comprometer el flip 2, verifica que la caja aguanta los dos
