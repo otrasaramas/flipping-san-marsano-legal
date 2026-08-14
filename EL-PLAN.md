@@ -14,7 +14,7 @@
 | Fase | Sueldo c/u | Vivienda | Cuándo |
 |---|---|---|---|
 | **1. Arranque** | **$2M** | Como estén hoy / arriendo barato compartido | ago-2026 → 2028 |
-| **2. Vivir bien** | **$6M** | Arriendo de **$4M** (33% del ingreso ✅) | al llegar a **3 cupos** |
+| **2. Vivir bien** | **$6M c/u** ($12M el hogar) | Arriendo de **$4M** (33% del ingreso ✅) | al llegar a **3 cupos** |
 | **3. Casa propia** | $6M+ | **Casa de $1.500M** | al llegar a ~$1.340M de capital |
 
 > **La regla de oro: el sueldo sube al llegar al TERCER cupo, no antes.**
@@ -61,7 +61,33 @@ Es la misma tabla, cambiando solo el precio de compra:
 
 ---
 
-## Por qué el arriendo de $4M sí cuadra en la fase 2
+## ⚠️ Ojo: $6M en total NO alcanzan para un arriendo de $4M
+
+Con $6M de ingreso del hogar ($3M cada uno), los gastos de dos personas sin
+contar arriendo ya son **$4,5M**. Queda $1,5M para el arriendo:
+
+| Arriendo | % del ingreso | ¿Alcanza? |
+|---|---|---|
+| $4,0M | 67% | 🔴 **NO — faltan $2,5M** |
+| $3,0M | 50% | 🔴 NO — faltan $1,5M |
+| $2,0M | 33% | 🔴 NO — faltan $0,5M |
+| **$1,5M** | 25% | justo |
+
+> **Un arriendo de $4M necesita un ingreso de hogar de ~$12M, es decir $6M cada
+> uno.** Con $6M en total, el arriendo sano es de $1,8–2,0M.
+
+### 💡 Y la buena noticia: retirar $6M cada uno casi no cuesta
+
+| Retiro en fase 2 | Arriendo posible | 🏠 La casa llega |
+|---|---|---|
+| $3M c/u ($6M hogar) | $2M | Q4-2029 |
+| **$6M c/u ($12M hogar)** | **$4M** ✅ | **Q1-2030** |
+
+> **Un solo trimestre de diferencia.** Para cuando lleguen a la fase 2 ya tienen
+> 3 cupos y luego 6, y la utilidad es tan grande que duplicar el sueldo apenas
+> se nota. **Retiren los $6M cada uno: es casi gratis y viven mucho mejor.**
+
+## Presupuesto del hogar en la fase 2 ($12M)
 
 Ingreso del hogar: **$12M** ($6M cada uno).
 
