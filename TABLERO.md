@@ -125,6 +125,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 **Archivos vivos:**
 - `PLAN-TURBO.md` — el plan de aceleración.
 - `PROYECCION-2027.md` — el modelo económico y la ruta al sueldo de $10M/mes.
+- `PLAN-DE-VIDA-Y-NEGOCIO.md` — cuánto retirar, cuándo mudarse y cómo trabajar.
 - `TABLERO.md` (este) — la foto de todo.
 - `flipping-NN-.../seguimiento.md` — el detalle y la bitácora de cada apto.
 - `plantillas/09-ficha-seguimiento-flip.md` — para cada apto nuevo.
