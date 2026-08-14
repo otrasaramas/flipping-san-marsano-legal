@@ -12,8 +12,8 @@ que pase algo: una firma, un radicado, un pago).
 
 | Flip | Apto / Matrícula | Vendedora | Etapa | Papeles | Días corridos | Debe salir a la venta | Riesgo |
 |---|---|---|---|---|---|---|---|
-| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Saliendo a la venta | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **antes del 15-ago-2026 — quedan 12 días** | 🔴 **Paz y salvo de predial (predio exento)** |
-| **02** | 9840 · `01N-5433420` | Martha | Saneamiento | 🟡 ISVIMED aprobado, falta registrar | **[completar fecha de promesa]** | **[completar]** | 🟡 Medio — tiempos ORIP |
+| **01** | 9844 · Torre 7 · `01N-5433424` | María Montoya | Listo a fin de mes → **vender en septiembre** | 🟡 ISVIMED saneado; 009 y 010 van en la escritura | **82** (desde 13-may-2026) | **YA — publicar 04-ago** | 🔴 Predial + **margen en cero** |
+| **02** | 9840 · `01N-5433420` | Martha | **Listo — vender en AGOSTO** | 🟡 ISVIMED aprobado, falta registrar | **[completar]** | **YA** | 🔴 **Falta registrar ISVIMED + no sabemos el margen** |
 
 **Leyenda papeles:** 🟢 folio limpio y certificado nuevo en mano · 🟡 firmado pero
 sin registrar, o algo radicado en trámite · 🔴 falta firma o falta gestión.
@@ -90,8 +90,17 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 
 | Flip | Compra | Pagado | Falta pagar | Remodelación | Venta objetivo | Utilidad estimada |
 |---|---|---|---|---|---|---|
-| 01 | $121.000.000 | $113.000.000 | $8.000.000 | $40.000.000 | $180.000.000 | ~$10–19M (ver `modelo-margen-y-renta.md`) |
-| 02 | [completar] | [completar] | [completar] | [completar] | $180.000.000 | [completar] |
+| 01 | $121.000.000 | $113.000.000 | $8.000.000 | $40.000.000 | **$172M piso** | **~$0 — flip de equilibrio** 🔴 |
+| 02 | **[completar — urgente]** | [completar] | [completar] | [completar] | $165–170M | **[no se puede calcular sin el precio de compra]** |
+
+> 🔴 **El 9844 no deja utilidad.** Costo acumulado $165,2M → vender en $165M con
+> inmobiliaria es **pérdida de $5,2M**. **Piso: $172M con comisión / $168M
+> directo.** Vale la pena venderlo rápido igual, porque libera $165M de capital
+> — pero **esa plata no es utilidad y no se puede presupuestar.**
+> Detalle en `flipping-01-.../seguimiento.md`.
+>
+> ⚠️ **Del 9840 no sabemos el precio de compra.** Si va a venderse este mes, hay
+> que saber **hoy** si deja plata o no.
 
 > **Ojo con la caja:** en el flip 1 ya salieron $113M + remodelación y solo entran
 > al vender. Antes de comprometer el flip 2, verifica que la caja aguanta los dos

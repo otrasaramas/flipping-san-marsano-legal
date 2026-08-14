@@ -125,8 +125,44 @@ predio exento, la Alcaldía no expide el documento)** · ⬜ valorización
 | Remodelación presupuestada | $40.000.000 | |
 | Remodelación ejecutada con factura | [completar] | ⚠️ |
 | Gastos notaría/rentas/registro | **por mitades** (otrosí, cláusula OCTAVA); levantamientos y saneamiento **a cargo de la vendedora** | |
-| **Precio de venta objetivo** | **$180.000.000** | |
-| **Utilidad estimada** | ~$10–19M · impuesto $0–$5M | ver `modelo-margen-y-renta.md` |
+| **Precio de venta objetivo** | **$165–170M** (decisión 03-ago: vender rápido) | ⚠️ ver abajo |
+| **Utilidad estimada** | **~$0** — este flip es de equilibrio, no de utilidad | 🔴 |
+
+### ⚠️ Punto de equilibrio del 9844 — leer antes de fijar precio
+
+Costo real acumulado: compra **$121M** + remodelación **$40M** + notaría/registro
+de compra (~$3,6M) + otros (~$0,6M) = **$165,2M**.
+
+| Precio de venta | Con inmobiliaria (3%) | Venta directa |
+|---|---|---|
+| **$165M** | **−$5,2M** 🔴 | −$0,2M |
+| **$170M** | −$0,3M | +$4,8M |
+| $175M | +$4,5M | +$9,8M |
+| $180M | +$9,4M | +$14,8M |
+
+> 🔴 **Vender el 9844 en $165M con inmobiliaria es PÉRDIDA.** El equilibrio está en
+> **$170,3M con comisión** y **$165,2M en venta directa**. La fórmula de
+> "$165–170M" nace de comprar a **$100M**; este apartamento costó $121M y se
+> remodeló con $40M. **A este no se le aplica la fórmula nueva.**
+>
+> **Piso duro: $172M con inmobiliaria / $168M en venta directa.** Por debajo de
+> ahí se vende plata.
+
+### ✅ Pero vender rápido sigue siendo lo correcto
+
+Aguantar por más precio cuesta más de lo que rinde, porque el capital atrapado
+($165M) es justo el que financia el siguiente flip (que deja $36M por trimestre):
+
+| Esperar | Ganas en precio | Dejas de ganar | Neto |
+|---|---|---|---|
+| 1 mes | ~$5M | $12M | **−$7M** |
+| 2 meses | ~$10M | $24M | **−$14M** |
+| 3 meses | ~$15M | $36M | **−$21M** |
+
+> **Conclusión:** vender rápido, sí — pero **no por debajo del piso**. Este flip
+> es la matrícula que pagaste por aprender: sale en tablas y **libera $165M**, que
+> es lo que de verdad vale. **No cuentes con utilidad de este apartamento para
+> nada** (ni para mudarte, ni para el sueldo).
 
 **Soportes archivados:** ⬜ facturas de remodelación (⚠️ críticas: sin ellas la
 utilidad gravable sube) · ⬜ recibos de notaría y registro
