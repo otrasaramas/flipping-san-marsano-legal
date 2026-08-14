@@ -152,6 +152,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 - `PLAN-DE-VIDA-Y-NEGOCIO.md` — cuánto retirar, cuándo mudarse y cómo trabajar.
 - `ESTRUCTURA-FINANCIERA.md` — quién puso qué, a quién se le debe y qué queda al vender.
 - `PROYECCION-CASA-1200.md` — cuándo subir el sueldo y cuándo llega la casa.
+- `PLAN-MUDARSE-YA.md` — cómo mudarse en octubre sin frenar el negocio.
 - `TABLERO.md` (este) — la foto de todo.
 - `flipping-NN-.../seguimiento.md` — el detalle y la bitácora de cada apto.
 - `plantillas/09-ficha-seguimiento-flip.md` — para cada apto nuevo.
