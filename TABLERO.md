@@ -90,28 +90,34 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 
 | Flip | Compra | Pagado | Falta pagar | Remodelación | Venta objetivo | Utilidad estimada |
 |---|---|---|---|---|---|---|
-| 01 | $121.000.000 | $113.000.000 | $8.000.000 | **$23.000.000** | $165–170M · **piso $158M** | **+$11,8M a $16,7M** ✅ |
-| 02 | $123.000.000 | [completar] | [completar] | **$23.000.000** | $165–170M · **piso $160M** | **+$9,8M a $14,6M** ✅ |
+| 01 | $121,0M | $113,0M | $8,0M | $23,0M + papeles $1,8M | **$168M** (sin intermediario) | **+$21,6M** ✅ |
+| 02 | $120,0M | [completar] | [completar] | $23,0M + papeles $1,8M + renta $3,0M | **$165M** (sin intermediario) | **+$16,6M** ✅ |
 
-> ✅ **Corregido el 03-ago:** la remodelación real fue de **$23M cada uno**, no los
-> $40M que figuraban como presupuesto. **Los dos flips dejan utilidad.**
->
-> **Vendiendo ambos a $165M: ~$21,6M de utilidad combinada y $320M de caja que
-> regresa** — suficiente para **2 flips simultáneos** (y casi 3).
->
-> **Pisos de negociación:** 9844 → **$158M** · 9840 → **$160M**. Son distintos
-> porque el 9840 costó $2,1M más. No confundirlos.
+**Equilibrio: 9844 → $146,4M · 9840 → $148,4M.** Tus precios están muy por encima.
+**Utilidad combinada: +$38,2M.** (Si la remodelación fue $23M *en total* y no cada
+una, sube a **+$61,2M** — dato por confirmar.)
 
-> **Ojo con la caja:** en el flip 1 ya salieron $113M + remodelación y solo entran
-> al vender. Antes de comprometer el flip 2, verifica que la caja aguanta los dos
-> al tiempo.
+> 🔴 **La caja de la venta no es tuya: $171M tienen dueño.**
+> Entran $329,7M; salen $8M a María, el saldo de Martha, $50M a Nicolás, $15M al
+> hermano de Nico, $95M del crédito de mamá y $3M de renta.
+> **Capital libre real: ~$153M → UN cupo de flip, no dos.**
+>
+> 🔴 **Hueco sin explicar: $130M.** Se comprometieron $290M y solo tengo
+> identificados $160M de financiación. **Falta saber de dónde salió el resto.**
+>
+> ⏰ **Costo de tenencia: $2,1M al mes** ($1,1M de cuota del crédito + $1M de renta
+> del 9840). Vender rápido no es preferencia, es necesidad.
+>
+> → Detalle completo en `ESTRUCTURA-FINANCIERA.md`
 
 ---
 
 ## 5) Prepararme para lo que viene
 
-- **Facturas de remodelación** ($40M): son las que bajan el impuesto. Si no están
-  con título y factura, no son costo → guárdalas en la carpeta del flip.
+- **Facturas de remodelación** ($46M entre los dos): son las que bajan el
+  impuesto. Sin factura no son costo → guárdalas en la carpeta de cada flip.
+- **Crédito a nombre de tu mamá** ($95M, cuota $1,1M/mes): pagarlo **primero** al
+  vender. El riesgo lo corre ella, no tú.
 - **Habitualidad**: con 2 flips y más en camino, ya te acercas a **comerciante**
   (matrícula mercantil, contabilidad, ICA). Ver
   `flipping-01-.../escalar-5-flips-persona-natural-vs-sas.md`.
