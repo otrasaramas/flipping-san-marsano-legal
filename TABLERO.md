@@ -28,7 +28,7 @@ Cada ítem tiene dueño y fecha. Si algo lleva 2 semanas sin moverse, sube a �
 |---|---|---|---|---|---|
 | 1 | **Radicar HOY el estado de cuenta + el derecho de petición** (plantilla 10) — el reloj de los 20 días hábiles solo arranca al radicar | 01 | Sara | **04-ago-2026** ⏰ | ⬜ |
 | 2 | Correo a la notaría: ¿qué acepta para un predio exento? | 01 | Sara | 05-ago-2026 | ⬜ |
-| 3 | **Publicar el 9844** en portales (fotos post-remodelación) | 01 | Sara | 15-ago-2026 | ⬜ |
+| 3 | **PUBLICAR EL 9844 YA** (no esperar al 15 — gana 11 días; ver `PLAN-TURBO.md`) | 01 | Sara | **04-ago-2026** ⏰ | ⬜ |
 | 4 | Certificado de tradición nuevo del 9844 (verificar 007/008) | 01 | Sara | 14-ago-2026 | ⬜ |
 | 5 | **Reclamar y radicar en la ORIP** el retiro de ISVIMED del 9840 | 02 | Sara | 05-ago-2026 | ⬜ |
 | 6 | Firmar **levantamiento de afectación** del 9840 con Luis Eduardo Chavarría | 02 | Notaría | [fecha] | ⬜ |
@@ -123,6 +123,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 4. Al terminar: `commit + push`. El histórico de git es la memoria de la operación.
 
 **Archivos vivos:**
+- `PLAN-TURBO.md` — el plan de aceleración y la ruta a los $10M/mes.
 - `TABLERO.md` (este) — la foto de todo.
 - `flipping-NN-.../seguimiento.md` — el detalle y la bitácora de cada apto.
 - `plantillas/09-ficha-seguimiento-flip.md` — para cada apto nuevo.
