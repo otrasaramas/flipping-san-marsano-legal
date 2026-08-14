@@ -148,6 +148,7 @@ y fecha de entrega. Sin eso no puedo calcular la fecha de publicación.
 
 **Archivos vivos:**
 - **`EL-PLAN.md`** — 🎯 el plan de las tres fases (sueldo, mudanza, casa). Empieza aquí.
+- `PLAN-APALANCADO.md` — ⚡ pisar con $5M y pagar al vender: 4x más rápido, con freno de emergencia.
 - `PLAN-TURBO.md` — el plan de aceleración.
 - `PROYECCION-2027.md` — el modelo económico y la ruta al sueldo de $10M/mes.
 - `PLAN-DE-VIDA-Y-NEGOCIO.md` — cuánto retirar, cuándo mudarse y cómo trabajar.
