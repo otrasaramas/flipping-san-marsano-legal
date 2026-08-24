@@ -18,23 +18,24 @@ siguientes cláusulas:
 ($60.000.000)**, que EL MUTUARIO se obliga a restituir en los términos aquí
 pactados.
 
-**SEGUNDA. ENTREGA Y RECIBO.** La suma se entrega mediante **[transferencia
-electrónica / cheque / efectivo]** a **[cuenta / forma]**, el día **[__] de [____]
-de 2026**. EL MUTUARIO **declara haber recibido** dicha suma a entera satisfacción,
-prestando este documento mérito de recibo.
+**SEGUNDA. ENTREGA Y RECIBO.** La suma se entrega mediante **consignación /
+transferencia electrónica** a la cuenta **[__________]** de EL MUTUARIO, el día
+**27 de agosto de 2026**. EL MUTUARIO **declara haber recibido** dicha suma a entera
+satisfacción, prestando este documento mérito de recibo.
 
 **TERCERA. INTERESES REMUNERATORIOS.** El préstamo genera intereses a la tasa del
 **15% EFECTIVO ANUAL (E.A.)** sobre el capital. *(Referencia: por los 3 meses de
 plazo, los intereses equivalen aproximadamente a **$2.133.480**.)* Los intereses se
-pagarán **[en un solo contado junto con el capital al vencimiento / mensualmente]**.
-Las partes dejan constancia de que esta tasa **no supera la tasa de usura** vigente.
+pagarán **en un solo contado, junto con el capital, al vencimiento**. Las partes
+dejan constancia de que esta tasa **no supera la tasa de usura** vigente.
 
 **CUARTA. PLAZO.** El plazo es de **TRES (3) MESES** contados a partir de la entrega
-(cláusula SEGUNDA), venciendo el **[__] de [____] de 2026**, fecha en la cual EL
+(cláusula SEGUNDA), venciendo el **27 de noviembre de 2026**, fecha en la cual EL
 MUTUARIO restituirá **el capital más los intereses causados**.
 
-**QUINTA. FORMA Y LUGAR DE PAGO.** El pago se hará mediante **[transferencia a la
-cuenta [__] de LA MUTUANTE / cheque / efectivo]**, en el municipio de **[ciudad]**.
+**QUINTA. FORMA Y LUGAR DE PAGO.** El pago se hará mediante **consignación /
+transferencia a la cuenta [__________] de LA MUTUANTE**, en el municipio de
+**[ciudad]**.
 
 **SEXTA. INTERESES DE MORA.** En caso de mora, EL MUTUARIO pagará intereses
 moratorios a la **máxima tasa legal permitida** (tasa de usura certificada por la
@@ -59,8 +60,8 @@ de incumplimiento) estarán a cargo de **[EL MUTUARIO / según corresponda]**.
 contractual es **Medellín** y se aplican las leyes colombianas. Las controversias se
 resolverán ante los **jueces competentes de Medellín**, previa etapa de conciliación.
 
-En señal de conformidad, se firma en **[ciudad]**, a los **[__] días del mes de
-[____] de 2026**, en dos (2) ejemplares.
+En señal de conformidad, se firma en **[ciudad]**, a los **27 días del mes de agosto
+de 2026**, en dos (2) ejemplares.
 
 LA MUTUANTE,                                  EL MUTUARIO,
 
