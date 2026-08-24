@@ -5,7 +5,7 @@
 > entre `[ ]` por completar.
 
 Entre los suscritos a saber: **MARGARITA MONTOYA DE ACEVEDO**, mayor de edad,
-domiciliada en **[ciudad]**, identificada con la cédula de ciudadanía número
+domiciliada en **Medellín**, identificada con la cédula de ciudadanía número
 **24.361.601**, quien para efectos de este contrato se denominará **LA
 MUTUANTE** (la prestamista); y **NICOLÁS MEJÍA ACEVEDO**, mayor de edad,
 domiciliado en el municipio de Medellín, identificado con la cédula de ciudadanía
@@ -35,7 +35,7 @@ MUTUARIO restituirá **el capital más los intereses causados**.
 
 **QUINTA. FORMA Y LUGAR DE PAGO.** El pago se hará **en efectivo o mediante
 consignación / transferencia a la cuenta No. 10852495293 de LA MUTUANTE**, en el
-municipio de **[ciudad]**.
+municipio de **Medellín**.
 
 **SEXTA. INTERESES DE MORA.** En caso de mora, EL MUTUARIO pagará intereses
 moratorios a la **máxima tasa legal permitida** (tasa de usura certificada por la
@@ -60,7 +60,7 @@ de incumplimiento) estarán a cargo de **[EL MUTUARIO / según corresponda]**.
 contractual es **Medellín** y se aplican las leyes colombianas. Las controversias se
 resolverán ante los **jueces competentes de Medellín**, previa etapa de conciliación.
 
-En señal de conformidad, se firma en **[ciudad]**, a los **27 días del mes de agosto
+En señal de conformidad, se firma en **Medellín**, a los **27 días del mes de agosto
 de 2026**, en dos (2) ejemplares.
 
 LA MUTUANTE,                                  EL MUTUARIO,
