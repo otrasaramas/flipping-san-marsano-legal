@@ -6,7 +6,7 @@
 
 Entre los suscritos a saber: **MARGARITA MONTOYA DE ACEVEDO**, mayor de edad,
 domiciliada en **[ciudad]**, identificada con la cédula de ciudadanía número
-**[__________]**, quien para efectos de este contrato se denominará **LA
+**24.361.601**, quien para efectos de este contrato se denominará **LA
 MUTUANTE** (la prestamista); y **NICOLÁS MEJÍA ACEVEDO**, mayor de edad,
 domiciliado en el municipio de Medellín, identificado con la cédula de ciudadanía
 número **1.028.031.225**, quien se denominará **EL MUTUARIO** (el deudor); hemos
@@ -19,7 +19,7 @@ siguientes cláusulas:
 pactados.
 
 **SEGUNDA. ENTREGA Y RECIBO.** La suma se entrega mediante **consignación /
-transferencia electrónica** a la cuenta **[__________]** de EL MUTUARIO, el día
+transferencia electrónica** a la cuenta **No. 54984286701** de EL MUTUARIO, el día
 **27 de agosto de 2026**. EL MUTUARIO **declara haber recibido** dicha suma a entera
 satisfacción, prestando este documento mérito de recibo.
 
@@ -33,9 +33,9 @@ dejan constancia de que esta tasa **no supera la tasa de usura** vigente.
 (cláusula SEGUNDA), venciendo el **27 de noviembre de 2026**, fecha en la cual EL
 MUTUARIO restituirá **el capital más los intereses causados**.
 
-**QUINTA. FORMA Y LUGAR DE PAGO.** El pago se hará mediante **consignación /
-transferencia a la cuenta [__________] de LA MUTUANTE**, en el municipio de
-**[ciudad]**.
+**QUINTA. FORMA Y LUGAR DE PAGO.** El pago se hará **en efectivo o mediante
+consignación / transferencia a la cuenta No. 10852495293 de LA MUTUANTE**, en el
+municipio de **[ciudad]**.
 
 **SEXTA. INTERESES DE MORA.** En caso de mora, EL MUTUARIO pagará intereses
 moratorios a la **máxima tasa legal permitida** (tasa de usura certificada por la
@@ -68,4 +68,4 @@ LA MUTUANTE,                                  EL MUTUARIO,
 
 _____________________________               _____________________________
 MARGARITA MONTOYA DE ACEVEDO                 NICOLÁS MEJÍA ACEVEDO
-C.C. No. [__________]                        C.C. No. 1.028.031.225
+C.C. No. 24.361.601                          C.C. No. 1.028.031.225
