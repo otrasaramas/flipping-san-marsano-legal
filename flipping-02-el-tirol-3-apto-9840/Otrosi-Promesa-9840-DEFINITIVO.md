@@ -6,11 +6,11 @@
 Los suscritos a saber: **MARTHA LUCÍA MORALES ESPINAL**, mayor de edad, domiciliada
 en el municipio de Medellín, identificada con la cédula de ciudadanía número
 **42.677.313**, quien para todos los efectos de este contrato se denominará **LA
-PROMITENTE VENDEDORA**; y **[NOMBRE DEL PROMITENTE COMPRADOR]**, mayor de edad,
+PROMITENTE VENDEDORA**; y **NICOLÁS MEJÍA ACEVEDO**, mayor de edad,
 domiciliado en el municipio de Medellín, identificado con la cédula de ciudadanía
-número **[__________]**, quien se denominará **EL PROMITENTE COMPRADOR**; hemos
+número **1.028.031.225**, quien se denominará **EL PROMITENTE COMPRADOR**; hemos
 decidido de mutuo acuerdo modificar y adicionar el contrato de promesa de
-compraventa suscrito entre las partes el **[__] de [____] de 2026**, relacionado con
+compraventa suscrito entre las partes el **21 de agosto de 2026**, relacionado con
 el bien inmueble identificado con el **Folio de Matrícula Inmobiliaria número
 01N-5433420** de la Oficina de Registro de Instrumentos Públicos de Medellín Norte
 (Apartamento **9840**, Torre 7, Piso -2, urbanización El Tirol 3, área privada
@@ -18,9 +18,10 @@ el bien inmueble identificado con el **Folio de Matrícula Inmobiliaria número
 
 **PRIMERA. MODIFICACIÓN DE LA FECHA DE LA ESCRITURA.** Las partes acuerdan, **de
 mutuo acuerdo**, modificar la fecha para el otorgamiento de la **escritura pública
-de compraventa**, la cual se otorgará en la fecha que las partes acuerden una vez
-culminado el saneamiento del folio **[y a más tardar el [__] de [____] de 2026]**,
-quedando sin efecto cualquier fecha de escrituración fijada en la promesa original.
+de compraventa**. En consecuencia, esta se otorgará **el 21 de octubre de 2026**, o
+**en la fecha en que el folio quede saneado** si el saneamiento se prolongara más
+allá de dicha fecha —dado que actualmente se está demorando—, quedando **sin efecto
+la fecha de escrituración inicialmente prevista** en la promesa.
 
 **SEGUNDA. LEVANTAMIENTOS Y SANEAMIENTO DEL FOLIO (CONDICIÓN).** Como **condición**
 para el otorgamiento de la escritura de compraventa, LA PROMITENTE VENDEDORA se
@@ -41,8 +42,8 @@ que el folio quede limpio antes de la escritura de compraventa.
 
 **TERCERA. PRECIO, ABONOS Y FORMA DE PAGO.** El precio total de la compraventa es la
 suma de **$120.000.000** M/CTE, que se paga así:
-1. **$15.000.000** M/CTE **ya pagados con anterioridad** por EL PROMITENTE COMPRADOR
-   *(abono previo — [confirmar fecha/forma])*.
+1. **$15.000.000** M/CTE **ya pagados** por EL PROMITENTE COMPRADOR como **adelanto
+   para la firma de la compraventa**.
 2. **$58.000.000** M/CTE que se entregan a LA PROMITENTE VENDEDORA el **25 de agosto
    de 2026**, como **adelanto/abono a la compra**, el mismo día de los
    levantamientos (cláusula SEGUNDA).
@@ -56,14 +57,14 @@ firma de la escritura, momento en el cual el inmueble se transfiere a EL PROMITE
 COMPRADOR o al tercero que este designe.
 
 **CUARTA. VIGENCIA.** En todo lo demás continúa vigente el contrato de promesa de
-compraventa suscrito el **[__] de [____] de 2026**.
+compraventa suscrito el **21 de agosto de 2026**.
 
-En señal de conformidad, se firma en Medellín, a los **[__] días del mes de [____]
+En señal de conformidad, se firma en Medellín, a los **25 días del mes de agosto
 de 2026**, en dos (2) ejemplares de igual valor y tenor.
 
 LA PROMITENTE VENDEDORA,                      EL PROMITENTE COMPRADOR,
 
 
 _____________________________               _____________________________
-MARTHA LUCÍA MORALES ESPINAL                 [NOMBRE DEL PROMITENTE COMPRADOR]
-C.C. No. 42.677.313                          C.C. No. [__________]
+MARTHA LUCÍA MORALES ESPINAL                 NICOLÁS MEJÍA ACEVEDO
+C.C. No. 42.677.313                          C.C. No. 1.028.031.225
