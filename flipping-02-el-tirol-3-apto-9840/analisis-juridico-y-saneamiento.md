@@ -20,6 +20,27 @@ de servicios públicos (que normalmente **no impiden** vender).
 > 2027**; por eso es indispensable el **retiro de ISVIMED registrado** para vender
 > ahora.
 
+## ⚠️ CONFIRMADO: Martha y Luis Eduardo están CASADOS (no unión de hecho)
+Partida de matrimonio **católico** (Diócesis de Santa Rosa de Osos): **LUIS EDUARDO
+CHAVARRÍA CARVAJAL** y **MARTHA LUCÍA MORALES ESPINAL** se casaron el **26 de
+noviembre de 1990** en la parroquia de **Ituango** (Libro 17 de Matrimonios, folio
+186, No. 263). El matrimonio católico **tiene efectos civiles** (si se registró en
+el registro civil).
+
+**Consecuencia (importante):** están **casados** desde 1990 y el apto se adquirió en
+**2017, durante el matrimonio** → es, con alta probabilidad, **bien de la sociedad
+conyugal** → **Luis Eduardo es cotitular y debe participar/autorizar la VENTA**, no
+solo firmar el levantamiento de la afectación. *(Esto corrige la nota anterior de
+que "solo firma la afectación".)* Encaja con el plan de que **Martha y el esposo den
+poder a Javier** para firmar la escritura.
+
+**Por conseguir para la notaría:** el **REGISTRO CIVIL de matrimonio** (el civil, no
+la partida eclesiástica) — se pide en cualquier notaría o en la Registraduría de
+Medellín con nombres y cédulas, aunque el matrimonio haya sido en Ituango.
+
+**Ajustar el otrosí 9840:** incluir a **Luis Eduardo como copromitente vendedor** (o
+su autorización expresa a la venta), no solo como firmante de la afectación.
+
 ## Puntos confirmados ✅ y por confirmar
 1. **Hijos de Martha: MAYORES de edad** → cancelación de patrimonio de familia
    **NOTARIAL** (no requiere juez). ✅
