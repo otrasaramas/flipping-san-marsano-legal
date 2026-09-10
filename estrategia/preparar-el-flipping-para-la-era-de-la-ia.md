@@ -299,6 +299,57 @@ Las cuatro primeras filas son **las que se empiezan ya**, porque ganan pase lo q
 
 ## 5. El plan, en tres horizontes
 
+### Horizonte −1 — antes del primer cierre: prepararse sin plata
+
+> Esta sección responde a la objeción correcta: *"todo eso está muy bien, pero
+> nosotros no hemos vendido el primer apartamento todavía."* Cierto. Los horizontes
+> de abajo asumen caja y operaciones cerradas. Hoy no hay ninguna de las dos.
+
+**En esta etapa, prepararse no es invertir. Es tres cosas, y las tres son gratis:**
+
+**(a) Capturar lo que hoy es gratis y en dos años es irrecuperable.**
+El activo que sostiene todo el H1 no es plata: es **el registro de cómo se hace
+esto de verdad**. Cuántos días se demoró ISVIMED. Cuánto costó de verdad cancelar
+el patrimonio. Por qué canal llegó el comprador que sí cerró. Nadie en Medellín
+tiene ese dataset — y tú lo estás generando **ahora mismo**, en los flips 01 y 02,
+sin darte cuenta. Si no se anota el mismo día, se pierde.
+→ Usar `plantillas/09-bitacora-de-operacion.md`, una por flip, llenada **mientras
+pasa**. Es la diferencia entre "creo que ISVIMED demoró como tres meses" y saber
+que fueron 87 días.
+
+**(b) Sembrar las relaciones, que toman años y no plata.**
+Una notaría que ya te conoce, un contacto en ISVIMED que contesta, un abogado de
+confianza, una administradora de copropiedad que te avisa, un asesor del FNA. Eso
+**no se compra el día que se necesita** — se construye a lo largo de varias
+operaciones. Empezarlas en el flip 01 en vez de en el flip 05 son dos años de
+diferencia. Y es exactamente el activo "no reproducible" del que trata todo este
+documento.
+
+**(c) Abrir el flujo de folios sucios antes de necesitarlo.**
+El cuello de botella del H1 no va a ser saber sanear: va a ser **encontrar** qué
+sanear. Decirle a cinco personas concretas —la administradora de El Tirol, un
+abogado que lleve sucesiones, el contacto de ISVIMED, dos vecinos— la misma frase:
+*"si se entera de un apartamento que nadie ha podido vender por líos de papeles,
+avíseme"*. Cuesta cero, tarda meses en dar fruto, y por eso hay que decirlo hoy.
+
+**(d) Fijar la regla del margen antes de que llegue el margen.**
+La regla de "1 de cada 4" del H2 solo es posible si los primeros márgenes no se
+consumen. Es muchísimo más fácil comprometerse a un reparto **ahora, cuando la
+plata es hipotética**, que cuando hay $19M en la cuenta. Definir por escrito, antes
+del primer cierre, qué porcentaje vuelve a la siguiente operación, qué porcentaje
+queda de reserva y qué porcentaje se puede sacar. No importa tanto cuáles sean los
+números; importa que estén escritos antes.
+
+**(e) Y lo que NO hay que hacer todavía.**
+No construir el pipeline de agentes del H1 ahora. Automatizar un proceso que
+todavía no se conoce es el error clásico: se termina codificando una versión
+equivocada del negocio. **El derecho a automatizar se gana después de ~3
+operaciones registradas.** Hoy toca *anotar*, no *sistematizar*.
+
+> **En una línea:** con cero plata, la preparación es **registrar, conocer gente y
+> escribir las reglas**. Las tres compuestan, ninguna cuesta, y las tres son mucho
+> más baratas hoy que dentro de tres flips.
+
 ### Horizonte 0 — próximos 12 meses: no cambies la estrategia, arregla la caja
 
 > Ningún escenario de 2032 importa si el capital no rota en 2026.

@@ -15,6 +15,13 @@ operaciones de flipping inmobiliario en Colombia.
   - `02-otrosi-promesa.md`
   - `03-cesion-posicion-contractual.md`
   - `04-escritura-cancelacion-patrimonio-y-afectacion.md`
+  - `05-soporte-remodelacion-dian.md`
+  - `06-cuenta-de-cobro-remodelacion.md`
+  - `07-requisitos-escrituracion-notaria.md`
+  - `08-saneamiento-vip-isvimed-ley1537.md`
+  - `09-bitacora-de-operacion.md` — registro de datos reales de cada flip
+- **`estrategia/`** — visión de mediano y largo plazo:
+  - `preparar-el-flipping-para-la-era-de-la-ia.md`
 - **`flipping-NN-<nombre>/`** — una carpeta por operación (certificado, análisis,
   minutas y documentos en Word).
 
