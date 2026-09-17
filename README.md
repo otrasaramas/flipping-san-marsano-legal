@@ -15,6 +15,7 @@ operaciones de flipping inmobiliario en Colombia.
   - `02-otrosi-promesa.md`
   - `03-cesion-posicion-contractual.md`
   - `04-escritura-cancelacion-patrimonio-y-afectacion.md`
+  - `09-venta-a-comprador-con-credito-hipotecario-y-fna.md`
 - **`flipping-NN-<nombre>/`** — una carpeta por operación (certificado, análisis,
   minutas y documentos en Word).
 

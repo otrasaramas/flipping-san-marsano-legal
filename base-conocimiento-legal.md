@@ -89,6 +89,27 @@
   + progresividad) que una SAS (35% fijo + dividendos). La **SAS** se elige por
   **responsabilidad limitada** y escala, no por ahorro de impuestos.
 
-## 9. Línea roja ética
+## 9. Venta a comprador con CRÉDITO HIPOTECARIO o FNA
+- El desembolso se gira **al vendedor que figura en la escritura**, a una cuenta
+  **a su nombre** (certificación bancaria con nombre y cédula idénticos). Es
+  control **SARLAFT/UIAF**. El **FNA** es especialmente rígido; algunos bancos
+  aceptan carta de instrucción a un tercero, pero es **excepción** — no
+  estructurar contando con eso.
+- **Desembolsan contra escritura REGISTRADA** con **hipoteca en primer grado** →
+  se transfiere el dominio **antes** de cobrar. Blindar la promesa (plazo máximo,
+  no entregar posesión hasta el giro, cláusula penal).
+- El **patrimonio de familia** hace el inmueble **inembargable y no hipotecable**
+  → impide la hipoteca del banco. Sanear y **registrar** es bloqueante, no
+  opcional.
+- Prestan sobre el **menor** entre precio de escritura y **su propio avalúo** →
+  la escritura debe decir el **precio real**, y conviene un **avalúo propio
+  previo** (riesgo alto en ex-VIP revalorizados).
+- 📌 **Regla:** comprador **de contado** → **cesión de posición contractual**
+  (una escritura). Comprador **financiado** → **doble escrituración** (el
+  inmueble pasa por nosotros) para que el desembolso llegue a nuestra cuenta.
+  Sobrecosto ~$2–3M sobre una compra de ~$121M; barato frente al riesgo.
+- Detalle completo en `plantillas/09-venta-a-comprador-con-credito-hipotecario-y-fna.md`.
+
+## 10. Línea roja ética
 - Nunca estructurar para **ocultar ingresos** (evasión/simulación). Sí planear
   legalmente para **reducir costos transaccionales** y **documentar** todo.
