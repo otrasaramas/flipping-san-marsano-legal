@@ -20,6 +20,25 @@ de dinero que hay que resolver ANTES.
 → **Sí. Esa exigencia es real y es la práctica estándar** en bancos y —de forma
 especialmente rígida— en el **FNA**. Ver sección 3.
 
+### ❗ Lo que esto NO significa
+**NO significa que solo podamos vender de contado.** Lo que no funciona con
+comprador financiado es **la CESIÓN de posición contractual**, no la venta.
+
+> **La decisión real no es "contado o crédito": es si el apartamento pasa por
+> nosotros o no.**
+> - Apto **a nombre de Nicolás** → le vendemos a quien sea, como sea: contado,
+>   banco, FNA, subsidio. El desembolso llega a su cuenta porque él es el
+>   vendedor de la escritura.
+> - **Cesión** (escritura Martha/María → comprador) → ahí sí quedamos limitados
+>   a **contado**, porque el giro va a la cuenta de ellas.
+
+**Encerrarse en contado sale más caro que la escritura intermedia:**
+- La mayor parte del mercado en este rango de precio compra **financiada** →
+  menos interesados, el inmueble rota más lento y el capital (y el costo del
+  mutuo) siguen corriendo.
+- El comprador de contado **sabe que tiene poder de negociación** y pide
+  descuento: un **5% sobre $180M = $9M**, contra ~$2,5M de la segunda escritura.
+
 ---
 
 ## 2. Condiciones duras (bloqueantes)
@@ -168,6 +187,13 @@ $2,5M por la vía de la cesión no vale exponer $180M.**
 8. **Predio exento de predial (VIP)**: la entidad pedirá paz y salvo. Tener lista
    la **certificación de exención** de la Alcaldía (ver
    `07-requisitos-escrituracion-notaria.md`).
+9. ⚠️ **No firmar promesa demasiado temprano.** La **carta de aprobación** del
+   crédito y el **avalúo** tienen vigencia (normalmente ~3 meses). Si firmamos
+   promesa con un comprador financiado **antes** de tener el folio limpio, se le
+   puede **vencer la aprobación** esperando a ISVIMED/ORIP y toca reprocesar
+   todo el crédito. Se puede **negociar y recibir propuestas desde ya**, pero la
+   promesa debe llevar **fechas realistas** y **prórroga automática** cuando la
+   demora sea del trámite de saneamiento o de la propia entidad financiera.
 
 ---
 
