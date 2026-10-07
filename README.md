@@ -22,6 +22,13 @@ operaciones de flipping inmobiliario en Colombia.
 - `flipping-01-el-tirol-3-apto-9844/` — Apto 9844, Torre 7, El Tirol 3 (Medellín),
   matrícula 01N-5433424. Compra a María Villaly Montoya Serna.
 
+## Préstamos e inversión familiar (`prestamos/`)
+- `contrato-mutuo-margarita-a-nicolas.md` — mutuo $60M al 15% E.A., 3 meses.
+- `propuesta-inversion-hermana.md` — opciones, tasa y simulación para aportes
+  quincenales de $500.000 (préstamo fijo vs. participación por flip).
+- `contrato-mutuo-aportes-periodicos-hermana-BORRADOR.md` — contrato para la
+  opción recomendada (un solo mutuo con aportes periódicos).
+
 ## Cómo trabajar cada flip nuevo
 1. Crear carpeta `flipping-NN-<nombre>/`.
 2. Transcribir el certificado de tradición y analizar anotaciones.
