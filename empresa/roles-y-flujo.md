@@ -220,6 +220,33 @@ Patrimonio neto a fin de año (millones COP):
 *Lo que corre la fecha:* dólar a $4.000 → jul 2033; sin crédito para crecer → sep 2033;
 flips de 5 meses → dic 2033; vender en $160M (o comprar en $110M) → ene 2034.
 
+**La forma más eficiente: girar más rápido, no solo abrir más cupos.** Bajar cada flip de 4 a
+3 meses hace que la misma plata y el mismo equipo vendan un 33% más.
+
+| Camino | Cupos | Ventas/año | Deuda máx. | USD 1M |
+|---|---|---|---|---|
+| Hoja de ruta (4 meses, $47M) | 10 | 30 | $170M | jul 2032 |
+| Solo $5M más de margen | 10 | 30 | $150M | ene 2032 |
+| Solo bajar a 3 meses (pide 40 compradores/año) | 10 | 40 | $73M | mar 2031 |
+| **3 meses + $5M más, con 7 cupos** | **7** | **28** | **$66M** | **sep 2031** |
+| 3 meses + $5M más, con 10 cupos | 10 | 40 | $66M | dic 2030 |
+
+- **Un mes menos de papeles (Sara):** solo folios que se sanean en semanas (sin VIP pendiente, o
+  El Tirol 3 cuando venza la prohibición en abr–may 2027, si el abogado lo confirma); carpeta de
+  notaría desde el día 1.
+- **Obra en 6 semanas (Sara diseña, Nico compra):** template resuelto, materiales por lote antes de
+  la entrega, cuadrilla fija.
+- **Vender durante la obra (Sara):** pauta desde el día 1 con el "antes" y renders; promesa con el
+  comprador antes de terminar para que el crédito del banco corra en paralelo. La cuota inicial del
+  comprador baja la plata necesaria.
+- **$5M más por flip (Nico):** comprar en $95M (más candidatos, referidos pagados), materiales por
+  volumen (−$1–2M), apartamento "puesto" para la venta (+$2–3M).
+- **Impuesto (contador):** si legalmente la tasa efectiva baja de 35% a ~25% (PN vs SAS, nómina,
+  facturas; preguntar si aplica el Régimen Simple, que tiene exclusiones y topes) → ~6 meses antes.
+  No está contado en la tabla.
+- **No es más eficiente:** socios con acciones (se llevan la mitad para siempre), quedarse aptos
+  para arriendo (6–7%/año vs >100%/año de un cupo), subir de ticket antes de dominar el ciclo.
+
 **Lo que pide el camino rápido**
 - **Puerta antes de crecer:** abrir el cupo 4 solo si los últimos 3 flips cumplieron 4 meses y ≥ $45M.
 - **Dónde comprar 30/año:** llevar el template a otras urbanizaciones (Robledo, Pajarito, Bello).
