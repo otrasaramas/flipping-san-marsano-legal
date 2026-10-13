@@ -146,6 +146,22 @@ SAS (caja + lo invertido en flips − deudas − impuestos). Cada flip deja ~**$
 (ya restados sueldos, cuota e impuesto) → hacen falta **~130 flips vendidos**. El tiempo depende
 de cuántos flips vendan al año.
 
+**De dónde salen los ~$25M de cada flip** (régimen de 3 cupos, 9 flips/año):
+
+| Concepto | Valor |
+|---|---|
+| Venta | $170M |
+| − Compra | −$100M |
+| − Obra | −$20M |
+| − Pauta, certificados, notaría y registro ($2M cesión / $5M doble) | −$3M |
+| **= Margen del flip** | **$47M** |
+| − Sueldos de los dos ($4M/mes × 12 ÷ 9 flips; los reciben ustedes) | −$5,3M |
+| − Cuota ($1,1M × 12 ÷ 9) | −$1,5M |
+| − Intereses del préstamo de $120M (mientras haya deuda) | −$1,9M |
+| **= Utilidad antes de impuestos** | **$38,3M** |
+| − Renta SAS 35% | −$13,4M |
+| **= Queda en la SAS** | **≈ $25M** |
+
 | Ritmo | Ventas/año | USD 1M (dólar a $3.216) | Dólar a $4.000 |
 |---|---|---|---|
 | Quedarse en 3 cupos | 9 | 2040 | 2044 |
