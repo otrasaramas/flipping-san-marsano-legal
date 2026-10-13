@@ -142,25 +142,44 @@ sigue llegando a mitad de 2027.
 ## El primer millón de dólares
 
 Con la TRM a **$3.216** (7-oct-2026), USD 1M ≈ **$3.200 millones** de **patrimonio neto** de la
-SAS (caja + lo invertido en flips − deudas − impuestos). Cada flip deja ~**$25M netos**
-(ya restados sueldos, cuota e impuesto) → hacen falta **~130 flips vendidos**. El tiempo depende
+SAS (caja + lo invertido en flips − deudas − impuestos). Con varios cupos, a la SAS le quedan en
+promedio ~**$25M por flip** (ya pagados sueldos, cuota e impuesto) → hacen falta **~130 flips vendidos**. El tiempo depende
 de cuántos flips vendan al año.
 
-**De dónde salen los ~$25M de cada flip** (régimen de 3 cupos, 9 flips/año):
+**Lo que deja cada flip y lo que se paga cada mes.** Cada flip deja su propio margen; los
+sueldos, la cuota y los intereses son de la empresa y se pagan **cada mes**, haya o no ventas.
+El impuesto se paga una vez al año sobre la utilidad de todo el año.
 
-| Concepto | Valor |
-|---|---|
-| Venta | $170M |
-| − Compra | −$100M |
-| − Obra | −$20M |
-| − Pauta, certificados, notaría y registro ($2M cesión / $5M doble) | −$3M |
-| **= Margen del flip** | **$47M** |
-| − Sueldos de los dos ($4M/mes × 12 ÷ 9 flips; los reciben ustedes) | −$5,3M |
-| − Cuota ($1,1M × 12 ÷ 9) | −$1,5M |
-| − Intereses del préstamo de $120M (mientras haya deuda) | −$1,9M |
-| **= Utilidad antes de impuestos** | **$38,3M** |
-| − Renta SAS 35% | −$13,4M |
-| **= Queda en la SAS** | **≈ $25M** |
+| Cada flip | Cesión | Doble escritura |
+|---|---|---|
+| Venta | $170M | $170M |
+| − Compra | −$100M | −$100M |
+| − Obra (con facturas) | −$20M | −$20M |
+| − Pauta, certificados, notaría, registro (recibos a nombre de la SAS: se descuentan) | −$2M | −$5M |
+| **= Margen del flip** | **$48M** | **$45M** |
+
+| Cada mes, haya o no ventas | Al mes | Al año |
+|---|---|---|
+| Sueldos de los dos (los reciben ustedes) | $4M | $48M |
+| Cuota | $1,1M | $13,2M |
+| Intereses del préstamo de $120M (mientras haya deuda) | $1,4M | $16,9M |
+| **Fijos** | **$6,5M** | **$78M** |
+
+| El año | 1 cupo · 3 flips (sin préstamo) | 3 cupos · 9 flips |
+|---|---|---|
+| Margen de los flips (~$47M c/u) | $141M | $423M |
+| − Fijos del año | −$61M | −$78M |
+| **= Utilidad antes de impuestos** | **$80M** | **$345M** |
+| − Renta SAS 35% | −$28M | −$121M |
+| **= Queda en la SAS** | **$52M** | **$224M** |
+| Promedio por flip | $17M | $25M |
+
+- El "por flip" cambia según cuántos flips vendan: con 1 cupo cada flip carga ~$20M de fijos;
+  con 3 cupos, ~$9M.
+- La doble escritura cuesta $3M más, pero esos recibos bajan el impuesto (35% × $3M ≈ $1M):
+  al final deja ~$2M menos que la cesión.
+- La simulación del millón resta los fijos **mes a mes** y el impuesto **año a año**; los $25M
+  son solo el promedio.
 
 | Ritmo | Ventas/año | USD 1M (dólar a $3.216) | Dólar a $4.000 |
 |---|---|---|---|
