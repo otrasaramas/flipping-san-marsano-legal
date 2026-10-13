@@ -183,34 +183,52 @@ El impuesto se paga una vez al año sobre la utilidad de todo el año.
 
 | Ritmo | Ventas/año | USD 1M (dólar a $3.216) | Dólar a $4.000 |
 |---|---|---|---|
-| Quedarse en 3 cupos | 9 | 2040 | 2044 |
-| Crecer a 6 cupos (uno nuevo cada 3 meses desde sep-2027) | 18 | 2034 | 2036 |
-| **Crecer a 10 cupos con crédito para abrirlos** (hasta mar-2029) | **30** | **sep 2032** | 2033 |
+| Quedarse en 3 cupos | 9 | sep 2040 | 2044 |
+| Crecer a 6 cupos (uno nuevo cada 3 meses desde sep-2027) | 18 | sep 2034 | 2036 |
+| **Crecer a 10 cupos con crédito para abrirlos** (hasta mar-2029) | **30** | **jul 2032** | jul 2033 |
 
 Patrimonio neto a fin de año (millones COP):
 
 | Año | 3 cupos | 6 cupos | 10 cupos |
 |---|---|---|---|
-| 2027 | 165 | 164 | 164 |
-| 2028 | 397 | 487 | 496 |
-| 2029 | 633 | 939 | 1.174 |
-| 2030 | 868 | 1.390 | 1.914 |
-| 2031 | 1.103 | 1.842 | 2.655 |
-| 2032 | 1.338 | 2.293 | 3.395 |
-| 2033 | 1.573 | 2.745 | 4.135 |
-| 2034 | 1.809 | 3.197 | 4.875 |
+| 2027 | 226 | 217 | 217 |
+| 2028 | 460 | 631 | 637 |
+| 2029 | 695 | 1.083 | 1.346 |
+| 2030 | 931 | 1.535 | 2.086 |
+| 2031 | 1.166 | 1.986 | 2.826 |
+| 2032 | 1.401 | 2.438 | 3.566 |
+| 2033 | 1.636 | 2.889 | 4.306 |
+| 2034 | 1.871 | 3.341 | 5.047 |
+
+**Hoja de ruta al millón (camino rápido)**
+
+| Fecha | Hito |
+|---|---|
+| Oct–dic 2026 | Preparar: cerrar 9844 y 9840, SAS, Margarita, contratista fijo |
+| Ene 2027 | Cupo 1 con plata propia |
+| Mar 2027 | Cupo 2 con el préstamo de ~$110–120M (por tramos: ~$60M ahora y ~$50M en junio) |
+| Jun 2027 | Cupo 3 |
+| Sep 2027 | **Puerta:** si los flips 3, 4 y 5 cumplieron 4 meses y $45M → cupo 4 (~$20M de crédito) |
+| Dic 2027 | Cupo 5 (~$40M de crédito); deuda máxima ~$170M; 5 ventas en 2027 |
+| 2028 | Cupos 6–9 (mar, jun, sep, dic) sin más crédito; 18 ventas |
+| Mar 2029 | Cupo 10 · **USD 250.000** (30 flips vendidos) |
+| May 2029 | Sin deudas |
+| May 2030 | **USD 500.000** · desde aquí ~30 ventas/año |
+| Jun 2031 | **USD 750.000** |
+| **Jul 2032** | **USD 1.000.000** (~130 flips vendidos) |
+
+*Lo que corre la fecha:* dólar a $4.000 → jul 2033; sin crédito para crecer → sep 2033;
+flips de 5 meses → dic 2033; vender en $160M (o comprar en $110M) → ene 2034.
 
 **Lo que pide el camino rápido**
 - **Puerta antes de crecer:** abrir el cupo 4 solo si los últimos 3 flips cumplieron 4 meses y ≥ $45M.
 - **Dónde comprar 30/año:** llevar el template a otras urbanizaciones (Robledo, Pajarito, Bello).
 - **A quién venderle 30/año:** 2–3 compradores al mes; pauta + WhatsApp como sistema, asesoras, aliado de crédito.
 - **Equipo de 8–10 personas** (modelado como +$2,5M/mes de fijos por cupo después del tercero).
-- **Crédito con tope:** deuda máxima simulada ~$240M; nunca más de lo que dejan 2 trimestres de
+- **Crédito con tope:** deuda máxima simulada ~$170M (dic 2027); nunca más de lo que dejan 2 trimestres de
   ventas, nunca crédito para sueldos.
 - **No sacar utilidades** (solo sueldos de $2M) hasta llegar; lo que repartan antes corre la fecha.
 
-*Sensibilidad (10 cupos):* venta $160M o compra $110M → 2034; flips de 6 meses → 2036. Sin
-crédito para crecer → un año después (2033).
 
 ## A quién sumar, y en qué orden
 
