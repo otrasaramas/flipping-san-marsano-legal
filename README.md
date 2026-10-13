@@ -9,6 +9,7 @@ operaciones de flipping inmobiliario en Colombia.
 ## Estructura
 - **`CLAUDE.md`** — guía del proyecto y playbook (léelo primero).
 - **`base-conocimiento-legal.md`** — conocimiento legal condensado, con artículos.
+- **`empresa/roles-y-flujo.md`** — quién hace qué (Sara/Nico), flujo de un flip y a quién sumar al equipo.
 - **`plantillas/`** — documentos genéricos reutilizables:
   - `00-checklist-promesa-compraventa.md`
   - `01-poder-especial-venta.md`

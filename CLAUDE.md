@@ -23,6 +23,8 @@ vez más nuestras promesas y contratos**.
   - `tributario-y-estructuracion.md`, `modelo-margen-y-renta.md` — números e impuestos.
   - `evitar-doble-escrituracion.md` — estructura de cesión.
   - minutas y `*-DEFINITIVO.docx` — documentos para firmar/revisar.
+- `empresa/` → organización del negocio: **roles Sara/Nico**, flujo de un flip,
+  plan de equipo (`roles-y-flujo.md`).
 - `plantillas/` → versiones **genéricas y reutilizables** (úsalas como punto de
   partida para cada nuevo flip).
 - `base-conocimiento-legal.md` → el "qué aprendimos" condensado, con artículos.
