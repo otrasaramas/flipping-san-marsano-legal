@@ -1,4 +1,4 @@
-# Quién hace qué — San Marsano (roles, flujo y plan a 3 cupos)
+# Quién hace qué — San Marsano (roles, flujo, plan a 3 cupos y el primer millón)
 
 > ⚠️ **Borrador de organización** (octubre de 2026). Lo legal y tributario es
 > apoyo informativo, **no asesoría**: confirmar con abogado y contador.
@@ -105,7 +105,8 @@ adelantadas, la escritura no se firma sin el folio saneado y registrado.
    ~$47M que deja cada flip. Empezar por Margarita **antes del 27-nov-2026** (renovar y
    ampliar, a nombre de la SAS). Con solo $70M, el cupo 3 se corre a jun–sep 2027.
 3. **Reinvertir todo hasta tener 3 cupos:** sueldos quietos en $2M; la utilidad se queda en
-   la SAS hasta junio de 2027. Con 3 cupos: ~9 ventas/año, ~$350M de utilidad antes de impuestos.
+   la SAS hasta junio de 2027. Con 3 cupos: ~9 ventas/año, ~$350M de utilidad antes de impuestos;
+   ahí deciden si reparten o siguen abriendo cupos (ver el millón de dólares).
 4. **Escalonar los cupos** (enero, marzo, junio): siempre uno comprando, uno en obra y uno vendiendo.
 
 **Línea de tiempo (cada flip: 1 mes compra/papeles · 2 meses obra y pauta · 1 mes venta)**
@@ -137,6 +138,44 @@ reservado; colchón de 4 meses. Compra en $110M o venta en $160M → ~$37M por f
 sin préstamo se corre ~4 meses. Si los $2M son para los dos, todo se adelanta ~4 meses. Por
 nómina de la SAS, cada $2M de sueldo cuesta ~$3M (deducible); con préstamo de $120M el cupo 3
 sigue llegando a mitad de 2027.
+
+## El primer millón de dólares
+
+Con la TRM a **$3.216** (7-oct-2026), USD 1M ≈ **$3.200 millones** de **patrimonio neto** de la
+SAS (caja + lo invertido en flips − deudas − impuestos). Cada flip deja ~**$25M netos**
+(ya restados sueldos, cuota e impuesto) → hacen falta **~130 flips vendidos**. El tiempo depende
+de cuántos flips vendan al año.
+
+| Ritmo | Ventas/año | USD 1M (dólar a $3.216) | Dólar a $4.000 |
+|---|---|---|---|
+| Quedarse en 3 cupos | 9 | 2040 | 2044 |
+| Crecer a 6 cupos (uno nuevo cada 3 meses desde sep-2027) | 18 | 2034 | 2036 |
+| **Crecer a 10 cupos con crédito para abrirlos** (hasta mar-2029) | **30** | **sep 2032** | 2033 |
+
+Patrimonio neto a fin de año (millones COP):
+
+| Año | 3 cupos | 6 cupos | 10 cupos |
+|---|---|---|---|
+| 2027 | 165 | 164 | 164 |
+| 2028 | 397 | 487 | 496 |
+| 2029 | 633 | 939 | 1.174 |
+| 2030 | 868 | 1.390 | 1.914 |
+| 2031 | 1.103 | 1.842 | 2.655 |
+| 2032 | 1.338 | 2.293 | 3.395 |
+| 2033 | 1.573 | 2.745 | 4.135 |
+| 2034 | 1.809 | 3.197 | 4.875 |
+
+**Lo que pide el camino rápido**
+- **Puerta antes de crecer:** abrir el cupo 4 solo si los últimos 3 flips cumplieron 4 meses y ≥ $45M.
+- **Dónde comprar 30/año:** llevar el template a otras urbanizaciones (Robledo, Pajarito, Bello).
+- **A quién venderle 30/año:** 2–3 compradores al mes; pauta + WhatsApp como sistema, asesoras, aliado de crédito.
+- **Equipo de 8–10 personas** (modelado como +$2,5M/mes de fijos por cupo después del tercero).
+- **Crédito con tope:** deuda máxima simulada ~$240M; nunca más de lo que dejan 2 trimestres de
+  ventas, nunca crédito para sueldos.
+- **No sacar utilidades** (solo sueldos de $2M) hasta llegar; lo que repartan antes corre la fecha.
+
+*Sensibilidad (10 cupos):* venta $160M o compra $110M → 2034; flips de 6 meses → 2036. Sin
+crédito para crecer → un año después (2033).
 
 ## A quién sumar, y en qué orden
 
