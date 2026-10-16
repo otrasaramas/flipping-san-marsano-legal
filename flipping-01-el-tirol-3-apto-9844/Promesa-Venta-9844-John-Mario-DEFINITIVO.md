@@ -68,8 +68,10 @@ cumplimiento de este contrato queda **sujeto a la aprobación y efectivo desembo
 del crédito hipotecario del FNA a favor de EL PROMITENTE COMPRADOR.
 - Si el FNA **no aprueba o no desembolsa** el crédito por causas **no imputables** a
   EL PROMITENTE COMPRADOR (p. ej. avalúo, estudio de títulos, políticas del FNA), el
-  contrato **se resolverá** y LA PROMITENTE VENDEDORA **restituirá las arras**, sin
-  lugar a cláusula penal ni a indemnización.
+  contrato **se resolverá** y LA PROMITENTE VENDEDORA **restituirá las arras,
+  descontando la suma de DOS MILLONES DE PESOS ($2.000.000)** por concepto de gastos
+  y lucro cesante por el tiempo que el inmueble estuvo fuera del mercado, sin lugar a
+  cláusula penal ni a otra indemnización.
 - Si el crédito no se perfecciona por **culpa o negligencia** de EL PROMITENTE
   COMPRADOR (no aportar documentos, desistir, etc.), se aplicará la **cláusula penal**
   (cláusula DÉCIMA).
@@ -93,9 +95,8 @@ PARÁGRAFO: la fecha podrá modificarse de común acuerdo mediante otrosí escri
 los tiempos que requiera el FNA para la legalización del crédito.
 
 **CLÁUSULA OCTAVA. – ENTREGA MATERIAL.** La entrega material y real del inmueble, a
-paz y salvo por servicios públicos, administración y predial, se realizará el día
-**[DD/MM/AAAA]** o dentro de los **[Número]** días siguientes al desembolso efectivo
-del crédito por parte del FNA.
+paz y salvo por servicios públicos, administración y predial, se realizará **dentro de
+los cinco (5) días siguientes al desembolso efectivo del crédito** por parte del FNA.
 
 **CLÁUSULA NOVENA. – GASTOS NOTARIALES Y DE REGISTRO.**
 - **Derechos notariales de la venta:** por partes iguales (50% y 50%).
