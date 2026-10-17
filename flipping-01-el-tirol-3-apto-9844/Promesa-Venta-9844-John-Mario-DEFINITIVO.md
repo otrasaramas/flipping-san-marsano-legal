@@ -73,8 +73,8 @@ del crédito hipotecario del FNA a favor de EL PROMITENTE COMPRADOR.
   y lucro cesante por el tiempo que el inmueble estuvo fuera del mercado, sin lugar a
   cláusula penal ni a otra indemnización.
 - Si el crédito no se perfecciona por **culpa o negligencia** de EL PROMITENTE
-  COMPRADOR (no aportar documentos, desistir, etc.), se aplicará la **cláusula penal**
-  (cláusula DÉCIMA).
+  COMPRADOR (no aportar documentos, desistir, etc.), **EL PROMITENTE COMPRADOR
+  perderá las arras entregadas** a favor de LA PROMITENTE VENDEDORA.
 
 **CLÁUSULA SEXTA. – SANEAMIENTO Y FACULTADES DEL APODERADO.** LA PROMITENTE VENDEDORA
 garantiza que el inmueble se entregará libre de pleitos pendientes, embargos y
@@ -106,12 +106,7 @@ los cinco (5) días siguientes al desembolso efectivo del crédito** por parte d
 - **Constitución e inscripción de la Hipoteca:** en su totalidad por EL PROMITENTE
   COMPRADOR.
 
-**CLÁUSULA DÉCIMA. – CLÁUSULA PENAL.** Se establece como pena, a favor de la parte
-cumplida o que se allane a cumplir, una suma equivalente al **[10% / 15%]** del valor
-total de la venta, exigible por vía ejecutiva sin necesidad de requerimiento ni
-constitución en mora, a los que las partes renuncian.
-
-**CLÁUSULA DÉCIMA PRIMERA. – NOTIFICACIONES Y DIRECCIONES.**
+**CLÁUSULA DÉCIMA. – NOTIFICACIONES Y DIRECCIONES.**
 LA PROMITENTE VENDEDORA (vía Apoderado):
 - Apoderado: Nicolás Mejía Acevedo — C.C. 1.028.031.225 de Apartadó
 - Dirección: Cl 31 Cr 43A-44, Medellín — Tel: 301 7175209
