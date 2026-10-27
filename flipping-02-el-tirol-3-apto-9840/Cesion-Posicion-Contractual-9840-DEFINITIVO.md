@@ -19,9 +19,31 @@ regirá por las leyes colombianas y en especial por las siguientes cláusulas:
 (C.C. 42.677.313) y su cónyuge **LUIS EDUARDO CHAVARRÍA CARVAJAL** (C.C. 70.576.777),
 por pertenecer el inmueble a la sociedad conyugal— y EL CEDENTE (como promitente
 comprador) se suscribió **Promesa de Compraventa el 21 de agosto de 2026** (con su
-otrosí), sobre el inmueble **Apartamento 9840**, Torre 7, Piso -2, urbanización El
-Tirol 3, **Matrícula Inmobiliaria 01N-5433420** de la ORIP de Medellín Norte, por un
-precio de **$120.000.000**.
+otrosí), por un precio de **$120.000.000**, sobre el siguiente bien inmueble:
+
+- **Inmueble:** Apartamento **No. 9840**, ubicado en la **Calle 66 N° 103B-56**, Piso
+  **-2** de la **Torre 7** del **Conjunto Residencial Tirol III** (P.H.), destinado a
+  vivienda, en Medellín (Antioquia).
+- **Área:** construida aproximada de **45,95 m²** y altura útil de 2,30 m.
+- **Matrícula Inmobiliaria:** **01N-5433420** de la ORIP de Medellín — Zona Norte.
+- **Dirección catastral:** Calle 66 # 103 B-56 Int. 9840 — **Código catastral:**
+  050010007609800380326901980040 — **NUPRE:** AAB0094JLYD.
+- **Reglamento de P.H.:** Escritura Pública **No. 4502 del 29 de noviembre de 2016**,
+  Notaría Cuarta de Medellín, debidamente registrada.
+- **Linderos generales:** Por el **Norte**, en línea recta, con muro de cierre de
+  fachada que lo separa de la zona común de circulación del edificio, entre los puntos
+  3 al 4, longitud aprox. **9,55 m**; por el **Sur**, en línea recta con muro de cierre
+  de fachada externo, entre los puntos 5 al 6, longitud aprox. **11,85 m**; por el
+  **Oriente**, en línea recta, con muro de cierre de fachada que lo separa en parte de
+  la zona común de circulación del edificio y vacío interior, entre los puntos 4 al 5,
+  longitud aprox. **4,40 m**; por el **Occidente**, en línea recta, en parte con muro
+  medianero que lo separa del Apartamento No. 9839 del piso -2 de la Torre 7, entre los
+  puntos 6 y 1, longitud aprox. **3,90 m**, y en parte en línea quebrada con buitrón
+  entre los puntos 1, 2 y 3, longitud aprox. **1,20 m**; por el **Cenit**, con losa que
+  lo separa del Apartamento No. 9940 del piso -1 de la Torre 7; por el **Nadir**, con
+  losa que lo separa del Apartamento No. 9740 de la Torre 7.
+
+PARÁGRAFO: la venta se hace como **cuerpo cierto**.
 
 **SEGUNDA. OBJETO — CESIÓN.** EL CEDENTE **cede la totalidad de su posición
 contractual** (derechos y obligaciones) en la referida promesa a favor de EL
