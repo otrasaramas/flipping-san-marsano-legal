@@ -92,3 +92,17 @@ vez más nuestras promesas y contratos**.
 - **Markdown → Word**: hay `python-docx` (instalar con pip) y `libreoffice`.
   Existe un convertidor reutilizable en `/tmp/md2docx.py` (recrearlo si el
   contenedor se recicló): maneja títulos, negritas, tablas, listas y citas.
+
+## Temporada de compra (27-oct → 26-nov-2026)
+- Meta: evaluar **4 zonas nuevas** (+ El Tirol en pisos accesibles como referencia),
+  **visitar 20 aptos**, hacer **~6 ofertas** y **firmar 1 promesa** antes del 26-nov.
+- **Tablero (fuente de verdad):** https://claude.ai/artifact/G2rUUYfm4bVpeLZyTwuVFZ
+  — datos en su base (`ArtifactData`): `config/temporada`, `zonas/<id>`, `aptos/<id>`.
+  Cifras en **millones COP**. Antes de escribir, leer el documento y pasar `if_version`.
+- Flujo: la usuaria pasa avisos/citas/apreciaciones por chat → Claude crea/actualiza
+  la ficha en `aptos` (estado: prospecto → cita → visitado → ofertado → negociando →
+  cerrado | descartado; `visita` con notas 1-5; `limitaciones`; `oferta`).
+- **Oferta máx.** = m² × reventa $/m² × (1 − 15 % margen − 8 % gastos) − remodelación
+  (por defecto 0,87 M/m², del flip 9844). No ofertar por encima.
+- ⚠️ El mutuo con Margarita vence el **27-nov-2026**: las arras de la nueva promesa no
+  salen de esa plata.
