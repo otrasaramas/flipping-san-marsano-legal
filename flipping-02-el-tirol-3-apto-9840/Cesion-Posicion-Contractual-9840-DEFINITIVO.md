@@ -9,8 +9,8 @@ Entre los suscritos a saber:
 identificado con la cédula de ciudadanía número **1.028.031.225**, quien obra como
 **promitente comprador** en la promesa de compraventa que más adelante se identifica;
 
-**EL CESIONARIO:** **SANTIAGO [APELLIDOS]**, mayor de edad, domiciliado en
-**[ciudad]**, identificado con la cédula de ciudadanía número **[__________]**;
+**EL CESIONARIO:** **SIMÓN ANGULO RAMÍREZ**, mayor de edad, domiciliado en
+**[ciudad]**, identificado con la cédula de ciudadanía número **1.023.527.392**;
 
 hemos celebrado el presente **CONTRATO DE CESIÓN DE POSICIÓN CONTRACTUAL**, que se
 regirá por las siguientes cláusulas:
@@ -38,14 +38,14 @@ promitente comprador. En consecuencia, la **escritura pública de compraventa se
 otorgará directamente** por los vendedores a favor de EL CESIONARIO.
 
 **CUARTA. PRECIO DE LA CESIÓN Y FORMA DE PAGO.** EL CESIONARIO pagará a EL CEDENTE,
-por esta cesión, la suma de **$[__________ — TOTAL POR CONFIRMAR]** M/CTE, que se
-cancelará **de contado** así:
-1. **$10.000.000** M/CTE a título de **arras / cuota inicial**, imputables al precio,
-   que EL CESIONARIO entrega a EL CEDENTE **a la firma del presente contrato**.
-2. El **cincuenta por ciento (50%)** del precio, **a la firma de la escritura pública
-   de compraventa** *(promesa/compraventa de cesión)* **[precisar hito]**.
-3. El **cincuenta por ciento (50%)** restante, **a la firma de la Escritura Pública**
-   de compraventa en la notaría.
+por esta cesión, la suma de **CIENTO CINCUENTA Y CINCO MILLONES DE PESOS M/CTE
+($155.000.000)**, que se cancelará **de contado** así:
+1. El **cincuenta por ciento (50%) — $77.500.000** M/CTE **a la firma del presente
+   contrato de cesión (compraventa de la posición contractual)**. De esta suma,
+   **$10.000.000** se entregan a título de **arras imputables al precio** y el saldo
+   de **$67.500.000** completa el primer 50%.
+2. El **cincuenta por ciento (50%) restante — $77.500.000** M/CTE **a la firma de la
+   Escritura Pública** de compraventa en la notaría.
 
 *(Este valor refleja el reembolso de lo que EL CEDENTE pagó a los vendedores más la
 valorización/remodelación y su margen, y constituye ingreso gravado de EL CEDENTE.)*
@@ -83,5 +83,5 @@ En constancia, se firma en Medellín, a los **[__]** días de **[____]** de 202_
 
 EL CEDENTE                                    EL CESIONARIO
 _____________________________                _____________________________
-NICOLÁS MEJÍA ACEVEDO                         SANTIAGO [APELLIDOS]
-C.C. 1.028.031.225                            C.C. [__________]
+NICOLÁS MEJÍA ACEVEDO                         SIMÓN ANGULO RAMÍREZ
+C.C. 1.028.031.225                            C.C. 1.023.527.392
