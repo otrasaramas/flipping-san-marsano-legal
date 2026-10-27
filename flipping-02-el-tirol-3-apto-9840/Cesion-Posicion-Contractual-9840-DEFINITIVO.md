@@ -10,7 +10,7 @@ identificado con la cédula de ciudadanía número **1.028.031.225**, quien obra
 **promitente comprador** en la promesa de compraventa que más adelante se identifica;
 
 **EL CESIONARIO:** **SIMÓN ANGULO RAMÍREZ**, mayor de edad, domiciliado en
-**[ciudad]**, identificado con la cédula de ciudadanía número **1.023.527.392**;
+**Medellín**, identificado con la cédula de ciudadanía número **1.023.527.392**;
 
 hemos celebrado el presente **CONTRATO DE CESIÓN DE POSICIÓN CONTRACTUAL**, que se
 regirá por las leyes colombianas y en especial por las siguientes cláusulas:
@@ -23,13 +23,17 @@ otrosí), sobre el inmueble **Apartamento 9840**, Torre 7, Piso -2, urbanizació
 Tirol 3, **Matrícula Inmobiliaria 01N-5433420** de la ORIP de Medellín Norte, por un
 precio de **$120.000.000**.
 
-**SEGUNDA. FACULTAD DE CEDER (SIN NOTIFICACIÓN NI AUTORIZACIÓN).** La citada promesa
-**faculta expresamente a EL CEDENTE para ceder su posición contractual**, designar un
-tercero y/o disponer que la escritura se otorgue a favor de quien él indique, **sin
-necesidad de aviso previo ni de autorización de la parte vendedora** (cláusula **[__]**
-de la promesa del 21 de agosto de 2026). En virtud de dicha estipulación, la presente
-cesión **no requiere la comparecencia, notificación ni consentimiento** de los
-contratantes cedidos (vendedores).
+**SEGUNDA. FACULTAD DE CEDER (SIN NOTIFICACIÓN NI AUTORIZACIÓN).** La citada promesa,
+en su **cláusula DÉCIMA SEGUNDA (Cesión, comercialización de la promesa y designación
+de tercero comprador)**, **faculta expresa, previa, irrevocable e incondicionalmente a
+EL CEDENTE para ceder, transferir, negociar o disponer de su posición contractual**,
+total o parcialmente, a favor de cualquier persona que determine, **incluso por un
+valor superior al pactado**, sin requerirse autorización adicional, consentimiento
+posterior ni suscripción de documento alguno por la parte vendedora; y en su
+**cláusula DÉCIMA TERCERA**, la parte vendedora **renunció a oponerse, a exigir aumento
+de precio y a reclamar participación en el mayor valor**. En virtud de ello, la
+presente cesión **no requiere comparecencia, notificación ni consentimiento** de los
+contratantes cedidos.
 
 **TERCERA. OBJETO — CESIÓN.** EL CEDENTE **cede la totalidad de su posición
 contractual** (derechos y obligaciones) en la referida promesa a favor de EL
@@ -57,17 +61,24 @@ CEDENTE podrá retenerlas** a título de parte de la pena (cláusula SÉPTIMA), 
 perjuicio de las demás acciones. Si el negocio no se realiza por **causa imputable a EL
 CEDENTE**, este las **restituirá** a EL CESIONARIO.
 
-**SEXTA. ESTADO DEL PRECIO DE LA PROMESA.** Las partes dejan constancia de que EL
-CEDENTE **ya pagó en su totalidad a los vendedores el precio de la promesa
-($120.000.000)**, por lo que **no queda saldo pendiente a favor de los vendedores**. El
-único pago pendiente es el **precio de la cesión** (cláusula CUARTA), a favor de EL
-CEDENTE.
+**SEXTA. ESTADO DEL PRECIO DE LA PROMESA Y PRECIO DE LA ESCRITURA.** Las partes dejan
+constancia de que EL CEDENTE **ya pagó en su totalidad a los vendedores el precio de la
+promesa ($120.000.000)**, por lo que **no queda saldo pendiente a favor de los
+vendedores**. En consecuencia:
+- La **Escritura Pública de compraventa (vendedores → EL CESIONARIO)** se otorgará por
+  el **precio de la promesa, $120.000.000**, que se declarará **pagado en su totalidad
+  con anterioridad** por conducto de EL CEDENTE (promitente comprador original).
+- El **precio de la cesión ($155.000.000)** de la cláusula CUARTA, que paga EL
+  CESIONARIO a EL CEDENTE, **comprende el reembolso de los $120.000.000** que EL CEDENTE
+  pagó a los vendedores **más su margen ($35.000.000)**, el cual constituye **ingreso
+  gravado de EL CEDENTE** y queda así **plenamente documentado**.
 
 **SÉPTIMA. CLÁUSULA PENAL.** La parte que incumpla cualquiera de las obligaciones aquí
-pactadas pagará a la otra, a título de **pena**, una suma equivalente al **veinte por
-ciento (20%) del precio de la cesión — $31.000.000**, como estimación anticipada de
-perjuicios. Conforme al **Art. 1594 C.C.**, EL CEDENTE podrá, a su elección, **exigir
-el cumplimiento** del contrato **o** la pena, y en todo caso esta **no extingue** la
+pactadas pagará a la otra, a título de **pena**, una suma equivalente al **quince por
+ciento (15%) del precio de la cesión — $23.250.000**, como estimación anticipada de
+perjuicios, exigible por vía ejecutiva sin constitución en mora ni requerimiento.
+Conforme al **Art. 1594 C.C.**, EL CEDENTE podrá, a su elección, **exigir el
+cumplimiento** del contrato **o** la pena, y en todo caso esta **no extingue** la
 obligación principal cuando se exija el cumplimiento. Las arras retenidas (cláusula
 QUINTA) se **imputan** a esta pena.
 
@@ -79,14 +90,16 @@ penal, sin necesidad de requerimiento judicial previo, al que las partes renunci
 
 **NOVENA. SANEAMIENTO DEL FOLIO (CONDICIÓN).** Para la escritura, el folio deberá
 quedar **libre de limitaciones**, con la **cancelación registrada** del Patrimonio de
-Familia, el levantamiento de la Afectación a Vivienda Familiar (con Martha y Luis
-Eduardo) y el **retiro registrado de ISVIMED** (prohibición de transferencia y derecho
-de preferencia, Ley 1537 de 2012). El saneamiento está a cargo de la parte vendedora
-en los términos de la promesa.
+Familia, el levantamiento de la Afectación a Vivienda Familiar y el **retiro registrado
+de ISVIMED** (prohibición de transferencia y derecho de preferencia, Ley 1537 de 2012).
+La **gestión y los costos** del levantamiento del Patrimonio de Familia y de la
+Afectación a Vivienda Familiar serán **asumidos por EL CEDENTE (Nicolás)**, sin
+perjuicio de la **comparecencia** que legalmente deban hacer los vendedores (Martha y
+Luis Eduardo) donde el trámite lo exija.
 
 **DÉCIMA. ESCRITURACIÓN.** La escritura pública de compraventa se otorgará a favor de
-EL CESIONARIO en la Notaría **[__]** del Círculo de **[Medellín]**, el día **12 de
-noviembre de 2026** a las **[hora]**. El **pago del 50% final es simultáneo** con la
+EL CESIONARIO en la **Notaría Cuarta (4ª) del Círculo de Medellín**, el día **12 de
+noviembre de 2026 a las 10:00 a.m.** El **pago del 50% final es simultáneo** con la
 firma de la escritura (EL CESIONARIO no recibe el título sin pagar, ni EL CEDENTE/los
 vendedores escrituran sin recibir el saldo).
 
@@ -115,9 +128,14 @@ pactado es el real de la operación.**
 expresas y exigibles** y presta **mérito ejecutivo** (Art. 422 C.G.P.) respecto de los
 pagos a cargo de EL CESIONARIO.
 
-**DÉCIMA QUINTA. GASTOS.** **[Definir: notariales de la escritura por partes iguales;
-registro, impuesto de registro y beneficencia por EL CESIONARIO; retención en la fuente
-según corresponda; gastos de saneamiento por la parte vendedora].**
+**DÉCIMA QUINTA. GASTOS.**
+- **Gastos notariales y rentas departamentales de la escritura:** por **partes iguales**
+  (50% / 50%).
+- **Registro e impuesto de registro / beneficencia de la escritura:** por **EL
+  CESIONARIO**.
+- **Levantamiento del Patrimonio de Familia y de la Afectación a Vivienda Familiar:**
+  por **EL CEDENTE (Nicolás)**.
+- **Retención en la fuente:** la que corresponda según la ley a cada parte.
 
 **DÉCIMA SEXTA. DOMICILIO Y LEY APLICABLE.** El domicilio contractual es **Medellín** y
 se aplican las leyes colombianas; las controversias se resolverán ante los jueces
