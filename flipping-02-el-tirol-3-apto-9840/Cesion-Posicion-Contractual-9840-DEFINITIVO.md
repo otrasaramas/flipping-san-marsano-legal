@@ -98,14 +98,15 @@ podrá, a su arbitrio, **declarar resuelta** la cesión y **recuperar su posici�
 contractual** como promitente comprador, reteniendo las arras y exigiendo la cláusula
 penal, sin necesidad de requerimiento judicial previo, al que las partes renuncian.
 
-**OCTAVA. SANEAMIENTO DEL FOLIO (CONDICIÓN).** Para la escritura, el folio deberá
-quedar **libre de limitaciones**, con la **cancelación registrada** del Patrimonio de
-Familia, el levantamiento de la Afectación a Vivienda Familiar y el **retiro registrado
-de ISVIMED** (prohibición de transferencia y derecho de preferencia, Ley 1537 de 2012).
-La **gestión y los costos** del levantamiento del Patrimonio de Familia y de la
-Afectación a Vivienda Familiar serán **asumidos por EL CEDENTE (Nicolás)**, sin
-perjuicio de la **comparecencia** que legalmente deban hacer los vendedores (Martha y
-Luis Eduardo) donde el trámite lo exija.
+**OCTAVA. SANEAMIENTO DEL FOLIO.** El **retiro de ISVIMED** (prohibición de
+transferencia y derecho de preferencia, Ley 1537 de 2012) **ya se encuentra
+registrado**, por lo que esa limitación está **saneada**. Restan únicamente la
+**cancelación del Patrimonio de Familia** y el **levantamiento de la Afectación a
+Vivienda Familiar**, los cuales se otorgarán **simultáneamente, en el mismo acto de la
+Escritura Pública de compraventa** (cláusula NOVENA). La **gestión y los costos** de
+ambos trámites serán **asumidos por EL CEDENTE (Nicolás)**, sin perjuicio de la
+**comparecencia** que deban hacer en la escritura los vendedores (Martha y Luis
+Eduardo) y las demás personas que la ley exija.
 
 **NOVENA. ESCRITURACIÓN.** La escritura pública de compraventa se otorgará a favor de
 EL CESIONARIO en la **Notaría Cuarta (4ª) del Círculo de Medellín**, el día **12 de
@@ -113,8 +114,11 @@ noviembre de 2026 a las 10:00 a.m.** El **pago del 50% final es simultáneo** co
 firma de la escritura (EL CESIONARIO no recibe el título sin pagar, ni EL CEDENTE/los
 vendedores escrituran sin recibir el saldo).
 
-PARÁGRAFO: si para esa fecha el folio **no está saneado** (cláusula OCTAVA), la fecha se
-**prorrogará** de común acuerdo mediante otrosí hasta el saneamiento registrado,
+PARÁGRAFO: en el **mismo acto** de esta Escritura Pública se otorgarán la **cancelación
+del Patrimonio de Familia** y el **levantamiento de la Afectación a Vivienda Familiar**
+(cláusula OCTAVA), de modo que, con el registro de la escritura, el inmueble quede libre
+de toda limitación. Si por algún trámite pendiente no fuere posible escriturar en la
+fecha prevista, las partes la **prorrogarán** de común acuerdo mediante otrosí,
 manteniéndose el precio, las arras y los pagos ya efectuados; el 50% final se pagará el
 día de la escritura efectivamente otorgada.
 
