@@ -75,6 +75,21 @@ Alimenta: **Crédito del comprador**, **Velocidad de venta**.
 
 ---
 
+## Lo que decide (en este orden)
+1. **¿Cuadra la plata?** Compra máx. $/m² = reventa $/m² × 0,77 − 0,87
+   (margen 15 % + gastos 8 %, remodelación 0,87 M/m²). Si los aptos sin remodelar
+   se venden por encima, la zona no sirve a precio de lista. Ej. El Tirol:
+   3,81 × 0,77 − 0,87 ≈ **2,06 M/m²** (se pagó 2,63).
+2. **¿Alguien compra el remodelado a ese precio, rápido y con crédito?** Debe haber
+   remodelados **vendidos** (no solo publicados) y avalúos que den.
+3. **¿Hay suficientes vendedores?** Aptos iguales × ~4 % que se venden al año.
+   400 aptos ≈ 16 ventas/año; 100 aptos ≈ 4 (no alcanza para repetir).
+4. **¿Lo malo se arregla con obra?** Lo de adentro sí (cocina, baño, pisos). Lo de
+   afuera no (escaleras, loma, ruido, oscuridad, ubicación): eso lo pagas en cada
+   venta.
+5. Desempates: papeles típicos, administración y comunidad, hacia dónde va la zona
+   (metro/metrocable, vías, obra nueva compitiendo al lado).
+
 ## Descarta la zona de una si…
 - Está en **zona de amenaza alta** del POT.
 - La **cartera** pasa del 30 % o viene una **cuota extraordinaria** grande.
