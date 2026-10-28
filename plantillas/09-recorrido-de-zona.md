@@ -78,8 +78,9 @@ Alimenta: **Crédito del comprador**, **Velocidad de venta**.
 ## Lo que decide (en este orden)
 1. **¿Cuadra la plata?** Compra máx. $/m² = reventa $/m² × 0,77 − 0,87
    (margen 15 % + gastos 8 %, remodelación 0,87 M/m²). Si los aptos sin remodelar
-   se venden por encima, la zona no sirve a precio de lista. Ej. El Tirol:
-   3,81 × 0,77 − 0,87 ≈ **2,06 M/m²** (se pagó 2,63).
+   se venden por encima, la zona no sirve a precio de lista. Ej. El Tirol
+   (venta rápida $150–160 M → 3,37 M/m²): 3,37 × 0,77 − 0,87 ≈ **1,73 M/m²**
+   ≈ $80 M por apto de 46 m² (se pagó $120–121 M, o sea 2,63 M/m²).
 2. **¿Alguien compra el remodelado a ese precio, rápido y con crédito?** Debe haber
    remodelados **vendidos** (no solo publicados) y avalúos que den.
 3. **¿Hay suficientes vendedores?** Aptos iguales × ~4 % que se venden al año.
