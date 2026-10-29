@@ -32,9 +32,29 @@
 ## Descripción: cabida y linderos
 
 PISO -2, APARTAMENTO 9844, TORRE 7, con área de **45,95 m²** y coeficiente de
-**0,148 %**, cuyos linderos y demás especificaciones obran en la Escritura
-N.º 4502 del 29-11-2016, Notaría Cuarta de Medellín (Art. 8, Parágrafo 1,
-Ley 1579 de 2012).
+**0,148 %**. NUPRE: AAB0094JMCE. Catastral: 050010007609800380326901980044.
+El certificado remite los linderos a la Escritura N.º 4502 del 29-11-2016,
+Notaría Cuarta de Medellín (Art. 8, Parágrafo 1, Ley 1579 de 2012).
+
+**Linderos (tomados de la promesa/escritura 4502-2016), altura útil 2,30 m:**
+- **Norte:** línea recta con muro de cierre de fachada que lo separa de la zona
+  común de circulación perimetral, puntos 1-2, aprox. **11,85 m**.
+- **Sur:** línea recta con muro de cierre de fachada que lo separa de la zona
+  común de circulación del edificio, puntos 5-6, aprox. **9,55 m**.
+- **Oriente:** en parte línea recta con muro medianero que lo separa del
+  **Apto 9843** (piso -2, Torre 7), puntos 2-3, **3,90 m**; y en parte línea
+  quebrada entre puntos 3, 4 y 5 con buitrón, **1,20 m**.
+- **Occidente:** línea recta con muro medianero que lo separa del **Cuarto
+  Técnico** (piso -2, Torre 7), puntos 6-1, **4,40 m**.
+- **Cenit:** losa que lo separa del **Apto 9944** (piso -1, Torre 7).
+- **Nadir:** losa que lo separa del **suelo** de la Torre 7.
+
+> ⚠️ **Estado actual (certificado 15-oct-2026, 12 anotaciones):** ISVIMED
+> **cancelado** — prohibición de transferencia (anot. 007) y derecho de
+> preferencia (anot. 008) cancelados por anotaciones **011 y 012 (12-jun-2026)**.
+> **Siguen vigentes:** Patrimonio de Familia (anot. 009) y Afectación a Vivienda
+> Familiar (anot. 010, beneficiario Wilson Betancur Quiroz). Titular: María
+> Villaly Montoya Serna. Sin embargos ni hipotecas.
 
 ## Origen / Complementación
 
