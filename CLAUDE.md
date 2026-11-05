@@ -99,6 +99,12 @@ vez más nuestras promesas y contratos**.
 - **Tablero (fuente de verdad):** https://claude.ai/artifact/G2rUUYfm4bVpeLZyTwuVFZ
   — datos en su base (`ArtifactData`): `config/temporada`, `zonas/<id>`, `aptos/<id>`.
   Cifras en **millones COP**. Antes de escribir, leer el documento y pasar `if_version`.
+- **Hoja de trabajo en Google Drive (desde 5-nov, la usuaria la edita):**
+  "San Marsano · Temporada de compra nov-2026" — fileId
+  `1rgyOuruBw9Oy4lhz_3vjHNDZlVp-wtXubW0mOV2BMFY` (Drive de marsaproyectoss@gmail.com).
+  Hojas: Apartamentos, Zonas, Supuestos. El conector de Drive solo crea y lee:
+  para analizar, leerla con `read_file_content`; no se puede editar su contenido.
+  Las citas van a Google Calendar.
 - Flujo: la usuaria pasa avisos/citas/apreciaciones por chat → Claude crea/actualiza
   la ficha en `aptos` (estado: prospecto → cita → visitado → ofertado → negociando →
   cerrado | descartado; `visita` con notas 1-5; `limitaciones`; `oferta`).
