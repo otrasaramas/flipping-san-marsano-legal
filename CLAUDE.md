@@ -102,9 +102,12 @@ vez más nuestras promesas y contratos**.
 - **Hoja de trabajo en Google Drive (desde 5-nov, la usuaria la edita):**
   "San Marsano · Temporada de compra nov-2026" — fileId
   `1rgyOuruBw9Oy4lhz_3vjHNDZlVp-wtXubW0mOV2BMFY` (Drive de marsaproyectoss@gmail.com).
-  Hojas: Apartamentos, Zonas, Supuestos. El conector de Drive solo crea y lee:
-  para analizar, leerla con `read_file_content`; no se puede editar su contenido.
-  Las citas van a Google Calendar.
+  Hojas: Apartamentos, Zonas, Supuestos. El conector de Drive solo crea y lee
+  (`read_file_content`); para EDITAR celdas hace falta el conector **Google Sheets**
+  (update_values) conectado con la cuenta marsaproyectoss@gmail.com.
+  Las citas van al calendario **FLIPPING** (calendarId
+  `31b9bcb60d64b504faf86529c85d738df91d7a28630bab2d059d57ed199c134e@group.calendar.google.com`),
+  no al personal. Los apartamentos remodelados son solo comparables ("chismosear").
 - Flujo: la usuaria pasa avisos/citas/apreciaciones por chat → Claude crea/actualiza
   la ficha en `aptos` (estado: prospecto → cita → visitado → ofertado → negociando →
   cerrado | descartado; `visita` con notas 1-5; `limitaciones`; `oferta`).
