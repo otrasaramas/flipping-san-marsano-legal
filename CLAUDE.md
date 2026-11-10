@@ -108,6 +108,10 @@ vez más nuestras promesas y contratos**.
   Las citas van al calendario **FLIPPING** (calendarId
   `31b9bcb60d64b504faf86529c85d738df91d7a28630bab2d059d57ed199c134e@group.calendar.google.com`),
   no al personal. Los apartamentos remodelados son solo comparables ("chismosear").
+  Vocabulario de la usuaria: **"arreglado"** = terminado (no obra gris) pero SIN
+  remodelar → sí es candidato. **"Obra gris"** = sin acabados (obra más cara).
+  Hoja de avisos que ella mantiene: "Lista de apartamentos nuevos" (fileId
+  `1ziRmw-Hi2DiGOyvSACRseLI0e1X55mSOk0c6LikSWK8`).
 - Flujo: la usuaria pasa avisos/citas/apreciaciones por chat → Claude crea/actualiza
   la ficha en `aptos` (estado: prospecto → cita → visitado → ofertado → negociando →
   cerrado | descartado; `visita` con notas 1-5; `limitaciones`; `oferta`).
